@@ -1,1 +1,71 @@
-Hello World
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="file:///c:/MarkdownTool/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+
+    <!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>   -->
+    <script src="file:///c:/MarkdownTool/marked.js/marked.min.js"></script>
+
+<script>
+'use strict';
+
+(function () {
+var markdownText = (function () {/*/
+
+<!--- ----------------------------------------
+マークダウン開始
+----------------------------------------- --->
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+
+<!--- ----------------------------------------
+マークダウン終了
+----------------------------------------------
+・JavaScriptを使用しているため、上記のマークダウンでは次の制限があります
+  ・[*]の前後に[/]が付く表現は誤動作するので
+    [%*][*%][%*%]として表現してください。
+    (実際には後方にスラッシュが付くもので誤動作しますが
+    何にせよ[*]と[/]の組み合わせは使わない方がよいです)
+  ・script終了タグを記入すると誤動作するので
+    [<%script>]と表現してください。
+----------------------------------------- --->
+
+/*/}).toString();
+
+  markdownText = markdownText.split('/*/')[1];
+
+  var replaceAll = function(str, before, after) {
+    var result = str
+    do {
+      str = result;
+      result = str.replace(before, after);
+    } while (str !== result);
+      return result;
+  };
+
+  markdownText = replaceAll(markdownText, '%*', '/*');
+  markdownText = replaceAll(markdownText, '*%', '*%');
+  markdownText = replaceAll(markdownText, '%script', '/script');
+
+  markdownText = marked(markdownText);
+
+  window.onload = function(){
+      document.body.innerHTML += markdownText;
+  };
+}())
+
+</script>
+  </head>
+  <body>
+  </body>
+</html>
