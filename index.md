@@ -1,6 +1,6 @@
 # 西尾 真 / Shin Nishio
-* username parton, tsujishin
-* twitter: [@shin_tsujido](https://twitter.com/shin_tsujido)
+* username: parton, tsujishin
+* twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * GitHub: [parton-quark](https://github.com/parton-quark)
 * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
@@ -115,17 +115,21 @@
 * Skymemo S
 
 ## Robot-anime (including games, novels, and so on)
-* All Gundam (especially ∀ and Victory)
+* Yoshiyuki Tomino's anime
+* All Gundam (especially ∀, Reconguista, and Victory)
 * Full Matal Panic!
 * Code Geass
 * ARMORED CORE(1,3,SL,LR,FA,V,VD)
 * Muv-Luv Alternative
-* Yoshiyuki Tomino's anime
+* MACROSS (Zero, F)
+
 
 ## Video Game
 * Recently played
   * Dark Souls(1,2,3)
-  * BF
+  * STAR WARS Jedi: Fallen Order
+  * Sekiro
+  * BFV
   * MGS
   * 戦場のヴァルキュリア4
 * King's Field
