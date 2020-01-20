@@ -7,14 +7,14 @@
 * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
 
 # Education
-* 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High shcool April 2010 - March 2016
-* B.A.(expected, March 2020)
-Keio University Faculty of Policy Management, Japan
+* 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High Shcool April 2010 - March 2016
+* B.A.(April 2016 - March 2020 expected)
+  * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
   * Major area of study: Quantum Information Processing
   * thesis: TBA
-* Doctoral course (5 year)
-    * NII (National Institute of Informatics) /  SOKENDAI , Japan  from April 2020
-
+* Doctoral course (5 year, April 2020 -)
+  * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎化学分野
+  * NII (National Institute of Informatics) /  SOKENDAI , Japan
 
 * Student assistant (Teaching Assistant) at Keio University
 
@@ -30,14 +30,15 @@ Keio University Faculty of Policy Management, Japan
 # Work experience
 ## Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門）
 * [IPA](https://www.ipa.go.jp/index-e.html)(Information-technology Promotion Agency, JAPAN)  独立行政法人情報処理推進機構
-* Place: November 2018- March 2020
-Exploratory IT Human Resources Project (MITOU TARGET Program) of Information-technology Promotion Agency, Japan (IPA), Ministry of Economy, Trade and Industry, Japan
+* November 2018- March 2020
+* Place: Exploratory IT Human Resources Project (MITOU TARGET Program) of Information-technology Promotion Agency, Japan (IPA), Ministry of Economy, Trade and Industry, Japan
 * Adopted project:
 "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura\
 「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛
 
-## [Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)
-* Quantum Software Development
+## Development assistance for quantum computer interface (Temporary worker)
+* Place: [Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)
+* Q-LEAP Network-based research center for quantum information processing
 * May 2018 –  March 2020
 
 ## AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表
@@ -74,17 +75,16 @@ Exploratory IT Human Resources Project (MITOU TARGET Program) of Information-tec
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) 査読あり
 
 # Award
-* WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ   発表者: 西尾 真 (慶應義塾大学)
+* WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ   発表者: **西尾 真** (慶應義塾大学)
 * 2016年度 能代宇宙イベント CanSat(模擬人工衛星)競技 ミッションの部タイプエス賞第2位およびUNISON賞
-
-
 
 # Hobby?
 
 ## 競プロ Programming contest
 * [IBM Quantum Challenge](https://quantumchallenge19.com/)
-    *  IBMQ/Qiskit's first competitive programming contest
+    * IBMQ/Qiskit's first competitive programming contest
     * Judges: Takahiko Satoh, **Shin Nishio**, and Atsushi Matsuo
+    * Planning and Translation: Yuri Kobayashi
     * Sponsored by: IBM
     * Co-organized by: Keio University Quantum Computing Center
     * Powerd by AngelHack
@@ -104,10 +104,10 @@ Exploratory IT Human Resources Project (MITOU TARGET Program) of Information-tec
 
 ## [Satellite](https://lyncs-keio.net/advance/)
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞受賞\
-Sachikaは全天周形式のタイムラプス映像を撮影することに特化しており、プラネタリウムなどで天文普及活動に役立てることを目指しています。 高解像度で撮影できる魚眼レンズを搭載しながら小型化するために、構体への部品の配置・電力・熱・通信といった点を緻密に設計する必要がありました。西尾は模型製作を担当。
+  西尾は模型製作を担当。
 
 * 衛星設計コンテスト2017年 アイデアの部「光格子時計測位衛星 ツキアカリ」応募\
-光格子時計とは、現在「1秒」の基準として使われる原子時計に比べ相対誤差が1000分の1程度に抑えられる高精度の時計です。 これを、電波の到達時間を利用して位置を測定する衛星測位(GPS、準天頂衛星システムなど)に応用するシステムを提案しました。 位置測定の精度が向上すれば、測位システムを利用する交通システムやドローンの自動化に大きく貢献できます。 また、地球のジオイド(地球の形状を表す面)など、理学分野の観測も一層精度よく行うことが可能です。西尾は代表者。
+  代表。
 * Cansat
 
 ## Camera
