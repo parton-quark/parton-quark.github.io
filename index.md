@@ -3,8 +3,9 @@
 * twitter: [@shin_tsujido](https://twitter.com/shin_tsujido)
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * GitHub: [parton-quark](https://github.com/parton-quark)
-* Annict: [@ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
+* Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
 * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
+
 # Education
 * 聖光学院高等学校/Seiko Gakuin High shcool April 2010 - March 2016
 * B.A.(expected, March 2020)
@@ -49,6 +50,7 @@ Exploratory IT Human Resources Project (MITOU TARGET Program) of Information-tec
 * 2017
 
 # Hobby?
+
 ## 競プロ Programming contest
 * [IBM Quantum Challenge](https://quantumchallenge19.com/)
     *  IBMQ/Qiskit's first competitive programming contest
