@@ -13,7 +13,7 @@
   * Major area of study: Quantum Information Processing
   * thesis: TBA
 * Doctoral course (5 year, April 2020 -)
-  * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎化学分野
+  * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野
   * NII (National Institute of Informatics) /  SOKENDAI , Japan
 
 * Student assistant (Teaching Assistant) at Keio University
@@ -30,16 +30,17 @@
 # Work experience
 ## Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門）
 * [IPA](https://www.ipa.go.jp/index-e.html)(Information-technology Promotion Agency, JAPAN)  独立行政法人情報処理推進機構
-* November 2018- March 2020
 * Place: Exploratory IT Human Resources Project (MITOU TARGET Program) of Information-technology Promotion Agency, Japan (IPA), Ministry of Economy, Trade and Industry, Japan
+* November 2018- March 2020
 * Adopted project:
 "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura\
 「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛
 
 ## Development assistance for quantum computer interface (Temporary worker)
 * Place: [Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)
-* Q-LEAP Network-based research center for quantum information processing
 * May 2018 –  March 2020
+* Q-LEAP Network-based research center for quantum information processing
+
 
 ## AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表
 * Place: Keio University SFC Media Center [AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)
@@ -61,8 +62,8 @@
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Yulu Pan, Takahiko Satoh, and Rodney Van Meter
-  * 2nd International Workshop on Quantum Compilation(IWQC)
-  * Hilton San Diego Resort & Spa, San Diego, USA(8 November 2018) 査読あり
+* 2nd International Workshop on Quantum Compilation(IWQC)
+* Hilton San Diego Resort & Spa, San Diego, USA(8 November 2018) 査読あり
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Takahiko Satoh and Rodney Van Meter,
@@ -106,7 +107,7 @@
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞受賞\
   西尾は模型製作を担当。
 
-* 衛星設計コンテスト2017年 アイデアの部「光格子時計測位衛星 ツキアカリ」応募\
+* 2017年第25回衛星設計コンテスト アイデアの部「光格子時計測位衛星 ツキアカリ」応募\
   代表。
 * Cansat
 
