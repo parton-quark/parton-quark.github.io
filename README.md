@@ -1,5 +1,6 @@
 # 西尾 真 / Shin Nishio
 * username: parton, tsujishin
+* email: parton@sfc.wide.ad.jp
 * twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * GitHub: [parton-quark](https://github.com/parton-quark)
@@ -56,28 +57,36 @@
 
 ## Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation
 * **Shin Nishio**, Yulu Pan, Takahiko Satoh, Hideharu Amano, Rodney Van Meter
-* arXiv[quant-ph] 1903.10963
+* [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
 
 # International Conference
+## Compilation Process for Multi-Controlled Gates in Qiskit
+* [Poster PDF](https://parton-quark.github.io/poster/FQST2020_compilation.pdf)
+* **Shin Nishio**, Takahiko Satoh, and Rodney Van Meter
+* International Workshop for Young Researchers on the Future of Quantum Science and Technology(FQST2020)
+* National Institute of Informatics, Tokyo, Japan (February 3rd - 6th, 2020) 査読あり
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Yulu Pan, Takahiko Satoh, and Rodney Van Meter
-* 2nd International Workshop on Quantum Compilation(IWQC)
+* 2nd International Workshop on Quantum Compilation(IWQC2018)
 * Hilton San Diego Resort & Spa, San Diego, USA(8 November 2018) 査読あり
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Takahiko Satoh and Rodney Van Meter,
-* 18th Asian Quantum Information Science Conference(AQIS)
+* 18th Asian Quantum Information Science Conference(AQIS2018)
 * Nagoya University, Nagoya, Japan(9 September 2018) 査読あり
 
 ## An Automated Tool for Mapping Program Variables to Qubits on the IBM Q Topologies
 * **Shin Nishio**, Takahiko Satoh and Rodney Van Meter,
-* International Conference on challenges in Quantum Information Science(CQIS)
+* International Conference on challenges in Quantum Information Science(CQIS2018)
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) 査読あり
+
 
 # Award
 * WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ   発表者: **西尾 真** (慶應義塾大学)
 * 2016年度 能代宇宙イベント CanSat(模擬人工衛星)競技 ミッションの部タイプエス賞第2位およびUNISON賞
+* 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞
+* Qiskit Camp Asia 2019 the 1st Place hackathon champions
 
 # Hobby?
 
