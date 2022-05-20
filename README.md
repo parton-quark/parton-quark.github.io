@@ -34,7 +34,7 @@
 |2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
 
 |Period|Place|Period|Job title|description|
-|--------------------|-----------------------|-----------------------|-------------------------------------|
+|--------------------|-----------------------|-----------------------|-----------------------|-------------------------------------|
 |April 2022 - Current|Japan Society for the Promotion of Science 日本学術振興会(JSPS)|Research Fellowship for Young Scientists 特別研究員 DC1|--|
 |April 2022 - Current|Okinawa Institute of Science and Technology Graduate University 沖縄科学技術大学院大学(OIST)|Teaching Fellowship|--|
 |April 2020 - March 2022|National Institute of Informatics 国立情報学研究所(NII)|Research Assistant|--|
