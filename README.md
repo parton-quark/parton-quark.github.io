@@ -33,6 +33,13 @@
 |2017|春学期 spring|32140|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|For students who follow the school rules of 2007, content is the same as "REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)"(simultaneous holding).|
 |2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
 
+|Period|Place|Period|Job title|description|
+|April 2022 - Current|Japan Society for the Promotion of Science 日本学術振興会(JSPS)|Research Fellowship for Young Scientists 特別研究員 DC1|--|
+|April 2022 - Current|Okinawa Institute of Science and Technology Graduate University 沖縄科学技術大学院大学(OIST)|Teaching Fellowship|--|
+|April 2020 - March 2022|National Institute of Informatics 国立情報学研究所(NII)|Research Assistant|--|
+|July 2020 - December 2020|IBM Research - Tokyo  IBM東京基礎研究所|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
+
+
 ## Research Fellowship for Young Scientists 特別研究員 DC1
 * Place: Japan Society for the Promotion of Science 日本学術振興会
 * April 2022 - Current
