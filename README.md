@@ -1,3 +1,5 @@
+% Shin Nishio's profile
+
 # 西尾 真 / Shin Nishio
 * username: parton, tsujishin
 * email: parton@sfc.wide.ad.jp
@@ -83,7 +85,7 @@ Jordan Kemp (University of Chicago), **Shin Nishio (Keio University)**, Ryosuke 
 
 # International Conference
 ## Reducing the resources needed to implement quantum error correction codes using quantum multiplexing
-* **Shin Nishio**1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1 
+* **Shin Nishio**1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1
 * 1. SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2. National Inst. of Informatics (Japan), 3. QOLS, Blackett Lab., Imperial College London (UK), 4. NTT Basic Res. Labs. & NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)
 * The 15th Pacific Rim Conference on Lasers and Electro-Optics (CLEO Pacific Rim, CLEO-PR 2022)
   * Category: C7. Quantum Optics, Atomic Physics and Quantum Information
