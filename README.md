@@ -33,57 +33,22 @@
 |2017|春学期 spring|32140|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|For students who follow the school rules of 2007, content is the same as "REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)"(simultaneous holding).|
 |2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
 
-|Period|Place|Period|Job title|description|
-|--------------------|-----------------------|-----------------------|-----------------------|-------------------------------------|
+|Period|Place|Job title|description|
+|--------------------|-----------------------|-----------------------|---------------------------------------|
 |April 2022 - Current|Japan Society for the Promotion of Science 日本学術振興会(JSPS)|Research Fellowship for Young Scientists 特別研究員 DC1|--|
 |April 2022 - Current|Okinawa Institute of Science and Technology Graduate University 沖縄科学技術大学院大学(OIST)|Teaching Fellowship|--|
 |April 2020 - March 2022|National Institute of Informatics 国立情報学研究所(NII)|Research Assistant|--|
 |July 2020 - December 2020|IBM Research - Tokyo  IBM東京基礎研究所|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
-
-
-## Research Fellowship for Young Scientists 特別研究員 DC1
-* Place: Japan Society for the Promotion of Science 日本学術振興会
-* April 2022 - Current
-
-## Teaching Fellowship
-* Place: Okinawa Institute of Science and Technology Graduate University 沖縄科学技術大学院大学（OIST）
-* April 2022 - Current
-
-## Research Assistant
-* Place: National Institute of Informatics
-* April 2020 - March 2022
-
-## Research And Development Intern
-* Place: IBM Research - Tokyo  IBM東京基礎研究所
-* July 2020 - December 2020
-* [IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.
-
-## Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門）
-* [IPA](https://www.ipa.go.jp/index-e.html)(Information-technology Promotion Agency, JAPAN)  独立行政法人情報処理推進機構
-* Place: Exploratory IT Human Resources Project (MITOU TARGET Program) of Information-technology Promotion Agency, Japan (IPA), Ministry of Economy, Trade and Industry, Japan
-* November 2018- March 2020
-* Adopted project:
-"Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura\
-「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛
-
-## Development assistance for quantum computer interface (Temporary worker)
-* Place: [Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)
-* May 2018 –  March 2022
-* Q-LEAP Network-based research center for quantum information processing
+|November 2018- March 2020|[IPA](https://www.ipa.go.jp/index-e.html)(Information-technology Promotion Agency, JAPAN) 独立行政法人情報処理推進機構, Ministry of Economy, Trade and Industry, Japan 経済産業省 |Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura\
+「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
+|May 2018 –  March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing
   * [IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/)  Create Problems and Judge.
   * Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra)
 Thomas Alexander (talexander@ibm.com), Anastasia Marchenkova (a.marchenkova@gmail.com), Sara Metwalli (sara@keio.jp), Shin Nishio (parton@sfc.wide.ad.jp), Maika Takita (mtakita@us.ibm.com), Ryo Wakizaka (suibaka@gmail.com)
   * Qiskit-community-tutorial "Implementation of Quantum Walks on Cycle Graph"
-Jordan Kemp (University of Chicago), **Shin Nishio (Keio University)**, Ryosuke Satoh (Keio University), Desiree Vogt-Lee (University of Queensland), and Tanisha Bassan (The Knowledge Society)
-
-## AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表
-* Place: Keio University SFC Media Center [AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)
-* April 2017– March 2020
-* Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.
-
-## Application development, part time job
-* [Link-U inc.](https://www.link-u.co.jp/)
-* 2017
+Jordan Kemp (University of Chicago), **Shin Nishio (Keio University)**, Ryosuke Satoh (Keio University), Desiree Vogt-Lee (University of Queensland), and Tanisha Bassan (The Knowledge Society)|
+|April 2017– March 2020|Keio University SFC Media Center [AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
+|2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
 
 
 # Paper
