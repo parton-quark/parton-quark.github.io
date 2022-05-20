@@ -24,6 +24,16 @@
     *  OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS)
 
 # Work experience
+|Period|Place|Job title|description|
+|----------|-----------------------|-----------------------|---------------------------------------|
+|April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、区分：計算機システム関連 「量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築」　受入研究者：宇野　毅明 教授(総合研究大学院大学複合科学研究科情報学専攻)|
+|April 2022 - Current|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|Quantum Information Science and Technology Unit, led by Kae Nemoto|
+|April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
+|July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
+|November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
+|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing| <ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/)  Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander (talexander@ibm.com), Anastasia Marchenkova (a.marchenkova@gmail.com), Sara Metwalli (sara@keio.jp), Shin Nishio (parton@sfc.wide.ad.jp), Maika Takita (mtakita@us.ibm.com), Ryo Wakizaka (suibaka@gmail.com) * Qiskit-community-tutorial "Implementation of Quantum Walks on Cycle Graph", Jordan Kemp (University of Chicago), **Shin Nishio (Keio University)**, Ryosuke Satoh (Keio University), Desiree Vogt-Lee (University of Queensland), and Tanisha Bassan (The Knowledge Society)/li></ul>|
+|April 2017 – March 2020|Keio University SFC Media Center [AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
+|2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
 * Student Assistant (Teaching Assistant) at Keio University
 
 |year|semester|subject number|class|teacher|description|
@@ -35,76 +45,74 @@
 |2017|春学期 spring|32140|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|For students who follow the school rules of 2007, content is the same as "REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)"(simultaneous holding).|
 |2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
 
-|Period|Place|Job title|description|
-|----------|-----------------------|-----------------------|---------------------------------------|
-|April 2022 - Current|[Japan Society for the Promotion of Science 日本学術振興会(JSPS)](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、区分：計算機システム関連 「量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築」　受入研究者：宇野　毅明 教授(総合研究大学院大学複合科学研究科情報学専攻)|
-|April 2022 - Current|[Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/) 沖縄科学技術大学院大学(OIST)|Teaching Fellowship|Quantum Information Science and Technology Unit, led by Kae Nemoto|
-|April 2020 - March 2022|[National Institute of Informatics 国立情報学研究所(NII)](https://www.nii.ac.jp/)|Research Assistant|--|
-|July 2020 - December 2020|IBM Research - Tokyo  IBM東京基礎研究所|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
-|November 2018- March 2020|[IPA](https://www.ipa.go.jp/index-e.html)(Information-technology Promotion Agency, JAPAN) 独立行政法人情報処理推進機構, Ministry of Economy, Trade and Industry, Japan 経済産業省 |Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
-|May 2018 –  March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing| <ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/)  Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander (talexander@ibm.com), Anastasia Marchenkova (a.marchenkova@gmail.com), Sara Metwalli (sara@keio.jp), Shin Nishio (parton@sfc.wide.ad.jp), Maika Takita (mtakita@us.ibm.com), Ryo Wakizaka (suibaka@gmail.com) * Qiskit-community-tutorial "Implementation of Quantum Walks on Cycle Graph", Jordan Kemp (University of Chicago), **Shin Nishio (Keio University)**, Ryosuke Satoh (Keio University), Desiree Vogt-Lee (University of Queensland), and Tanisha Bassan (The Knowledge Society)/li></ul>|
-|April 2017– March 2020|Keio University SFC Media Center [AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
-|2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
 
 # Paper
-
 ## Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation
 * **Shin Nishio**, Yulu Pan, Takahiko Satoh, Hideharu Amano, Rodney Van Meter
-* [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
+* ACM Journal on Emerging Technologies in Computing Systems [Vol. 16, No. 3](https://dl.acm.org/doi/abs/10.1145/3386162)
+* preprint: [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
 
 # International Conference
 ## Reducing the resources needed to implement quantum error correction codes using quantum multiplexing
 * **Shin Nishio**1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1
 * 1: SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2: National Inst. of Informatics (Japan), 3: QOLS, Blackett Lab., Imperial College London (UK), 4: NTT Basic Res. Labs. & NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)
-* The 15th Pacific Rim Conference on Lasers and Electro-Optics (CLEO Pacific Rim, CLEO-PR 2022)
-  * Category: C7. Quantum Optics, Atomic Physics and Quantum Information
+* [The 15th Pacific Rim Conference on Lasers and Electro-Optics](https://www.cleopr2022.org/) (CLEO Pacific Rim, CLEO-PR 2022)
 * Sapporo Convention Center, Hokkaido, JAPAN (31 July - 5 August, 2022)
 
 ## InQuIR: Intermediate Representation for Interconnected Quantum Compters
 * **Shin Nishio** and Ryo Wakizaka
-* Quantum Resource Estimation (QRE2022)
-* New York, USA co-located with International Symposium on Computer Architecture (ISCA), 18 June 2022
+* [Quantum Resource Estimation](https://www.quantumresource.org/) (QRE2022)
+* New York, USA co-located with International Symposium on Computer Architecture (ISCA) (18 June 2022) Peer-reviewed 査読あり
 
 ## Hardness of braided quantum circuit optimization in the surface code
 * Kunihiro Wasa, **Shin Nishio**, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi and Kae Nemoto
-* Quantum Resource Estimation (QRE2022)
-* New York, USA co-located with International Symposium on Computer Architecture (ISCA), 18 June 2022
+* [Quantum Resource Estimation](https://www.quantumresource.org/) (QRE2022)
+* New York, USA co-located with International Symposium on Computer Architecture (ISCA) (18 June 2022) Peer-reviewed 査読あり
 
 ## Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes
 * **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William Munro and Kae Nemoto
-* 21st Asian Quantum Information Science Conference (AQIS2021)
+* [21st Asian Quantum Information Science Conference](http://aqis-conf.org/2021/) (AQIS2021)
 * fully virtual conference, hosted by University of Tokyo, Japan, September 1 – September 4, 2021
 Peer-reviewed 査読あり
 
 ## Compilation Process for Multi-Controlled Gates in Qiskit
 * [Poster PDF](https://parton-quark.github.io/poster/FQST2020_compilation.pdf)
 * **Shin Nishio**, Takahiko Satoh, and Rodney Van Meter
-* International Workshop for Young Researchers on the Future of Quantum Science and Technology(FQST2020)
+* [International Workshop for Young Researchers on the Future of Quantum Science and Technology](https://fqst2020.wordpress.com/) (FQST2020)
 * National Institute of Informatics, Tokyo, Japan (February 3rd - 6th, 2020)
 Peer-reviewed 査読あり
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Yulu Pan, Takahiko Satoh, and Rodney Van Meter
-* 2nd International Workshop on Quantum Compilation(IWQC2018)
+* [2nd International Workshop on Quantum Compilation](https://msoeken.github.io/iwqc18.html) (IWQC2018)
 * Hilton San Diego Resort & Spa, San Diego, USA co-located with ICCAD (8 November 2018)
 Peer-reviewed 査読あり
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Takahiko Satoh and Rodney Van Meter,
-* 18th Asian Quantum Information Science Conference(AQIS2018)
+* [18th Asian Quantum Information Science Conference](http://aqis-conf.org/2018/) (AQIS2018)
 * Nagoya University, Nagoya, Japan(9 September 2018)
 Peer-reviewed 査読あり
 
 ## An Automated Tool for Mapping Program Variables to Qubits on the IBM Q Topologies
 * **Shin Nishio**, Takahiko Satoh and Rodney Van Meter,
-* International Conference on challenges in Quantum Information Science(CQIS2018)
+* [International Conference on challenges in Quantum Information Science](https://qis1.ex.nii.ac.jp/workshop/CQIS2018/) (CQIS2018)
 * National Institute for Informatics, Tokyo, Japan(9 April 2018)
 Peer-reviewed 査読あり
 
+# Symposium
+## 「量子多重通信路を用いた高次元量子Reed-Solomon符号のリソース削減」
+* **西尾 真**
+* Quantum Internet Task Force [第二回 Student Session](https://qitf.org/news/20210928-2nd-student-session/)
+* fully virtual, October 1st, 2021
+## 「量子多重通信路上の量子Reed-Solomon符号」
+* **西尾 真**
+* Q-LEAP人材育成プログラム 量子技術高等教育拠点 [第一回量子技術 Workshop](https://qacademy.jp/workshop/)
+* fully virtual, March 25th, 2021
 
 # Award
-* Qiskit Camp Asia 2019 the 1st Place hackathon champions
-* WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ   発表者: **西尾 真** (慶應義塾大学)
+* [Qiskit Camp Asia 2019 the 1st Place hackathon champions](https://medium.com/qiskit/recap-2019-qiskit-camp-asia-26e02dfbd51e)
+* [WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ](https://www.wide.ad.jp/News/2018/20181223.html)   発表者: **西尾 真** (慶應義塾大学)
 * 2016年度 能代宇宙イベント CanSat(模擬人工衛星)競技 ミッションの部タイプエス賞第2位およびUNISON賞
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞
 
