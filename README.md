@@ -14,10 +14,12 @@
 * B.A.(April 2016 - March 2020)
   * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
   * Major area of study: Quantum Information Processing
-  * thesis: Controlled Gate Compilation for IBMQ
+  * [Advancing Quantum Architecture (AQUA)](https://aqua.sfc.wide.ad.jp/home.html) Group in [RG(so called Murai-ken)](https://rg.sfc.keio.ac.jp/)
+  * Thesis: Controlled Gate Compilation for IBMQ, supervised by Takahiko Satoh, Rondney Van Meter and Jun Murai
 * Doctoral course (5 year, April 2020 -)
   * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野
     *  NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
+    * supervised by Takeaki Uno and Kae Nemoto
   * 沖縄科学技術大学院大学（OIST）特別研究生
     *  OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS)
 
@@ -35,9 +37,9 @@
 
 |Period|Place|Job title|description|
 |----------|-----------------------|-----------------------|---------------------------------------|
-|April 2022 - Current|Japan Society for the Promotion of Science 日本学術振興会(JSPS)|Research Fellowship for Young Scientists 特別研究員 DC1|--|
-|April 2022 - Current|Okinawa Institute of Science and Technology Graduate University 沖縄科学技術大学院大学(OIST)|Teaching Fellowship|--|
-|April 2020 - March 2022|National Institute of Informatics 国立情報学研究所(NII)|Research Assistant|--|
+|April 2022 - Current|[Japan Society for the Promotion of Science 日本学術振興会(JSPS)](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、区分：計算機システム関連 「量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築」　受入研究者：宇野　毅明 教授(総合研究大学院大学複合科学研究科情報学専攻)|
+|April 2022 - Current|[Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/) 沖縄科学技術大学院大学(OIST)|Teaching Fellowship|Quantum Information Science and Technology Unit, led by Kae Nemoto|
+|April 2020 - March 2022|[National Institute of Informatics 国立情報学研究所(NII)](https://www.nii.ac.jp/)|Research Assistant|--|
 |July 2020 - December 2020|IBM Research - Tokyo  IBM東京基礎研究所|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
 |November 2018- March 2020|[IPA](https://www.ipa.go.jp/index-e.html)(Information-technology Promotion Agency, JAPAN) 独立行政法人情報処理推進機構, Ministry of Economy, Trade and Industry, Japan 経済産業省 |Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
 |May 2018 –  March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing| <ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/)  Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander (talexander@ibm.com), Anastasia Marchenkova (a.marchenkova@gmail.com), Sara Metwalli (sara@keio.jp), Shin Nishio (parton@sfc.wide.ad.jp), Maika Takita (mtakita@us.ibm.com), Ryo Wakizaka (suibaka@gmail.com) * Qiskit-community-tutorial "Implementation of Quantum Walks on Cycle Graph", Jordan Kemp (University of Chicago), **Shin Nishio (Keio University)**, Ryosuke Satoh (Keio University), Desiree Vogt-Lee (University of Queensland), and Tanisha Bassan (The Knowledge Society)/li></ul>|
@@ -53,7 +55,7 @@
 # International Conference
 ## Reducing the resources needed to implement quantum error correction codes using quantum multiplexing
 * **Shin Nishio**1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1
-* 1. SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2. National Inst. of Informatics (Japan), 3. QOLS, Blackett Lab., Imperial College London (UK), 4. NTT Basic Res. Labs. & NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)
+* 1: SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2: National Inst. of Informatics (Japan), 3: QOLS, Blackett Lab., Imperial College London (UK), 4: NTT Basic Res. Labs. & NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)
 * The 15th Pacific Rim Conference on Lasers and Electro-Optics (CLEO Pacific Rim, CLEO-PR 2022)
   * Category: C7. Quantum Optics, Atomic Physics and Quantum Information
 * Sapporo Convention Center, Hokkaido, JAPAN (31 July - 5 August, 2022)
