@@ -23,6 +23,7 @@
 
 # Work experience
 * Student Assistant (Teaching Assistant) at Keio University
+
 |year|semester|subject number|class|teacher|description|
 |----|------------|-----|----------------|-------|----------------------|
 |2018|春学期 spring|14270|線形の理論 LINEAR ALGEBRA(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "LINEAR ALGEBRA\[DS1](GIGA/GG/GI)"(simultaneous holding).|
