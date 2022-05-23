@@ -31,7 +31,7 @@
 |April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
 |July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
 |November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
-|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|<ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka </li><li> Qiskit-community-tutorial "Implementation of Quantum Walks on Cycle Graph", Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan</li></ul>|
+|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|<ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka </li><li> Qiskit-community-tutorial ["Implementation of Quantum Walks on Cycle Graph"](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/terra/qis_adv/quantum_walk.ipynb), Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan</li></ul>|
 |April 2017 – March 2020|Keio University SFC Media Center [AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
 |2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
 
@@ -73,7 +73,7 @@
 ## Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes
 * **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William Munro and Kae Nemoto
 * [21st Asian Quantum Information Science Conference](http://aqis-conf.org/2021/) (AQIS2021)
-* fully virtual conference, hosted by University of Tokyo, Japan, September 1 – September 4, 2021 Peer-reviewed 査読あり
+* Fully virtual conference, hosted by University of Tokyo, Japan, September 1 – September 4, 2021 Peer-reviewed 査読あり
 
 ## Compilation Process for Multi-Controlled Gates in Qiskit
 * [Poster PDF](https://parton-quark.github.io/poster/FQST2020_compilation.pdf)
@@ -119,7 +119,8 @@
 
 ## An Automated Tool for Mapping Program Variables to Qubits on the IBM Q Topologies (poster)
 * **西尾 真**
-* [第24回 量子情報関西 Student Chapter](https://sites.google.com/site/qikansai/past/24meeting), Kyoto University, May 15th, 2018
+* [第24回 量子情報関西 Student Chapter](https://sites.google.com/site/qikansai/past/24meeting)
+* Kyoto University, May 15th, 2018
 
 # Award
 * [Qiskit Camp Asia 2019 the 1st Place hackathon champions](https://medium.com/qiskit/recap-2019-qiskit-camp-asia-26e02dfbd51e)
