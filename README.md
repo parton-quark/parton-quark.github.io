@@ -31,9 +31,10 @@
 |April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
 |July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
 |November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
-|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing| <ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/)  Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander (talexander@ibm.com), Anastasia Marchenkova (a.marchenkova@gmail.com), Sara Metwalli (sara@keio.jp), Shin Nishio (parton@sfc.wide.ad.jp), Maika Takita (mtakita@us.ibm.com), Ryo Wakizaka (suibaka@gmail.com) * Qiskit-community-tutorial "Implementation of Quantum Walks on Cycle Graph", Jordan Kemp (University of Chicago), **Shin Nishio (Keio University)**, Ryosuke Satoh (Keio University), Desiree Vogt-Lee (University of Queensland), and Tanisha Bassan (The Knowledge Society)/li></ul>|
+|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|<ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka </li><li> Qiskit-community-tutorial "Implementation of Quantum Walks on Cycle Graph", Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan</li></ul>|
 |April 2017 – March 2020|Keio University SFC Media Center [AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
 |2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
+
 * Student Assistant (Teaching Assistant) at Keio University
 
 |year|semester|subject number|class|teacher|description|
@@ -56,7 +57,7 @@
 ## Reducing the resources needed to implement quantum error correction codes using quantum multiplexing
 * **Shin Nishio**1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1
 * 1: SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2: National Inst. of Informatics (Japan), 3: QOLS, Blackett Lab., Imperial College London (UK), 4: NTT Basic Res. Labs. & NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)
-* [The 15th Pacific Rim Conference on Lasers and Electro-Optics](https://www.cleopr2022.org/) (CLEO Pacific Rim, CLEO-PR 2022)
+* [The 15th Pacific Rim Conference on Lasers and Electro-Optics](https://www.cleopr2022.org/) (CLEO Pacific Rim, CLEO-PR 2022) Peer-reviewed 査読あり
 * Sapporo Convention Center, Hokkaido, JAPAN (31 July - 5 August, 2022)
 
 ## InQuIR: Intermediate Representation for Interconnected Quantum Compters
@@ -72,52 +73,61 @@
 ## Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes
 * **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William Munro and Kae Nemoto
 * [21st Asian Quantum Information Science Conference](http://aqis-conf.org/2021/) (AQIS2021)
-* fully virtual conference, hosted by University of Tokyo, Japan, September 1 – September 4, 2021
-Peer-reviewed 査読あり
+* fully virtual conference, hosted by University of Tokyo, Japan, September 1 – September 4, 2021 Peer-reviewed 査読あり
 
 ## Compilation Process for Multi-Controlled Gates in Qiskit
 * [Poster PDF](https://parton-quark.github.io/poster/FQST2020_compilation.pdf)
 * **Shin Nishio**, Takahiko Satoh, and Rodney Van Meter
 * [International Workshop for Young Researchers on the Future of Quantum Science and Technology](https://fqst2020.wordpress.com/) (FQST2020)
-* National Institute of Informatics, Tokyo, Japan (February 3rd - 6th, 2020)
-Peer-reviewed 査読あり
+* National Institute of Informatics, Tokyo, Japan (February 3rd - 6th, 2020) Peer-reviewed 査読あり
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Yulu Pan, Takahiko Satoh, and Rodney Van Meter
 * [2nd International Workshop on Quantum Compilation](https://msoeken.github.io/iwqc18.html) (IWQC2018)
-* Hilton San Diego Resort & Spa, San Diego, USA co-located with ICCAD (8 November 2018)
-Peer-reviewed 査読あり
+* Hilton San Diego Resort & Spa, San Diego, USA co-located with ICCAD (8 November 2018) Peer-reviewed 査読あり
 
 ## High Fidelity Qubit Mapping for IBM Q
 * **Shin Nishio**, Takahiko Satoh and Rodney Van Meter,
 * [18th Asian Quantum Information Science Conference](http://aqis-conf.org/2018/) (AQIS2018)
-* Nagoya University, Nagoya, Japan(9 September 2018)
-Peer-reviewed 査読あり
+* Nagoya University, Nagoya, Japan(9 September 2018) Peer-reviewed 査読あり
 
 ## An Automated Tool for Mapping Program Variables to Qubits on the IBM Q Topologies
 * **Shin Nishio**, Takahiko Satoh and Rodney Van Meter,
 * [International Conference on challenges in Quantum Information Science](https://qis1.ex.nii.ac.jp/workshop/CQIS2018/) (CQIS2018)
-* National Institute for Informatics, Tokyo, Japan(9 April 2018)
-Peer-reviewed 査読あり
+* National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
 # Symposium
 ## 「量子多重通信路を用いた高次元量子Reed-Solomon符号のリソース削減」
 * **西尾 真**
 * Quantum Internet Task Force [第二回 Student Session](https://qitf.org/news/20210928-2nd-student-session/)
 * fully virtual, October 1st, 2021
+
 ## 「量子多重通信路上の量子Reed-Solomon符号」
 * **西尾 真**
 * Q-LEAP人材育成プログラム 量子技術高等教育拠点 [第一回量子技術 Workshop](https://qacademy.jp/workshop/)
 * fully virtual, March 25th, 2021
 
+## High Fidelity Qubit Mapping for IBMQ (poster) **最優秀ポスター賞**
+* **西尾 真**
+* [WIDEプロジェクト 2018年12月研究会](https://www.wide.ad.jp/News/2018/20181223.html)
+* Tokyo University, December 22-23, 2018
+
+## 「NISQプロセッサ上量子ビットへのプログラム変数配置自動化と高フィデリティ化」
+* **西尾 真** (慶應義塾大学 バンミーター研究室)
+* [物性研短期研究会 量子情報・物性の新潮流 -量子技術が生み出す多様な物性と情報処理技術-](http://www.qi.t.u-tokyo.ac.jp/workshop/NQuIC2018/access.html)
+* 東京大学物性研究所, , 2018年7月31日〜8月3日
+
+## An Automated Tool for Mapping Program Variables to Qubits on the IBM Q Topologies (poster)
+* **西尾 真**
+* [第24回 量子情報関西 Student Chapter](https://sites.google.com/site/qikansai/past/24meeting), Kyoto University, May 15th, 2018
+
 # Award
 * [Qiskit Camp Asia 2019 the 1st Place hackathon champions](https://medium.com/qiskit/recap-2019-qiskit-camp-asia-26e02dfbd51e)
-* [WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ](https://www.wide.ad.jp/News/2018/20181223.html)   発表者: **西尾 真** (慶應義塾大学)
-* 2016年度 能代宇宙イベント CanSat(模擬人工衛星)競技 ミッションの部タイプエス賞第2位およびUNISON賞
+* [WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ](https://www.wide.ad.jp/News/2018/20181223.html) **西尾 真** (慶應義塾大学)
+* [2016年度 能代宇宙イベント](http://unisec.jp/archives/1842) CanSat(模擬人工衛星)競技 ミッションの部 タイプエス賞第2位およびUNISON賞 [慶應義塾大学宇宙科学総合研究会(LYNCS)](https://lyncs-keio.net/) SNSミッションチーム
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞
 
-# Hobby?
-
+# Hobby
 ## 競プロ Programming contest
 * [IBM Quantum Challenge](https://quantumchallenge19.com/)
     * IBMQ/Qiskit's first competitive programming contest
@@ -172,7 +182,7 @@ Peer-reviewed 査読あり
 ## Video Game
 * Recently played
   * FROM SOFTWARE
-    * King's Field, Demon's souls, Dark Souls(1,2,3), Sekiro, Bloodborne, ELDEN RING
+    * King's Field, Demon's souls, Dark Souls(1,2,3), Sekiro, Déraciné, Bloodborne, ELDEN RING, AC
   * STAR WARS Jedi: Fallen Order
   * Battle Field V
   * Metal Gear Solid
