@@ -2,7 +2,8 @@
 
 # 西尾 真 / Shin Nishio
 * username: parton, tsujishin
-* email: parton@sfc.wide.ad.jp
+* email: parton at sfc.wide.ad.jp
+* ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
 * twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * GitHub: [parton-quark](https://github.com/parton-quark)
@@ -10,7 +11,7 @@
 * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
 
 # Education
-* 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High Shcool April 2010 - March 2016
+* 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High School April 2010 - March 2016
 * B.A.(April 2016 - March 2020)
   * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
   * Major area of study: Quantum Information Processing
@@ -26,12 +27,12 @@
 # Work experience
 |Period|Place|Job title|description|
 |----------|-----------------------|-----------------------|---------------------------------------|
-|April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築」　受入研究者：宇野　毅明 教授(総合研究大学院大学複合科学研究科情報学専攻)|
+|April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻)|
 |April 2022 - Current|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|Quantum Information Science and Technology Unit, led by Kae Nemoto|
 |April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
-|July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Create Problems and Judge.|
+|July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Problems Design and Judge.|
 |November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
-|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|<ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Create Problems and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka </li><li> Qiskit-community-tutorial ["Implementation of Quantum Walks on Cycle Graph"](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/terra/qis_adv/quantum_walk.ipynb), Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan</li></ul>|
+|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|<ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Problems Design and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka </li><li> Qiskit-community-tutorial ["Implementation of Quantum Walks on Cycle Graph"](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/terra/qis_adv/quantum_walk.ipynb), Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan</li></ul>|
 |April 2017 – March 2020|[Keio University SFC Media Center AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
 |2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
 
@@ -53,12 +54,24 @@
 * ACM Journal on Emerging Technologies in Computing Systems [Vol. 16, No. 3](https://dl.acm.org/doi/abs/10.1145/3386162)
 * preprint: [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
 
+## Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes
+* **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto
+* preprint: [arXiv[quant-ph] 2206.03712](https://arxiv.org/abs/2206.03712)
+
 # International Conference
 ## Reducing the resources needed to implement quantum error correction codes using quantum multiplexing
 * **Shin Nishio**1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1
 * 1: SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2: National Inst. of Informatics (Japan), 3: QOLS, Blackett Lab., Imperial College London (UK), 4: NTT Basic Res. Labs. & NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)
 * [The 15th Pacific Rim Conference on Lasers and Electro-Optics](https://www.cleopr2022.org/) (CLEO Pacific Rim, CLEO-PR 2022) Peer-reviewed 査読あり
 * Sapporo Convention Center, Hokkaido, JAPAN (31 July - 5 August, 2022)
+
+## Bridging the gap between theory and implementation via system software construction for quantum computing
+<details><summary>Abstract</summary><div>
+
+In recent years, the development of quantum computers has accelerated, and the number of qubits implemented on a quantum processor is rapidly increasing. In order to handle such processors, there is a growing trend to implement system software and language processing systems for quantum computers. This has revealed the practical resources required to implement quantum algorithms and quantum communication protocols that have been proposed theoretically, as well as efficient ways to handle quantum circuits. Furthermore, quantum programming contests are now being held using quantum programming SDKs such as Qiskit, enabling a deeper understanding of quantum computation through small-scale implementations of algorithms. In addition, by describing various quantum applications as concrete code, it has become clear what functions a language processor for quantum computers should have and even what kind of computational difficulties it may face. In this presentation, in addition to results and issues related to language processing systems for quantum computers, I will introduce InQuIR, an intermediate representation for distributed quantum computation[1].<br>[1] Shin Nishio and Ryo Wakizaka. (2022). InQuIR: Intermediate Representation for Interconnected Quantum Computers. In The 4th International Workshop on Quantum Resource Estimation (QRE2022).
+</div></details>
+
+* [Nano Korea 2022 Satellite Session II  ‘IBM Quantum Young Scientist’](https://www.nanokorea-sympo.or.kr/)
 
 ## InQuIR: Intermediate Representation for Interconnected Quantum Compters
 * **Shin Nishio** and Ryo Wakizaka
@@ -130,13 +143,16 @@
 
 # Hobby
 ## 競プロ Programming contest
-* [IBM Quantum Challenge](https://quantumchallenge19.com/)
-    * IBMQ/Qiskit's first competitive programming contest
-    * Judges: Takahiko Satoh, **Shin Nishio**, and Atsushi Matsuo
+* [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)
+    * IBMQ/Qiskit's first competitive programming contest in 2019
+    * Problems Design and Judges: Takahiko Satoh, **Shin Nishio**, and Atsushi Matsuo
     * Planning and Translation: Yuri Kobayashi
     * Sponsored by: IBM
     * Co-organized by: Keio University Quantum Computing Center
     * Powerd by AngelHack
+
+* [IBM Quantum Challenge 2020 fall](https://github.com/qiskit-community/IBMQuantumChallenge2020)
+    * Problems Design and Judges: Takahiko Satoh, **Shin Nishio**, and Atsushi Matsuo
 
 ## Hackathon
 * [Qiskit Camp 2019](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
