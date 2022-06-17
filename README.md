@@ -55,6 +55,7 @@
 NISQ (Noisy, Intermediate-Scale Quantum) computing requires error mitigation to achieve meaningful computation. Our compilation tool development focuses on the fact that the error rates of individual qubits are not equal, with a goal of maximizing the success probability of real-world subroutines such as an adder circuit. We begin by establishing a metric for choosing among possible paths and circuit alternatives for executing gates between variables placed far apart within the processor and test our approach on two IBM 20-qubit systems named Tokyo and Poughkeepsie. We find that a single-number metric describing the fidelity of individual gates is a useful but imperfect guide.
 Our compiler uses this subsystem and maps complete circuits onto the machine using a beam search-based heuristic that will scale as processor and program sizes grow. To evaluate the whole compilation process, we compiled and executed adder circuits, then calculated the Kullback–Leibler divergence (KL-divergence, a measure of the distance between two probability distributions). For a circuit within the capabilities of the hardware, our compilation increases estimated success probability and reduce KL-divergence relative to an error-oblivious placement.
 </div></details>
+
 * **Shin Nishio**, Yulu Pan, Takahiko Satoh, Hideharu Amano, Rodney Van Meter
 * ACM Journal on Emerging Technologies in Computing Systems [Vol. 16, No. 3](https://dl.acm.org/doi/abs/10.1145/3386162)
 * preprint: [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
@@ -64,6 +65,7 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 
 Quantum communication technologies will play an important role in quantum information processing in the near future as we network devices together. However, their implementation is still a challenging task due to both loss and gate errors. Quantum error correction codes are one important technique to address this issue. In particular, the Quantum Reed-Solomon codes are known to be quite efficient for quantum communication tasks. The high degree of physical resources required, however, makes such a code difficult to use in practice. A recent technique called quantum multiplexing has been shown to reduce resources by using multiple degrees of freedom of a photon. In this work, we propose a method to decompose multi-controlled gates using fewer CX gates via this quantum multiplexing technique. We show that our method can significantly reduce the required number of CX gates needed in the encoding circuits for the quantum Reed-Solomon code. Our approach is also applicable to many other quantum error correction codes and quantum algorithms, including Grovers and quantum walks.
 </div></details>
+
 * **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto
 * preprint: [arXiv[quant-ph] 2206.03712](https://arxiv.org/abs/2206.03712)
 
@@ -79,6 +81,7 @@ Quantum communication technologies will play an important role in quantum inform
 
 In recent years, the development of quantum computers has accelerated, and the number of qubits implemented on a quantum processor is rapidly increasing. In order to handle such processors, there is a growing trend to implement system software and language processing systems for quantum computers. This has revealed the practical resources required to implement quantum algorithms and quantum communication protocols that have been proposed theoretically, as well as efficient ways to handle quantum circuits. Furthermore, quantum programming contests are now being held using quantum programming SDKs such as Qiskit, enabling a deeper understanding of quantum computation through small-scale implementations of algorithms. In addition, by describing various quantum applications as concrete code, it has become clear what functions a language processor for quantum computers should have and even what kind of computational difficulties it may face. In this presentation, in addition to results and issues related to language processing systems for quantum computers, I will introduce InQuIR, an intermediate representation for distributed quantum computation[1].<br>[1] Shin Nishio and Ryo Wakizaka. (2022). InQuIR: Intermediate Representation for Interconnected Quantum Computers. In The 4th International Workshop on Quantum Resource Estimation (QRE2022).
 </div></details>
+
 * [Nano Korea 2022 Satellite Session II  ‘IBM Quantum Young Scientist’](https://www.nanokorea-sympo.or.kr/)
 
 ## InQuIR: Intermediate Representation for Interconnected Quantum Compters
@@ -87,6 +90,7 @@ In recent years, the development of quantum computers has accelerated, and the n
 Various physical constraints limit the number of qubits that can be implemented in a single quantum processor, and thus it is necessary to connect multiple quantum processors via quantum interconnects. While several compiler implementations for interconnected quantum computers have been proposed, there is no suitable programming language as their compilation target. We propose InQuIR, an intermediate language that can express communication and computation on distributed systems. InQuIR allows various compilation strategies to be evaluated under the same configuration and enhances the reusability of programs. Furthermore, InQuIR facilitates the introduction of static program analysis, such as type systems, to verify that a given program does not have specific program errors and bugs. We also discuss the challenges inherent in quantum programs running on distributed systems, such as failure of communication because of qubit memory exhaustion.<br>
 Index Terms: Quantum Interconnect, Quantum Computer Cluster, Distributed Quantum Computation, Quantum Programming Language
 </div></details>
+
 * **Shin Nishio** and Ryo Wakizaka
 * [Quantum Resource Estimation](https://www.quantumresource.org/) (QRE2022)
 * New York, USA co-located with International Symposium on Computer Architecture (ISCA) (18 June 2022) Peer-reviewed 査読あり
@@ -101,6 +105,7 @@ This ambiguity leaves room for doubt surrounding the most efficient circuits and
 In this paper, we show that the optimization of a special subset of braided quantum circuits is NP-hard and that as a result so too is the problem of braided circuit optimization more generally.<br>
 Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surface code, Braiding Circuits, Computational Complexity, NP-complete, Planar rectilinear 3SAT
 </div></details>
+
 * Kunihiro Wasa, **Shin Nishio**, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, and Kae Nemoto
 * [Quantum Resource Estimation](https://www.quantumresource.org/) (QRE2022)
 * New York, USA co-located with International Symposium on Computer Architecture (ISCA) (18 June 2022) Peer-reviewed 査読あり
