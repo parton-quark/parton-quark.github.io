@@ -19,15 +19,15 @@
   * Thesis: Controlled Gate Compilation for IBMQ, supervised by Takahiko Satoh, Rondney Van Meter and Jun Murai
 * Doctoral course (5 year, April 2020 -)
   * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野
-    *  NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
+    * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
     * supervised by Takeaki Uno and Kae Nemoto
-  * 沖縄科学技術大学院大学（OIST）特別研究生
-    *  OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS)
+  * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
+    *  OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
 
 # Work experience
 |Period|Place|Job title|description|
 |----------|-----------------------|-----------------------|---------------------------------------|
-|April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻)|
+|April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J20882/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
 |April 2022 - Current|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|Quantum Information Science and Technology Unit, led by Kae Nemoto|
 |April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
 |July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Problems Design and Judge.|
@@ -137,6 +137,25 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
 # Symposium
+## 量子ビット順序変更による Defect Braiding 量子回路最適化の計算量
+* [Poster PDF](https://parton-quark.github.io/poster/QEd_Summer_School_DBQC.pdf)
+* Kunihiro Wasa, <u>**Shin Nishio**</u>, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, and Kae Nemoto.
+* 量子教育プログラムオンラインコース・サマースクール [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) / Quantum EDucation For Future Technologies
+* 光・量子飛躍フラッグシッププログラム(Q-LEAP) 人材育成プログラム　/ Moonshot Research and Development Program
+* 沖縄科学技術大学院大学・リザンシーパークホテル谷茶ベイ, September 23rd-30th, 2022
+
+## InQuIR: Intermediate Representation for Interconncted Quantum Computers
+* <u>脇坂遼</u>、**西尾真**
+* 量子教育プログラムオンラインコース・サマースクール [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) / Quantum EDucation For Future Technologies
+* 光・量子飛躍フラッグシッププログラム(Q-LEAP) 人材育成プログラム　/ MOONSHOT Research and Development Program
+* 沖縄科学技術大学院大学・リザンシーパークホテル谷茶ベイ, September 23rd-30th, 2022
+
+## 「量子ニューラルネットワークにおける量子特徴マップの解析」
+* <u>林碧惟</u>、櫻井 彰忠、**⻄尾 真**、William J. Munro、根本 香絵
+* 量子教育プログラムオンラインコース・サマースクール [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) / Quantum EDucation For Future Technologies
+* 光・量子飛躍フラッグシッププログラム(Q-LEAP) 人材育成プログラム　/ MOONSHOT Research and Development Program
+* 沖縄科学技術大学院大学・リザンシーパークホテル谷茶ベイ, September 23rd-30th, 2022
+
 ## 「量子多重通信路を用いた高次元量子Reed-Solomon符号のリソース削減」
 * **西尾 真**
 * Quantum Internet Task Force [第二回 Student Session](https://qitf.org/news/20210928-2nd-student-session/)
@@ -155,7 +174,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 ## 「NISQプロセッサ上量子ビットへのプログラム変数配置自動化と高フィデリティ化」
 * **西尾 真** (慶應義塾大学 バンミーター研究室)
 * [物性研短期研究会 量子情報・物性の新潮流 -量子技術が生み出す多様な物性と情報処理技術-](http://www.qi.t.u-tokyo.ac.jp/workshop/NQuIC2018/access.html)
-* 東京大学物性研究所, , 2018年7月31日〜8月3日
+* 東京大学物性研究所, 2018年7月31日〜8月3日
 
 ## An Automated Tool for Mapping Program Variables to Qubits on the IBM Q Topologies (poster)
 * **西尾 真**
@@ -163,6 +182,8 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Kyoto University, May 15th, 2018
 
 # Award
+* [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) Best Poster: "InQuIR: Intermediate Representation for Interconncted Quantum Computers" Ryo Wakizaka, **Shin Nishio**
+* [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) Best Group Presentation: 「高階量子計算による反転操作を用いた系統誤差の訂正」"Correction of systematic errors using inversion operations with higher-order quantum computation"  Team M (Aoi Hayashi, Haruka Komiyama, **Shin Nishio**, Tomohiro Yamaji)
 * [Qiskit Camp Asia 2019 the 1st Place hackathon champions](https://medium.com/qiskit/recap-2019-qiskit-camp-asia-26e02dfbd51e)
 * [WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ](https://www.wide.ad.jp/News/2018/20181223.html) **西尾 真** (慶應義塾大学)
 * [2016年度 能代宇宙イベント](http://unisec.jp/archives/1842) CanSat(模擬人工衛星)競技 ミッションの部 タイプエス賞第2位およびUNISON賞 [慶應義塾大学宇宙科学総合研究会(LYNCS)](https://lyncs-keio.net/) SNSミッションチーム
@@ -225,6 +246,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 
 ## Video Game
 * Recently played
+  * 十三機兵防衛圏
   * FROM SOFTWARE
     * King's Field, Demon's souls, Dark Souls(1,2,3), Sekiro, Déraciné, Bloodborne, ELDEN RING, AC
   * STAR WARS Jedi: Fallen Order
