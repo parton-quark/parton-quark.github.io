@@ -51,7 +51,6 @@
 # Paper
 ## Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation
 <details><summary>Abstract</summary><div>
-
 NISQ (Noisy, Intermediate-Scale Quantum) computing requires error mitigation to achieve meaningful computation. Our compilation tool development focuses on the fact that the error rates of individual qubits are not equal, with a goal of maximizing the success probability of real-world subroutines such as an adder circuit. We begin by establishing a metric for choosing among possible paths and circuit alternatives for executing gates between variables placed far apart within the processor and test our approach on two IBM 20-qubit systems named Tokyo and Poughkeepsie. We find that a single-number metric describing the fidelity of individual gates is a useful but imperfect guide.
 Our compiler uses this subsystem and maps complete circuits onto the machine using a beam search-based heuristic that will scale as processor and program sizes grow. To evaluate the whole compilation process, we compiled and executed adder circuits, then calculated the Kullback–Leibler divergence (KL-divergence, a measure of the distance between two probability distributions). For a circuit within the capabilities of the hardware, our compilation increases estimated success probability and reduce KL-divergence relative to an error-oblivious placement.
 </div></details>
@@ -62,12 +61,20 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 
 ## Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes
 <details><summary>Abstract</summary><div>
-
 Quantum communication technologies will play an important role in quantum information processing in the near future as we network devices together. However, their implementation is still a challenging task due to both loss and gate errors. Quantum error correction codes are one important technique to address this issue. In particular, the Quantum Reed-Solomon codes are known to be quite efficient for quantum communication tasks. The high degree of physical resources required, however, makes such a code difficult to use in practice. A recent technique called quantum multiplexing has been shown to reduce resources by using multiple degrees of freedom of a photon. In this work, we propose a method to decompose multi-controlled gates using fewer CX gates via this quantum multiplexing technique. We show that our method can significantly reduce the required number of CX gates needed in the encoding circuits for the quantum Reed-Solomon code. Our approach is also applicable to many other quantum error correction codes and quantum algorithms, including Grovers and quantum walks.
 </div></details>
 
 * **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto
 * preprint: [arXiv[quant-ph] 2206.03712](https://arxiv.org/abs/2206.03712)
+
+## How the form of weighted networks impacts quantum reservoir computation
+<details><summary>Abstract</summary><div>
+Quantum extreme reservoir computation (QERC) is a versatile quantum neural network model that combines the concepts of extreme machine learning with quantum reservoir computation. Key to QERC is the generation of a complex quantum reservoir (feature space) that does not need to be optimized for different problem instances. Originally, a periodically-driven system Hamiltonian dynamics was employed as the quantum feature map. In this work we capture how the quantum feature map is generated as the number of time-steps of the dynamics increases by a method to characterize unitary matrices in the form of weighted networks. Furthermore, to identify the key properties of the feature map that has sufficiently grown, we evaluate it with various weighted network models that could be used for the quantum reservoir in image classification situations. At last, we show how a simple Hamiltonian model based on a disordered discrete time crystal with its simple implementation route provides nearly-optimal performance while removing the necessity of programming of the quantum processor gate by gate.
+</div></details>
+
+* Aoi Hayashi, Akitada Sakurai, **Shin Nishio**, William J Munro, Kae Nemoto
+* preprint: [arXiv[quant-ph] 2211.07841](https://arxiv.org/abs/2211.07841)
+
 
 # International Conference
 ## Reducing the resources needed to implement quantum error correction codes using quantum multiplexing
