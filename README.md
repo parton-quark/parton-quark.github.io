@@ -75,11 +75,32 @@ Quantum extreme reservoir computation (QERC) is a versatile quantum neural netwo
 * Aoi Hayashi, Akitada Sakurai, **Shin Nishio**, William J Munro, Kae Nemoto
 * preprint: [arXiv[quant-ph] 2211.07841](https://arxiv.org/abs/2211.07841)
 
+## Hardness of braided quantum circuit optimization in the surface code
+<details><summary>Abstract</summary><div>
+Large-scale quantum information processing requires the use of quantum error correcting codes to mitigate the effects of noise in quantum devices. Topological error-correcting codes, such as surface codes, are promising candidates as they can be implemented using only local interactions in a two-dimensional array of physical qubits. Procedures such as defect braiding and lattice surgery can then be used to realize a fault-tolerant universal set of gates on the logical space of such topological codes. However, error correction also introduces a significant overhead in computation time, the number of physical qubits, and the number of physical gates. While optimizing fault-tolerant circuits to minimize this overhead is critical, the computational complexity of such optimization problems remains unknown. This ambiguity leaves room for doubt surrounding the most effective methods for compiling fault-tolerant circuits for a large-scale quantum computer. In this paper, we show that the optimization of a special subset of braided quantum circuits is NP-hard by a polynomial-time reduction of the optimization problem into a specific problem called Planar Rectilinear 3SAT.
+</div></details>
+
+* Kunihiro Wasa, **Shin Nishio**, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, Kae Nemoto
+* preprint: [arXiv[quant-ph] 2302.00273](https://arxiv.org/abs/2302.00273)
+
+## InQuIR: Intermediate Representation for Interconnected Quantum Computers
+<details><summary>Abstract</summary><div>
+Various physical constraints limit the number of qubits that can be implemented in a single quantum processor, and thus it is necessary to connect multiple quantum processors via quantum interconnects. While several compiler implementations for interconnected quantum computers have been proposed, there is no suitable representation as their compilation target. The lack of such representation impairs the reusability of compiled programs and makes it difficult to reason formally about the complicated behavior of distributed quantum programs. We propose InQuIR, an intermediate representation that can express communication and computation on distributed quantum systems. InQuIR has formal semantics that allows us to describe precisely the behaviors of distributed quantum programs. We give examples written in InQuIR to illustrate the problems arising in distributed programs, such as deadlock. We present a roadmap for static verification using type systems to deal with such a problem. We also provide software tools for InQuIR and evaluate the computational costs of quantum circuits under various conditions. Our tools are available at this [URL](https://github.com/team-InQuIR/InQuIR).
+</div></details>
+
+* **Shin Nishio**, Ryo Wakizaka
+* preprint: [arXiv[quant-ph] 2302.00267](https://arxiv.org/abs/2302.00267)
+
 
 # International Conference
+## Computational complexity of optimizing defect braiding quantum circuits by reordering qubits
+* [Poster PDF](https://parton-quark.github.io/poster/QIP2023_dbcircuit.pdf)
+* Kunihiro Wasa, **Shin Nishio**(presentator), Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi and Kae Nemoto
+* [26th Conference on Quantum Information Processing](http://qip2023.ugent.be/) (QIP2023)
+* Ghent University UFO, Gent, Belgium (February 6th - 10th, 2023) Peer-reviewed 査読あり
+
 ## Reducing the resources needed to implement quantum error correction codes using quantum multiplexing
-* **Shin Nishio**1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1
-* 1: SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2: National Inst. of Informatics (Japan), 3: QOLS, Blackett Lab., Imperial College London (UK), 4: NTT Basic Res. Labs. & NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)
+* **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto
 * [The 15th Pacific Rim Conference on Lasers and Electro-Optics](https://www.cleopr2022.org/) (CLEO Pacific Rim, CLEO-PR 2022) Peer-reviewed 査読あり
 * Sapporo Convention Center, Hokkaido, JAPAN (31 July - 5 August 2022)
 
