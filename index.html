@@ -157,6 +157,8 @@
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
+  <!-- HTMLソースの</head>タグの直前 -->
+  <meta charset="utf-8"/>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156583515-2"></script>
   <script>
@@ -166,13 +168,11 @@
 
     gtag('config', 'UA-156583515-2');
   </script>
-
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Shin Nishio’s profile</h1>
 </header>
-
 <h1 id="西尾-真-shin-nishio">西尾 真 / Shin Nishio</h1>
 <ul>
 <li>username: parton, tsujishin</li>
@@ -371,11 +371,56 @@ Abstract
 <li><strong>Shin Nishio</strong>, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto</li>
 <li>preprint: <a href="https://arxiv.org/abs/2206.03712">arXiv[quant-ph] 2206.03712</a></li>
 </ul>
+<h2 id="how-the-form-of-weighted-networks-impacts-quantum-reservoir-computation">How the form of weighted networks impacts quantum reservoir computation</h2>
+<details>
+<summary>
+Abstract
+</summary>
+<div>
+<p>Quantum extreme reservoir computation (QERC) is a versatile quantum neural network model that combines the concepts of extreme machine learning with quantum reservoir computation. Key to QERC is the generation of a complex quantum reservoir (feature space) that does not need to be optimized for different problem instances. Originally, a periodically-driven system Hamiltonian dynamics was employed as the quantum feature map. In this work we capture how the quantum feature map is generated as the number of time-steps of the dynamics increases by a method to characterize unitary matrices in the form of weighted networks. Furthermore, to identify the key properties of the feature map that has sufficiently grown, we evaluate it with various weighted network models that could be used for the quantum reservoir in image classification situations. At last, we show how a simple Hamiltonian model based on a disordered discrete time crystal with its simple implementation route provides nearly-optimal performance while removing the necessity of programming of the quantum processor gate by gate.</p>
+</div>
+</details>
+<ul>
+<li>Aoi Hayashi, Akitada Sakurai, <strong>Shin Nishio</strong>, William J Munro, Kae Nemoto</li>
+<li>preprint: <a href="https://arxiv.org/abs/2211.07841">arXiv[quant-ph] 2211.07841</a></li>
+</ul>
+<h2 id="hardness-of-braided-quantum-circuit-optimization-in-the-surface-code">Hardness of braided quantum circuit optimization in the surface code</h2>
+<details>
+<summary>
+Abstract
+</summary>
+<div>
+<p>Large-scale quantum information processing requires the use of quantum error correcting codes to mitigate the effects of noise in quantum devices. Topological error-correcting codes, such as surface codes, are promising candidates as they can be implemented using only local interactions in a two-dimensional array of physical qubits. Procedures such as defect braiding and lattice surgery can then be used to realize a fault-tolerant universal set of gates on the logical space of such topological codes. However, error correction also introduces a significant overhead in computation time, the number of physical qubits, and the number of physical gates. While optimizing fault-tolerant circuits to minimize this overhead is critical, the computational complexity of such optimization problems remains unknown. This ambiguity leaves room for doubt surrounding the most effective methods for compiling fault-tolerant circuits for a large-scale quantum computer. In this paper, we show that the optimization of a special subset of braided quantum circuits is NP-hard by a polynomial-time reduction of the optimization problem into a specific problem called Planar Rectilinear 3SAT.</p>
+</div>
+</details>
+<ul>
+<li>Kunihiro Wasa, <strong>Shin Nishio</strong>, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, Kae Nemoto</li>
+<li>preprint: <a href="https://arxiv.org/abs/2302.00273">arXiv[quant-ph] 2302.00273</a></li>
+</ul>
+<h2 id="inquir-intermediate-representation-for-interconnected-quantum-computers">InQuIR: Intermediate Representation for Interconnected Quantum Computers</h2>
+<details>
+<summary>
+Abstract
+</summary>
+<div>
+<p>Various physical constraints limit the number of qubits that can be implemented in a single quantum processor, and thus it is necessary to connect multiple quantum processors via quantum interconnects. While several compiler implementations for interconnected quantum computers have been proposed, there is no suitable representation as their compilation target. The lack of such representation impairs the reusability of compiled programs and makes it difficult to reason formally about the complicated behavior of distributed quantum programs. We propose InQuIR, an intermediate representation that can express communication and computation on distributed quantum systems. InQuIR has formal semantics that allows us to describe precisely the behaviors of distributed quantum programs. We give examples written in InQuIR to illustrate the problems arising in distributed programs, such as deadlock. We present a roadmap for static verification using type systems to deal with such a problem. We also provide software tools for InQuIR and evaluate the computational costs of quantum circuits under various conditions. Our tools are available at this <a href="https://github.com/team-InQuIR/InQuIR">URL</a>.</p>
+</div>
+</details>
+<ul>
+<li><strong>Shin Nishio</strong>, Ryo Wakizaka</li>
+<li>preprint: <a href="https://arxiv.org/abs/2302.00267">arXiv[quant-ph] 2302.00267</a></li>
+</ul>
 <h1 id="international-conference">International Conference</h1>
+<h2 id="computational-complexity-of-optimizing-defect-braiding-quantum-circuits-by-reordering-qubits">Computational complexity of optimizing defect braiding quantum circuits by reordering qubits</h2>
+<ul>
+<li><a href="https://parton-quark.github.io/poster/QIP2023_dbcircuit.pdf">Poster PDF</a></li>
+<li>Kunihiro Wasa, <strong>Shin Nishio</strong>(presentator), Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi and Kae Nemoto</li>
+<li><a href="http://qip2023.ugent.be/">26th Conference on Quantum Information Processing</a> (QIP2023)</li>
+<li>Ghent University UFO, Gent, Belgium (February 6th - 10th, 2023) Peer-reviewed 査読あり</li>
+</ul>
 <h2 id="reducing-the-resources-needed-to-implement-quantum-error-correction-codes-using-quantum-multiplexing">Reducing the resources needed to implement quantum error correction codes using quantum multiplexing</h2>
 <ul>
-<li><strong>Shin Nishio</strong>1,2, Nicolò Lo Piparo2, Michael Hanks3, William John Munro4,2, Kae Nemoto2,1</li>
-<li>1: SOKENDAI (The Graduate Univ. for Advanced Studies) (Japan), 2: National Inst. of Informatics (Japan), 3: QOLS, Blackett Lab., Imperial College London (UK), 4: NTT Basic Res. Labs. &amp; NTT Res. Center for Theoretical Quantum Physics, NTT Corp. (Japan)</li>
+<li><strong>Shin Nishio</strong>, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto</li>
 <li><a href="https://www.cleopr2022.org/">The 15th Pacific Rim Conference on Lasers and Electro-Optics</a> (CLEO Pacific Rim, CLEO-PR 2022) Peer-reviewed 査読あり</li>
 <li>Sapporo Convention Center, Hokkaido, JAPAN (31 July - 5 August 2022)</li>
 </ul>
@@ -405,7 +450,7 @@ Abstract
 <li><a href="https://www.quantumresource.org/">Quantum Resource Estimation</a> (QRE2022)</li>
 <li>New York, USA co-located with International Symposium on Computer Architecture (ISCA) (18 June 2022) Peer-reviewed 査読あり</li>
 </ul>
-<h2 id="hardness-of-braided-quantum-circuit-optimization-in-the-surface-code">Hardness of braided quantum circuit optimization in the surface code</h2>
+<h2 id="hardness-of-braided-quantum-circuit-optimization-in-the-surface-code-1">Hardness of braided quantum circuit optimization in the surface code</h2>
 <details>
 <summary>
 Abstract
