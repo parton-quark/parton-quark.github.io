@@ -22,7 +22,8 @@
     * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
     * supervised by Takeaki Uno and Kae Nemoto
   * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
-    *  OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
+    * OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
+    * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist)
 
 # Work experience
 |Period|Place|Job title|description|
@@ -65,6 +66,7 @@ Quantum communication technologies will play an important role in quantum inform
 </div></details>
 
 * **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto
+* Physical Review A [107, 032620](https://doi.org/10.1103/PhysRevA.107.032620)
 * preprint: [arXiv[quant-ph] 2206.03712](https://arxiv.org/abs/2206.03712)
 
 ## How the form of weighted networks impacts quantum reservoir computation
@@ -81,6 +83,7 @@ Large-scale quantum information processing requires the use of quantum error cor
 </div></details>
 
 * Kunihiro Wasa, **Shin Nishio**, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, Kae Nemoto
+* IEEE Transactions on Quantum Engineering [vol. 4, pp. 1-7, 2023](https://doi.org/10.1109/TQE.2023.3251358)
 * preprint: [arXiv[quant-ph] 2302.00273](https://arxiv.org/abs/2302.00273)
 
 ## InQuIR: Intermediate Representation for Interconnected Quantum Computers
@@ -91,6 +94,13 @@ Various physical constraints limit the number of qubits that can be implemented 
 * **Shin Nishio**, Ryo Wakizaka
 * preprint: [arXiv[quant-ph] 2302.00267](https://arxiv.org/abs/2302.00267)
 
+## Photonic quantum signatures of chaos and boson sampling
+<details><summary>Abstract</summary><div>
+Boson sampling is a paradigmatic example of a task that can be performed by a quantum photonic computer yet is hard for digital classical computers. In a typical boson sampling experiment, the scattering amplitude is determined by the permanent of a submatrix of a unitary drawn from an ensemble of random matrices. Random matrix theory plays a very important role in quite diverse fields while at the same time being intimately related to quantum signatures of chaos. Within this framework, a chaotic quantum system exhibits level statistics characteristic of ensembles of random matrices. Such quantum signatures are encoded in the unitary evolution and so in this work we combine the dynamics of chaotic systems with boson sampling. One of the key results of our work is that we demonstrate the intimate relation between out-of-time-order correlators and boson sampling. We show that the unitary dynamics of a Floquet system may be exploited to perform sampling tasks with identical particles using single-mode phase shifters and multiport beamsplitters. At the end of our paper propose a photonic implementation of the multiparticle kicked rotor, which provides a concrete example of our general approach.
+</div></details>
+
+* V. M. Bastidas, H. Nourse, A. Sakurai, A. Hayashi, **S. Nishio**, Kae Nemoto, W. J. Munro
+* preprint: [arXiv[quant-ph] 2307.13200](https://arxiv.org/abs/2307.13200)
 
 # International Conference
 ## Computational complexity of optimizing defect braiding quantum circuits by reordering qubits
