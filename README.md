@@ -20,7 +20,9 @@
 * Doctoral course (5 year, April 2020 -)
   * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野
     * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
-    * supervised by Takeaki Uno and Kae Nemoto
+    * supervised by Prof. Takeaki Uno and Prof. Kae Nemoto
+  * Visiting Researcher at University College London from September 2023 - December 2023
+    * supervised by Prof. Dan Browne
   * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
     * OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
     * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist)
@@ -29,7 +31,8 @@
 |Period|Place|Job title|description|
 |----------|-----------------------|-----------------------|---------------------------------------|
 |April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J20882/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
-|April 2022 - Current|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|Quantum Information Science and Technology Unit, led by Kae Nemoto|
+|April 2022 - Current|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|[Quantum Information Science and Technology Unit](https://groups.oist.jp/qist), led by Kae Nemoto|
+|September 2023 - December 2023| [University College London (UCL)](https://www.ucl.ac.uk/) | Visiting Researcher | Worked in QASTAL group. Supervised by Prof. Dan Browne. Supported by [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) (日本学術振興会若手研究者挑戦プログラム).  |
 |April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
 |July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Problems Design and Judge.|
 |November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
@@ -103,6 +106,18 @@ Boson sampling is a paradigmatic example of a task that can be performed by a qu
 * preprint: [arXiv[quant-ph] 2307.13200](https://arxiv.org/abs/2307.13200)
 
 # International Conference
+
+## Operations on graph states and flows
+*	**Shin Nishio**, Dan Browne and Kae Nemoto
+* [The international conference on Quantum Information Processing 2024](https://qip2024.tw/) (QIP2024)
+* Taipei International Convention Center (TICC), Taipei, Taiwan (January 13-19, 2024)
+
+
+## Surface Code Communication with Quantum Multiplexing
+* **Shin Nishio**, Thomas Scruby, Nicolo Lo Piparo, William Munro and Kae Nemoto
+* [6th International Conference on Quantum Error Correction, Sydney](https://quantum.sydney.edu.au/qec23/) (QEC23)
+* Doltone House, Darling Island and Doltone House, Jones Bay Wharf, Sydney (30 October to 3 November 2023) Peer-reviewed 査読あり
+
 ## Computational complexity of optimizing defect braiding quantum circuits by reordering qubits
 * [Poster PDF](https://parton-quark.github.io/poster/QIP2023_dbcircuit.pdf)
 * Kunihiro Wasa, **Shin Nishio**(presentator), Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi and Kae Nemoto
@@ -220,9 +235,10 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Kyoto University, May 15th, 2018
 
 # Award
+* [LOQCathon 2.0](https://www.linkedin.com/posts/quandela_replay-loqcathon-20-highlights-activity-7135624694388465664-98Lu?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) 3rd place hackathon champions. Team 6: Shadow VQE, Mentor: Benjamin Stott, Members: Eduardo Beattie, Maria Gragera Garces, **Shin Nishio**, Lia Yeh, Hafsa Zeroual.
 * [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) Best Poster: "InQuIR: Intermediate Representation for Interconncted Quantum Computers" Ryo Wakizaka, **Shin Nishio**
 * [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) Best Group Presentation: 「高階量子計算による反転操作を用いた系統誤差の訂正」"Correction of systematic errors using inversion operations with higher-order quantum computation"  Team M (Aoi Hayashi, Haruka Komiyama, **Shin Nishio**, Tomohiro Yamaji)
-* [Qiskit Camp Asia 2019 the 1st Place hackathon champions](https://medium.com/qiskit/recap-2019-qiskit-camp-asia-26e02dfbd51e)
+* [Qiskit Camp Asia 2019](https://medium.com/qiskit/recap-2019-qiskit-camp-asia-26e02dfbd51e) the 1st Place hackathon champions
 * [WIDEプロジェクト 2018年12月研究会 最優秀ポスター賞 High Fidelity Qubit Mapping for IBMQ](https://www.wide.ad.jp/News/2018/20181223.html) **西尾 真** (慶應義塾大学)
 * [2016年度 能代宇宙イベント](http://unisec.jp/archives/1842) CanSat(模擬人工衛星)競技 ミッションの部 タイプエス賞第2位およびUNISON賞 [慶應義塾大学宇宙科学総合研究会(LYNCS)](https://lyncs-keio.net/) SNSミッションチーム
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞
@@ -247,8 +263,12 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * [Qiskit Camp Asia 2019](https://qiskit.org/events/asia/)
     * Our team won the 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra/blob/master/qiskit/qasm/Pulse%20Programming%20Language%20Documentation.md)
         * Thomas Alexander, Anastasia Marchenkova,  Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka
-* [Qiskit Camp 2020](https://qiskit.org/events/camp-2020/)
-    * Cancelled due to COVID19
+* [LOQCathon 2.0](https://www.linkedin.com/posts/quandela_replay-loqcathon-20-highlights-activity-7135624694388465664-98Lu?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)
+    * [YouTube](https://youtu.be/jyhFlXNskz8?si=plYoGKAA1RCItdMB)
+    * Team 6: Shadow VQE (Mentor: Benjamin Stott, Members: Eduardo Beattie, Maria Gragera Garces, **Shin Nishio**, Lia Yeh, Hafsa Zeroual)
+    * Our team won the 3rd Place hackathon champions!
+    * Paris, Sorbonne Université, 15 - 17 November 2023
+    * Event Host: Pierre-Emmanuel Emeriau, Organized by Quandela
 
 ## Astronomy
 * 慶應義塾大学文化団体連盟所属団体 宇宙科学総合研究会 [LYNCS](https://lyncs-keio.net/)(Laboratory of sYNnthetic Cosmic Science, リンクス)18年度代表/ 2018 representative
@@ -257,8 +277,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞受賞\
   西尾は模型製作を担当。
 
-* 2017年第25回衛星設計コンテスト アイデアの部「光格子時計測位衛星 ツキアカリ」応募\
-  代表。
+* 2017年第25回衛星設計コンテスト アイデアの部「光格子時計測位衛星 ツキアカリ」応募(代表)。
 * Cansat
 
 ## Camera
@@ -277,13 +296,13 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * All Gundam (especially ∀, Reconguista in G, and Victory)
 * Full Matal Panic!
 * Code Geass
-* ARMORED CORE(1,3,SL,LR,FA,V,VD)
+* ARMORED CORE (1,3,SL,LR,4,FA,5,VD,6)
 * Muv-Luv Alternative
 * Getter Robot
 * MACROSS (Zero, F)
 
 ## Video Game
-* Recently played
+* Recent Favorites
   * 十三機兵防衛圏
   * FROM SOFTWARE
     * King's Field, Demon's souls, Dark Souls(1,2,3), Sekiro, Déraciné, Bloodborne, ELDEN RING, AC
@@ -292,3 +311,4 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
   * Metal Gear Solid
   * 戦場のヴァルキュリア4
   * Pokemon
+  * レイジングループ
