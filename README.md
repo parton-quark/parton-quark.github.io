@@ -30,7 +30,7 @@
 # Work experience
 |Period|Place|Job title|description|
 |----------|-----------------------|-----------------------|---------------------------------------|
-|April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J20882/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
+|April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ1436/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
 |April 2022 - Current|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|[Quantum Information Science and Technology Unit](https://groups.oist.jp/qist), led by Kae Nemoto|
 |September 2023 - December 2023| [University College London (UCL)](https://www.ucl.ac.uk/) | Visiting Researcher | Worked in QASTAL group. Supervised by Prof. Dan Browne. Supported by [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) (日本学術振興会若手研究者挑戦プログラム).  |
 |April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
