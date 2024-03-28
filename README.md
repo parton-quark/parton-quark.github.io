@@ -2,13 +2,13 @@
 
 # 西尾 真 / Shin Nishio
 * username: parton, tsujishin
-* email: parton at sfc.wide.ad.jp
+* email: parton (at) sfc.wide.ad.jp
 * ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
-* twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * GitHub: [parton-quark](https://github.com/parton-quark)
-* Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
-* Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
+<!-- * twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido) -->
+<!-- * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva) -->
+<!-- * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon) -->
 
 # Education
 * 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High School April 2010 - March 2016
@@ -72,12 +72,13 @@ Quantum communication technologies will play an important role in quantum inform
 * Physical Review A [107, 032620](https://doi.org/10.1103/PhysRevA.107.032620)
 * preprint: [arXiv[quant-ph] 2206.03712](https://arxiv.org/abs/2206.03712)
 
-## How the form of weighted networks impacts quantum reservoir computation
+## Impact of the form of weighted networks on the quantum extreme reservoir computation
 <details><summary>Abstract</summary><div>
-Quantum extreme reservoir computation (QERC) is a versatile quantum neural network model that combines the concepts of extreme machine learning with quantum reservoir computation. Key to QERC is the generation of a complex quantum reservoir (feature space) that does not need to be optimized for different problem instances. Originally, a periodically-driven system Hamiltonian dynamics was employed as the quantum feature map. In this work we capture how the quantum feature map is generated as the number of time-steps of the dynamics increases by a method to characterize unitary matrices in the form of weighted networks. Furthermore, to identify the key properties of the feature map that has sufficiently grown, we evaluate it with various weighted network models that could be used for the quantum reservoir in image classification situations. At last, we show how a simple Hamiltonian model based on a disordered discrete time crystal with its simple implementation route provides nearly-optimal performance while removing the necessity of programming of the quantum processor gate by gate.
+The quantum extreme reservoir computation (QERC) is a versatile quantum neural network model that combines the concepts of extreme machine learning with quantum reservoir computation. Key to QERC is the generation of a complex quantum reservoir (feature space) that does not need to be optimized for different problem instances. Originally, a periodically driven system Hamiltonian dynamics was employed as the quantum feature map. In this work we capture how the quantum feature map is generated as the number of time-steps of the dynamics increases by a method to characterize unitary matrices in the form of weighted networks. Furthermore, to identify the key properties of the feature map that has sufficiently grown, we evaluate it with various weighted network models that could be used for the quantum reservoir in image classification situations. At last, we show how a simple Hamiltonian model based on a disordered discrete time crystal with its simple implementation route provides nearly optimal performance while removing the necessity of programming of the quantum processor gate by gate.
 </div></details>
 
 * Aoi Hayashi, Akitada Sakurai, **Shin Nishio**, William J Munro, Kae Nemoto
+* Physical Review A [108, 042609](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042609`)
 * preprint: [arXiv[quant-ph] 2211.07841](https://arxiv.org/abs/2211.07841)
 
 ## Hardness of braided quantum circuit optimization in the surface code
@@ -189,7 +190,14 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * [International Conference on challenges in Quantum Information Science](https://qis1.ex.nii.ac.jp/workshop/CQIS2018/) (CQIS2018)
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
-# Symposium
+# Symposium and workshops
+## Quantum Error Correction and Quantum Multiplexing
+* Shin Nishio
+* Invited talk
+* 2024 YITP Quantum Error Correction Workshop
+* Yukawa Institute for Theoretical Physics
+Kyoto, Japan, 18 - 29 March 2024
+
 ## 量子ビット順序変更による Defect Braiding 量子回路最適化の計算量
 * [Poster PDF](https://parton-quark.github.io/poster/QEd_Summer_School_DBQC.pdf)
 * Kunihiro Wasa, <u>**Shin Nishio**</u>, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, and Kae Nemoto.
@@ -291,7 +299,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Telescope
   * Redcat 51
 
-## Robot-anime (including games, novels, and so on)
+<!-- ## Robot-anime (including games, novels, and so on)
 * Yoshiyuki Tomino's anime
 * All Gundam (especially ∀, Reconguista in G, and Victory)
 * Full Matal Panic!
@@ -299,9 +307,9 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * ARMORED CORE (1,3,SL,LR,4,FA,5,VD,6)
 * Muv-Luv Alternative
 * Getter Robot
-* MACROSS (Zero, F)
+* MACROSS (Zero, F) -->
 
-## Video Game
+<!-- ## Video Game
 * Recent Favorites
   * 十三機兵防衛圏
   * FROM SOFTWARE
@@ -311,4 +319,4 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
   * Metal Gear Solid
   * 戦場のヴァルキュリア4
   * Pokemon
-  * レイジングループ
+  * レイジングループ -->

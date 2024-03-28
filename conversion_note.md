@@ -1,4 +1,4 @@
-# mdからhtmlへの変換時の手続き
+# mdからhtmlへの変換
 * pandoc
   * pandoc -f markdown -t html "README.md" > "index.html"
   * pandoc -f markdown -t html -c ./example.css ./README.md > ./README.html
