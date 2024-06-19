@@ -33,7 +33,7 @@
 |April 2022 - Current|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ1436/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
 |April 2022 - Current|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|[Quantum Information Science and Technology Unit](https://groups.oist.jp/qist), led by Kae Nemoto|
 |September 2023 - December 2023| [University College London (UCL)](https://www.ucl.ac.uk/) | Visiting Researcher | Worked in QASTAL group. Supervised by Prof. Dan Browne. Supported by [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) (日本学術振興会若手研究者挑戦プログラム).  |
-|April 2020 - March 2022|[国立情報学研究所(NII)National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
+|April 2020 - March 2022|[国立情報学研究所(NII) National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
 |July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Problems Design and Judge.|
 |November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
 |May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|<ul><li>[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Problems Design and Judge.</li><li>Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka </li><li> Qiskit-community-tutorial ["Implementation of Quantum Walks on Cycle Graph"](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/terra/qis_adv/quantum_walk.ipynb), Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan</li></ul>|
@@ -53,33 +53,21 @@
 
 
 # Paper
-## Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation
+## Multiplexed Quantum Communication with Surface and Hypergraph Product Codes
 <details><summary>Abstract</summary><div>
-NISQ (Noisy, Intermediate-Scale Quantum) computing requires error mitigation to achieve meaningful computation. Our compilation tool development focuses on the fact that the error rates of individual qubits are not equal, with a goal of maximizing the success probability of real-world subroutines such as an adder circuit. We begin by establishing a metric for choosing among possible paths and circuit alternatives for executing gates between variables placed far apart within the processor and test our approach on two IBM 20-qubit systems named Tokyo and Poughkeepsie. We find that a single-number metric describing the fidelity of individual gates is a useful but imperfect guide.
-Our compiler uses this subsystem and maps complete circuits onto the machine using a beam search-based heuristic that will scale as processor and program sizes grow. To evaluate the whole compilation process, we compiled and executed adder circuits, then calculated the Kullback–Leibler divergence (KL-divergence, a measure of the distance between two probability distributions). For a circuit within the capabilities of the hardware, our compilation increases estimated success probability and reduce KL-divergence relative to an error-oblivious placement.
+Connecting multiple processors via quantum interconnect technologies could help to overcome issues of scalability in single-processor quantum computers. Transmission via these interconnects can be performed more efficiently using quantum multiplexing, where information is encoded in high-dimensional photonic degrees of freedom. We explore the effects of multiplexing on logical error rates in surface codes and hypergraph product codes. We show that, although multiplexing makes loss errors more damaging, assigning qubits to photons in an intelligent manner can minimize these effects, and the ability to encode higher-distance codes in a smaller number of photons can result in overall lower logical error rates. This multiplexing technique can also be adapted to quantum communication and multimode quantum memory with high-dimensional qudit systems.
 </div></details>
 
-* **Shin Nishio**, Yulu Pan, Takahiko Satoh, Hideharu Amano, Rodney Van Meter
-* ACM Journal on Emerging Technologies in Computing Systems [Vol. 16, No. 3](https://dl.acm.org/doi/abs/10.1145/3386162)
-* preprint: [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
+* **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto
+* preprint: [arXiv[quant-ph] 2406.08832](https://arxiv.org/abs/2406.08832)
 
-## Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes
+## Photonic quantum signatures of chaos and boson sampling
 <details><summary>Abstract</summary><div>
-Quantum communication technologies will play an important role in quantum information processing in the near future as we network devices together. However, their implementation is still a challenging task due to both loss and gate errors. Quantum error correction codes are one important technique to address this issue. In particular, the Quantum Reed-Solomon codes are known to be quite efficient for quantum communication tasks. The high degree of physical resources required, however, makes such a code difficult to use in practice. A recent technique called quantum multiplexing has been shown to reduce resources by using multiple degrees of freedom of a photon. In this work, we propose a method to decompose multi-controlled gates using fewer CX gates via this quantum multiplexing technique. We show that our method can significantly reduce the required number of CX gates needed in the encoding circuits for the quantum Reed-Solomon code. Our approach is also applicable to many other quantum error correction codes and quantum algorithms, including Grovers and quantum walks.
+Boson sampling is a paradigmatic example of a task that can be performed by a quantum photonic computer yet is hard for digital classical computers. In a typical boson sampling experiment, the scattering amplitude is determined by the permanent of a submatrix of a unitary drawn from an ensemble of random matrices. Random matrix theory plays a very important role in quite diverse fields while at the same time being intimately related to quantum signatures of chaos. Within this framework, a chaotic quantum system exhibits level statistics characteristic of ensembles of random matrices. Such quantum signatures are encoded in the unitary evolution and so in this work we combine the dynamics of chaotic systems with boson sampling. One of the key results of our work is that we demonstrate the intimate relation between out-of-time-order correlators and boson sampling. We show that the unitary dynamics of a Floquet system may be exploited to perform sampling tasks with identical particles using single-mode phase shifters and multiport beamsplitters. At the end of our paper propose a photonic implementation of the multiparticle kicked rotor, which provides a concrete example of our general approach.
 </div></details>
 
-* **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto
-* Physical Review A [107, 032620](https://doi.org/10.1103/PhysRevA.107.032620)
-* preprint: [arXiv[quant-ph] 2206.03712](https://arxiv.org/abs/2206.03712)
-
-## Impact of the form of weighted networks on the quantum extreme reservoir computation
-<details><summary>Abstract</summary><div>
-The quantum extreme reservoir computation (QERC) is a versatile quantum neural network model that combines the concepts of extreme machine learning with quantum reservoir computation. Key to QERC is the generation of a complex quantum reservoir (feature space) that does not need to be optimized for different problem instances. Originally, a periodically driven system Hamiltonian dynamics was employed as the quantum feature map. In this work we capture how the quantum feature map is generated as the number of time-steps of the dynamics increases by a method to characterize unitary matrices in the form of weighted networks. Furthermore, to identify the key properties of the feature map that has sufficiently grown, we evaluate it with various weighted network models that could be used for the quantum reservoir in image classification situations. At last, we show how a simple Hamiltonian model based on a disordered discrete time crystal with its simple implementation route provides nearly optimal performance while removing the necessity of programming of the quantum processor gate by gate.
-</div></details>
-
-* Aoi Hayashi, Akitada Sakurai, **Shin Nishio**, William J Munro, Kae Nemoto
-* Physical Review A [108, 042609](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042609`)
-* preprint: [arXiv[quant-ph] 2211.07841](https://arxiv.org/abs/2211.07841)
+* V. M. Bastidas, H. Nourse, A. Sakurai, A. Hayashi, **S. Nishio**, Kae Nemoto, W. J. Munro
+* preprint: [arXiv[quant-ph] 2307.13200](https://arxiv.org/abs/2307.13200)
 
 ## Hardness of braided quantum circuit optimization in the surface code
 <details><summary>Abstract</summary><div>
@@ -98,23 +86,48 @@ Various physical constraints limit the number of qubits that can be implemented 
 * **Shin Nishio**, Ryo Wakizaka
 * preprint: [arXiv[quant-ph] 2302.00267](https://arxiv.org/abs/2302.00267)
 
-## Photonic quantum signatures of chaos and boson sampling
+## Impact of the form of weighted networks on the quantum extreme reservoir computation
 <details><summary>Abstract</summary><div>
-Boson sampling is a paradigmatic example of a task that can be performed by a quantum photonic computer yet is hard for digital classical computers. In a typical boson sampling experiment, the scattering amplitude is determined by the permanent of a submatrix of a unitary drawn from an ensemble of random matrices. Random matrix theory plays a very important role in quite diverse fields while at the same time being intimately related to quantum signatures of chaos. Within this framework, a chaotic quantum system exhibits level statistics characteristic of ensembles of random matrices. Such quantum signatures are encoded in the unitary evolution and so in this work we combine the dynamics of chaotic systems with boson sampling. One of the key results of our work is that we demonstrate the intimate relation between out-of-time-order correlators and boson sampling. We show that the unitary dynamics of a Floquet system may be exploited to perform sampling tasks with identical particles using single-mode phase shifters and multiport beamsplitters. At the end of our paper propose a photonic implementation of the multiparticle kicked rotor, which provides a concrete example of our general approach.
+The quantum extreme reservoir computation (QERC) is a versatile quantum neural network model that combines the concepts of extreme machine learning with quantum reservoir computation. Key to QERC is the generation of a complex quantum reservoir (feature space) that does not need to be optimized for different problem instances. Originally, a periodically driven system Hamiltonian dynamics was employed as the quantum feature map. In this work we capture how the quantum feature map is generated as the number of time-steps of the dynamics increases by a method to characterize unitary matrices in the form of weighted networks. Furthermore, to identify the key properties of the feature map that has sufficiently grown, we evaluate it with various weighted network models that could be used for the quantum reservoir in image classification situations. At last, we show how a simple Hamiltonian model based on a disordered discrete time crystal with its simple implementation route provides nearly optimal performance while removing the necessity of programming of the quantum processor gate by gate.
 </div></details>
 
-* V. M. Bastidas, H. Nourse, A. Sakurai, A. Hayashi, **S. Nishio**, Kae Nemoto, W. J. Munro
-* preprint: [arXiv[quant-ph] 2307.13200](https://arxiv.org/abs/2307.13200)
+* Aoi Hayashi, Akitada Sakurai, **Shin Nishio**, William J Munro, Kae Nemoto
+* Physical Review A [108, 042609](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042609`)
+* preprint: [arXiv[quant-ph] 2211.07841](https://arxiv.org/abs/2211.07841)
+
+## Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes
+<details><summary>Abstract</summary><div>
+Quantum communication technologies will play an important role in quantum information processing in the near future as we network devices together. However, their implementation is still a challenging task due to both loss and gate errors. Quantum error correction codes are one important technique to address this issue. In particular, the Quantum Reed-Solomon codes are known to be quite efficient for quantum communication tasks. The high degree of physical resources required, however, makes such a code difficult to use in practice. A recent technique called quantum multiplexing has been shown to reduce resources by using multiple degrees of freedom of a photon. In this work, we propose a method to decompose multi-controlled gates using fewer CX gates via this quantum multiplexing technique. We show that our method can significantly reduce the required number of CX gates needed in the encoding circuits for the quantum Reed-Solomon code. Our approach is also applicable to many other quantum error correction codes and quantum algorithms, including Grovers and quantum walks.
+</div></details>
+
+* **Shin Nishio**, Nicolò Lo Piparo, Michael Hanks, William John Munro, Kae Nemoto
+* Physical Review A [107, 032620](https://doi.org/10.1103/PhysRevA.107.032620)
+* preprint: [arXiv[quant-ph] 2206.03712](https://arxiv.org/abs/2206.03712)
+
+## Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation
+<details><summary>Abstract</summary><div>
+NISQ (Noisy, Intermediate-Scale Quantum) computing requires error mitigation to achieve meaningful computation. Our compilation tool development focuses on the fact that the error rates of individual qubits are not equal, with a goal of maximizing the success probability of real-world subroutines such as an adder circuit. We begin by establishing a metric for choosing among possible paths and circuit alternatives for executing gates between variables placed far apart within the processor and test our approach on two IBM 20-qubit systems named Tokyo and Poughkeepsie. We find that a single-number metric describing the fidelity of individual gates is a useful but imperfect guide.
+Our compiler uses this subsystem and maps complete circuits onto the machine using a beam search-based heuristic that will scale as processor and program sizes grow. To evaluate the whole compilation process, we compiled and executed adder circuits, then calculated the Kullback–Leibler divergence (KL-divergence, a measure of the distance between two probability distributions). For a circuit within the capabilities of the hardware, our compilation increases estimated success probability and reduce KL-divergence relative to an error-oblivious placement.
+</div></details>
+
+* **Shin Nishio**, Yulu Pan, Takahiko Satoh, Hideharu Amano, Rodney Van Meter
+* ACM Journal on Emerging Technologies in Computing Systems [Vol. 16, No. 3](https://dl.acm.org/doi/abs/10.1145/3386162)
+* preprint: [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
+
+# Invited Talk
+## Quantum Error Correction and Quantum Multiplexing
+* Shin Nishio
+* 2024 YITP Quantum Error Correction Workshop
+* Yukawa Institute for Theoretical Physics, Kyoto, Japan, 18 - 29 March 2024
 
 # International Conference
-
 ## Operations on graph states and flows
 *	**Shin Nishio**, Dan Browne and Kae Nemoto
 * [The international conference on Quantum Information Processing 2024](https://qip2024.tw/) (QIP2024)
 * Taipei International Convention Center (TICC), Taipei, Taiwan (January 13-19, 2024)
 
-
 ## Surface Code Communication with Quantum Multiplexing
+* [Poster PDF](https://parton-quark.github.io/poster/QEC2023_QM_surface.pdf)
 * **Shin Nishio**, Thomas Scruby, Nicolo Lo Piparo, William Munro and Kae Nemoto
 * [6th International Conference on Quantum Error Correction, Sydney](https://quantum.sydney.edu.au/qec23/) (QEC23)
 * Doltone House, Darling Island and Doltone House, Jones Bay Wharf, Sydney (30 October to 3 November 2023) Peer-reviewed 査読あり
@@ -191,13 +204,6 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
 # Symposium and workshops
-## Quantum Error Correction and Quantum Multiplexing
-* Shin Nishio
-* Invited talk
-* 2024 YITP Quantum Error Correction Workshop
-* Yukawa Institute for Theoretical Physics
-Kyoto, Japan, 18 - 29 March 2024
-
 ## 量子ビット順序変更による Defect Braiding 量子回路最適化の計算量
 * [Poster PDF](https://parton-quark.github.io/poster/QEd_Summer_School_DBQC.pdf)
 * Kunihiro Wasa, <u>**Shin Nishio**</u>, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, and Kae Nemoto.
