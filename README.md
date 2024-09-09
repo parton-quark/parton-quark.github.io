@@ -141,10 +141,14 @@ As the execution speed of the atomic operations of quantum computation in many p
 * Yukawa Institute for Theoretical Physics, Kyoto, Japan, 18 - 29 March 2024
 
 # International Conference
+## Surface Code Communication with Quantum Multiplexing
+* **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto
+* 19th International Conference on Theory of Quantum Computation, Communication and Cryptography (TQC2024)
+* Okinawa Institute of Science and Technology, Okinawa, Japan
+
 ## Resource-Aware Deadlock Freedom for Distributed Quantum Programs
 * Ryo Wakizaka and **Shin Nishio**
 * 6th International Workshop on Quantum Compilation, 11-12 September 2024 Berlin, Germany
-
 
 ## Multiplexed Quantum Communication with Surface and Hypergraph Product Codes
 * **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William Munro, Thomas Scruby and
