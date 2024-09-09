@@ -10,13 +10,13 @@
 <!-- * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva) -->
 <!-- * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon) -->
 
-## Contents
+## Table of Contents
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Paper](#paper)
 - [Invited Talk](#invited-talk)
 - [International Conference](#international-conference)
-- [Symposium and workshops](#symposium-and-workshops)
+- [Symposium and Workshops](#symposium-and-workshops)
 - [Award](#award)
 - [Hobby](#hobby)
 
@@ -26,7 +26,7 @@
   * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
   * Major area of study: Quantum Information Processing
   * [Advancing Quantum Architecture (AQUA)](https://aqua.sfc.wide.ad.jp/home.html) Group in [RG(so called Murai-ken)](https://rg.sfc.keio.ac.jp/)
-  * Thesis: Controlled Gate Compilation for IBMQ, supervised by Takahiko Satoh, Rondney Van Meter and Jun Murai
+  * Thesis: Controlled Gate Compilation for IBMQ, supervised by Prof.Takahiko Satoh, Prof.Rondney Van Meter and Prof.Jun Murai
 * Doctoral course (5 year, April 2020 -)
   * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野
     * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
@@ -126,8 +126,12 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 
 # Invited Talk
 ## A computer system perspective of large-scale quantum computers
+<details><summary>Abstract</summary><div>
+As the execution speed of the atomic operations of quantum computation in many physical systems is slower than that in classical computation, large-scale quantum computation is required to achieve a computational advantage. Fault-tolerant quantum computation, one of the frameworks for realizing large-scale quantum computation, introduces spatial overhead, including a large number of physical qubits, and temporal overhead, including logical gates and magic state distillation. In addition to these, costs related to classical computational resources for a system software are non-negligible. In this talk, we will give an overview of the system software configuration required for large-scale quantum computers. Then, we will discuss the results and prospects of resource optimization in distributed quantum computing systems with quantum interconnects, a promising approach for scaling up quantum computers. As a further developmental topic, we deal with formal language for distributed quantum computing; we show a method for detecting deadlocks in quantum programs with a type system.
+</div></details>
+
 * [Slides PDF](https://parton-quark.github.io/slides/2024_08_31_AQIS2024_satellite_WS_for_FTQC_public.pdf)
-* Shin Nishio
+* **Shin Nishio**
 * [AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing](https://teruo41.github.io/aqis2024sw/)
 * Sapporo L-Plaza, Kita 8-jo Nishi 3-chome, Kita-ku, Sapporo, Hokkaido, 060-0808 Japan
 
@@ -137,6 +141,21 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 * Yukawa Institute for Theoretical Physics, Kyoto, Japan, 18 - 29 March 2024
 
 # International Conference
+## Resource-Aware Deadlock Freedom for Distributed Quantum Programs
+* Ryo Wakizaka and **Shin Nishio**
+* 6th International Workshop on Quantum Compilation, 11-12 September 2024 Berlin, Germany
+
+
+## Multiplexed Quantum Communication with Surface and Hypergraph Product Codes
+* **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William Munro, Thomas Scruby and
+Kae Nemoto
+* 24th Asian Quantum Information Science Conference Sapporo, Japan (Aug. 26-30, 2024)
+
+## An Efficient Erasure Decoder and Quantum Multiplexing using Hypergraph Product Codes
+* Nicholas Connolly, **Shin Nishio**, Vivien Londe, Nicolò Lo Piparo, William J. Munro,
+Thomas R. Scruby, Anthony Leverrier, Nicolas Delfosse and Kae Nemoto
+* 24th Asian Quantum Information Science Conference Sapporo, Japan (Aug. 26-30, 2024)
+
 ## Operations on graph states and flows
 *	**Shin Nishio**, Dan Browne and Kae Nemoto
 * [The international conference on Quantum Information Processing 2024](https://qip2024.tw/) (QIP2024)
@@ -219,7 +238,12 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * [International Conference on challenges in Quantum Information Science](https://qis1.ex.nii.ac.jp/workshop/CQIS2018/) (CQIS2018)
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
-# Symposium and workshops
+# Symposium and Workshops
+## Panel session for AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing
+* [Program](https://teruo41.github.io/aqis2024sw/program.html)
+* Panelists: Warit Asavanant (The University of Tokyo), Shin Nishio (Okinawa Institute of Science and Technology), Thinh Le (University of Technology Sydney), Ting-Chun Lin (University of California San Diego), Yosuke Ueno (RIKEN)
+* Moderator: Akihito Soeda (National Institute of Informatics, Research Organization of Information and Systems)
+  
 ## 量子ビット順序変更による Defect Braiding 量子回路最適化の計算量
 * [Poster PDF](https://parton-quark.github.io/poster/QEd_Summer_School_DBQC.pdf)
 * Kunihiro Wasa, <u>**Shin Nishio**</u>, Koki Suetsugu, Michael Hanks, Ashley Stephens, Yu Yokoi, and Kae Nemoto.
@@ -321,7 +345,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Telescope
   * Redcat 51
 
-<!-- ## Robot-anime (including games, novels, and so on)
+## Robot-anime (including games, novels, and so on)
 * Yoshiyuki Tomino's anime
 * All Gundam (especially ∀, Reconguista in G, and Victory)
 * Full Matal Panic!
@@ -331,7 +355,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Getter Robot
 * MACROSS (Zero, F) -->
 
-<!-- ## Video Game
+ ## Video Game
 * Recent Favorites
   * 十三機兵防衛圏
   * FROM SOFTWARE
@@ -341,4 +365,4 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
   * Metal Gear Solid
   * 戦場のヴァルキュリア4
   * Pokemon
-  * レイジングループ -->
+  * レイジングループ
