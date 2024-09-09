@@ -10,6 +10,16 @@
 <!-- * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva) -->
 <!-- * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon) -->
 
+## Contents
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Paper](#paper)
+- [Invited Talk](#invited-talk)
+- [International Conference](#international-conference)
+- [Symposium and workshops](#symposium-and-workshops)
+- [Award](#award)
+- [Hobby](#hobby)
+
 # Education
 * 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High School April 2010 - March 2016
 * B.A.(April 2016 - March 2020)
@@ -115,6 +125,12 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 * preprint: [arXiv[quant-ph] 1903.10963](https://arxiv.org/abs/1903.10963)
 
 # Invited Talk
+## A computer system perspective of large-scale quantum computers
+* [Slides PDF](https://parton-quark.github.io/slides/2024_08_31_AQIS2024_satellite_WS_for_FTQC_public.pdf)
+* Shin Nishio
+* [AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing](https://teruo41.github.io/aqis2024sw/)
+* Sapporo L-Plaza, Kita 8-jo Nishi 3-chome, Kita-ku, Sapporo, Hokkaido, 060-0808 Japan
+
 ## Quantum Error Correction and Quantum Multiplexing
 * Shin Nishio
 * 2024 YITP Quantum Error Correction Workshop
