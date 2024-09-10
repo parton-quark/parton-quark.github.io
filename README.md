@@ -357,9 +357,9 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * ARMORED CORE (1,3,SL,LR,4,FA,5,VD,6)
 * Muv-Luv Alternative
 * Getter Robot
-* MACROSS (Zero, F) -->
+* MACROSS (Zero, F)
 
- ## Video Game
+## Video Game
 * Recent Favorites
   * 十三機兵防衛圏
   * FROM SOFTWARE
