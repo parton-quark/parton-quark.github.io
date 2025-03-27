@@ -1,14 +1,22 @@
 % Shin Nishio's profile
 
 # 西尾 真 / Shin Nishio
+
+I am Shin Nishio, a Project Assistant Professor in [Associate Professor Takahiko Satoh's laboratory](https://sites.google.com/view/satoh-quantum-lab/), Department of Information and Computer Science, Faculty of Science and Technology, Keio University in Japan 🇯🇵.　I am αlso a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Proffessor Dan Browne's team](https://sites.google.com/site/danbrowneucl/group), Department of Physics and Astronomy, Faculty of Mathematical & Physical Sciences, University College London (UCL) in UK 🇬🇧. I am physically based in London. 
+
+I am interested in quantum information processing, system software/middleware for quantum computing, and quantum error correction codes.
+
 * username: parton, tsujishin
 * email: parton (at) sfc.wide.ad.jp
 * ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * GitHub: [parton-quark](https://github.com/parton-quark)
-<!-- * twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido) -->
-<!-- * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva) -->
-<!-- * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon) -->
+* Twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
+* Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
+* Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
+
+## News
+2025/03/24: I received the Inose Outstanding Student Award from the National Institute of Informatics as the top Ph.D. graduate of 2025!
 
 ## Table of Contents
 - [Education](#education)
@@ -22,13 +30,14 @@
 
 # Education
 * 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High School April 2010 - March 2016
-* B.A.(April 2016 - March 2020)
+* Bachelor of Arts.(April 2016 - March 2020)
   * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
   * Major area of study: Quantum Information Processing
   * [Advancing Quantum Architecture (AQUA)](https://aqua.sfc.wide.ad.jp/home.html) Group in [RG(so called Murai-ken)](https://rg.sfc.keio.ac.jp/)
   * Thesis: Controlled Gate Compilation for IBMQ, supervised by Prof.Takahiko Satoh, Prof.Rondney Van Meter and Prof.Jun Murai
-* Doctoral course (5 year, April 2020 -)
-  * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野
+* Doctor of Philosophy (5 year course, April 2020 - March 2025) 博士(情報学)
+  * I majored quantum information processing.
+  * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野 
     * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
     * supervised by Prof. Takeaki Uno and Prof. Kae Nemoto
   * Visiting Researcher at University College London from September 2023 - December 2023
@@ -36,6 +45,7 @@
   * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
     * OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
     * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist)
+  * Dissertation: Resource Reduction for Distributed Fault-tolerant Quantum Computing
 
 # Work experience
 |Period|Place|Job title|description|
@@ -63,12 +73,21 @@
 
 
 # Paper
+## Faulty States can be used in Cat Code Error Correction
+<details><summary>Abstract</summary><div>
+Bosonic codes have seen a resurgence in interest for applications as varied as fault tolerant quantum architectures, quantum enhanced sensing, and entanglement distribution. Cat codes have been proposed as low-level elements in larger architectures, and the theory of rotationally symmetric codes more generally has been significantly expanded in the recent literature. The fault-tolerant preparation and maintenance of cat code states as a stand-alone quantum error correction scheme remains however limited by the need for robust state preparation and strong inter-mode interactions. In this work, we consider the teleportation-based correction circuit for cat code quantum error correction. We show that the class of acceptable ancillary states is broader than is typically acknowledged, and exploit this to propose the use of many-component "bridge" states which, though not themselves in the cat code space, are nonetheless capable of syndrome extraction in the regime where non-linear interactions are a limiting factor.
+</div></details>
+
+* Michael Hanks, Soovin Lee, Nicolo Lo Piparo, **Shin Nishio**, William J. Munro, Kae Nemoto, M.S. Kim
+* preprint: [arXiv[quant-ph] 2412.15134](https://arxiv.org/abs/2412.15134)
+
 ## Multiplexed Quantum Communication with Surface and Hypergraph Product Codes
 <details><summary>Abstract</summary><div>
 Connecting multiple processors via quantum interconnect technologies could help to overcome issues of scalability in single-processor quantum computers. Transmission via these interconnects can be performed more efficiently using quantum multiplexing, where information is encoded in high-dimensional photonic degrees of freedom. We explore the effects of multiplexing on logical error rates in surface codes and hypergraph product codes. We show that, although multiplexing makes loss errors more damaging, assigning qubits to photons in an intelligent manner can minimize these effects, and the ability to encode higher-distance codes in a smaller number of photons can result in overall lower logical error rates. This multiplexing technique can also be adapted to quantum communication and multimode quantum memory with high-dimensional qudit systems.
 </div></details>
 
 * **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto
+* [	Quantum 9, 1613 (2025).](https://arxiv.org/abs/2406.08832)
 * preprint: [arXiv[quant-ph] 2406.08832](https://arxiv.org/abs/2406.08832)
 
 ## Photonic quantum signatures of chaos and boson sampling
@@ -243,6 +262,12 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
 # Symposium and Workshops
+## Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
+* Nishio Shin (SOKENDAI)・Wakizaka Ryo (Kyoto University)・Sakuma Daisuke (Keio University)・Ueno Yosuke (RIKEN)・Suzuki Yasunari (NTT)
+* 情報処理学会第198回ハイパフォーマンスコンピューティング・第14回量子ソフトウェア合同研究発表会
+  * [program](https://www.ipsj.or.jp/kenkyukai/event/hpc198qs14.html)
+* 2025年3月17日(月) - 3月19日(水)、北海道大学 学術交流会館 小講堂／オンライン
+
 ## Panel session for AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing
 * [Program](https://teruo41.github.io/aqis2024sw/program.html)
 * Panelists: Warit Asavanant (The University of Tokyo), Shin Nishio (Okinawa Institute of Science and Technology), Thinh Le (University of Technology Sydney), Ting-Chun Lin (University of California San Diego), Yosuke Ueno (RIKEN)
@@ -293,6 +318,8 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Kyoto University, May 15th, 2018
 
 # Award
+* National Institute of Informatics Inose Outstanding Student Award (March 24th 2025). 
+  * 猪瀬優秀学生賞: 2025年度に国立情報学研究所における指導で博士号を取得した学生の中で最も優秀な学生に贈られる賞を受賞しました!!
 * [LOQCathon 2.0](https://www.linkedin.com/posts/quandela_replay-loqcathon-20-highlights-activity-7135624694388465664-98Lu?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) 3rd place hackathon champions. Team 6: Shadow VQE, Mentor: Benjamin Stott, Members: Eduardo Beattie, Maria Gragera Garces, **Shin Nishio**, Lia Yeh, Hafsa Zeroual.
 * [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) Best Poster: "InQuIR: Intermediate Representation for Interconncted Quantum Computers" Ryo Wakizaka, **Shin Nishio**
 * [QEd Summer School 2022](https://www.sqei.c.u-tokyo.ac.jp/qed/) Best Group Presentation: 「高階量子計算による反転操作を用いた系統誤差の訂正」"Correction of systematic errors using inversion operations with higher-order quantum computation"  Team M (Aoi Hayashi, Haruka Komiyama, **Shin Nishio**, Tomohiro Yamaji)
