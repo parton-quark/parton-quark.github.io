@@ -2,14 +2,14 @@
 
 # 西尾 真 / Shin Nishio
 
-I am Shin Nishio, a Project Assistant Professor in [Associate Professor Takahiko Satoh's laboratory](https://sites.google.com/view/satoh-quantum-lab/), Department of Information and Computer Science, Faculty of Science and Technology, Keio University in Japan 🇯🇵.　I am αlso a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Proffessor Dan Browne's team](https://sites.google.com/site/danbrowneucl/group), Department of Physics and Astronomy, Faculty of Mathematical & Physical Sciences, University College London (UCL) in UK 🇬🇧. I am physically based in London. 
+I am Shin Nishio, a Project Assistant Professor in [Associate Professor Takahiko Satoh's laboratory](https://sites.google.com/view/satoh-quantum-lab/), Department of Information and Computer Science, Faculty of Science and Technology, **Keio University** in Japan 🇯🇵.　I am αlso a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Proffessor Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group), Department of Physics and Astronomy, Faculty of Mathematical & Physical Sciences, **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
 
 I am interested in quantum information processing, system software/middleware for quantum computing, and quantum error correction codes.
 
-* username: parton, tsujishin
+* username: parton
 * email: parton (at) sfc.wide.ad.jp
-* ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
+* ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
 * GitHub: [parton-quark](https://github.com/parton-quark)
 * Twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
 * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
@@ -64,15 +64,25 @@ I am interested in quantum information processing, system software/middleware fo
 
 |year|semester|subject number|class|teacher|description|
 |----|------------|-----|----------------|-------|----------------------|
-|2018|春学期 spring|14270|線形の理論 LINEAR ALGEBRA(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "LINEAR ALGEBRA\[DS1](GIGA/GG/GI)"(simultaneous holding).|
-|2018|春学期 spring|B3104|線形代数 LINEAR ALGEBRA\[DS1](GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|[Some of the material / code I wrote](https://github.com/parton-quark/LinearAlgebra-2018F-2019F)|
-|2018|秋学期 autumn|14330|不確実性と情報 INFORMATION AND UNCERTAINTY(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "PROBABILITY\[DS1](GIGA/GG/GI)"(simultaneous holding).|
-|2018|秋学期 autumn|B3102|確率 PROBABILITY\[DS1](GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|---|
+|2018|春学期 spring|14270|線形の理論 LINEAR ALGEBRA(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "LINEAR ALGEBRA DS1 (GIGA/GG/GI)"(simultaneous holding).|
+|2018|春学期 spring|B3104|線形代数 LINEAR ALGEBRA DS1 (GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|[Some of the material / programs I wrote](https://github.com/parton-quark/LinearAlgebra-2018F-2019F)|
+|2018|秋学期 autumn|14330|不確実性と情報 INFORMATION AND UNCERTAINTY(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "PROBABILITY DS1 (GIGA/GG/GI)"(simultaneous holding).|
+|2018|秋学期 autumn|B3102|確率 PROBABILITY DS1 (GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|---|
 |2017|春学期 spring|32140|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|For students who follow the school rules of 2007, content is the same as "REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)"(simultaneous holding).|
 |2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
 
 
+
+
 # Paper
+## Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric
+<details><summary>Abstract</summary><div>
+To evaluate the performance of quantum computing systems relative to classical counterparts and explore the potential for quantum advantage, we propose a game-solving benchmark based on Elo ratings in the game of tic-tac-toe. We compare classical convolutional neural networks (CNNs), quantum convolutional neural networks (QCNNs), and hybrid classical-quantum models by assessing their performance against a random-move agent in automated matches. Additionally, we implement a QCNN integrated with quantum communication and evaluate its performance to quantify the overhead introduced by noisy quantum channels. Our results show that the classical-quantum hybrid model achieves Elo ratings comparable to those of classical CNNs, while the standalone QCNN underperforms under current hardware constraints. The communication overhead was found to be modest. These findings demonstrate the viability of using game-based benchmarks for evaluating quantum computing systems and suggest that quantum communication can be incorporated with limited impact on performance, providing a foundation for future hybrid quantum applications.
+</div></details>
+
+* Suzukaze Kamei, Hideaki Kawaguchi, **Shin Nishio**, Tatakahiko Satoh
+* preprint: [arxiv[quant-ph] 2503.21514](https://arxiv.org/abs/2503.21514)
+
 ## Faulty States can be used in Cat Code Error Correction
 <details><summary>Abstract</summary><div>
 Bosonic codes have seen a resurgence in interest for applications as varied as fault tolerant quantum architectures, quantum enhanced sensing, and entanglement distribution. Cat codes have been proposed as low-level elements in larger architectures, and the theory of rotationally symmetric codes more generally has been significantly expanded in the recent literature. The fault-tolerant preparation and maintenance of cat code states as a stand-alone quantum error correction scheme remains however limited by the need for robust state preparation and strong inter-mode interactions. In this work, we consider the teleportation-based correction circuit for cat code quantum error correction. We show that the class of acceptable ancillary states is broader than is typically acknowledged, and exploit this to propose the use of many-component "bridge" states which, though not themselves in the cat code space, are nonetheless capable of syndrome extraction in the regime where non-linear interactions are a limiting factor.
@@ -376,7 +386,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Telescope
   * Redcat 51
 
-## Robot-anime (including games, novels, and so on)
+## Robot-SciFi (including games, novels, and so on)
 * Yoshiyuki Tomino's anime
 * All Gundam (especially ∀, Reconguista in G, and Victory)
 * Full Matal Panic!
@@ -386,14 +396,14 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Getter Robot
 * MACROSS (Zero, F)
 
-## Video Game
-* Recent Favorites
-  * 十三機兵防衛圏
-  * FROM SOFTWARE
-    * King's Field, Demon's souls, Dark Souls(1,2,3), Sekiro, Déraciné, Bloodborne, ELDEN RING, AC
-  * STAR WARS Jedi: Fallen Order
-  * Battle Field V
-  * Metal Gear Solid
-  * 戦場のヴァルキュリア4
-  * Pokemon
-  * レイジングループ
+## Recently Played Video Games
+* 十三機兵防衛圏
+* FROM SOFTWARE 
+  * (In order of preference) Dark Souls > King's Field > Sekiro > Demon's souls > Déraciné > Bloodborne > Dark Souls 2 > Dark Souls 3 > ELDEN RING (I prefer non-open-world games) 
+  * Armored Core Series
+* STAR WARS Jedi: Fallen Order
+* Battle Field V
+* Metal Gear Solid
+* 戦場のヴァルキュリア4
+* Pokemon
+* レイジングループ
