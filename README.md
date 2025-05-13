@@ -1,18 +1,16 @@
-% Shin Nishio's profile
-
-# 西尾 真 / Shin Nishio
+% 西尾 真 / Shin Nishio's profile
 
 I am **Shin Nishio**, a project assistant professor in [Dr. Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
 
-I am interested in quantum information processing, system software/middleware for quantum computing, and quantum error correction codes.
+My interest: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation,  quantum programming language, quantum error correction codes
 
 * email: parton (at) sfc.wide.ad.jp
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
 * GitHub: [parton-quark](https://github.com/parton-quark)
 * Twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
-* Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
-* Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
+<!-- * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva) -->
+<!-- * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon) -->
 
 ## News
 2025/04/24: New paper and poster uploaded:
@@ -313,12 +311,10 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
   * [Advancing Quantum Architecture (AQUA)](https://aqua.sfc.wide.ad.jp/home.html) Group in [RG(so called Murai-ken)](https://rg.sfc.keio.ac.jp/)
   * Thesis: Controlled Gate Compilation for IBMQ, supervised by Prof.Takahiko Satoh, Prof.Rondney Van Meter and Prof.Jun Murai
 * Doctor of Philosophy (5 year course, April 2020 - March 2025) 博士(情報学)
-  * I majored quantum information processing.
   * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野 
     * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
     * supervised by Prof. Takeaki Uno and Prof. Kae Nemoto
-  * Visiting Researcher at University College London from September 2023 - December 2023
-    * supervised by Prof. Dan Browne
+  * Visiting Researcher at University College London, supervised by Prof. Dan Browne from September 2023 - December 2023
   * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
     * OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
     * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist)
@@ -327,12 +323,13 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 # Work experience
 |Period|Place|Job title|description|
 |----------|-----------------------|-----------------------|---------------------------------------|
-|April 2025 - **Current**|[慶應義塾大学理工学研究科]((https://www.keio.ac.jp/jp/)) [Keio University](https://www.keio.ac.jp/en/)|Project Assistant Professor (特任助教)|[Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/)|
-|April 2025 - **Current**|[University College London](https://www.ucl.ac.uk/physics-astronomy/)|Research Associate|[Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group)|
+|April 2025 - **Current**|[慶應義塾大学]((https://www.keio.ac.jp/jp/)) [Keio University](https://www.keio.ac.jp/en/)|Project Assistant Professor (特任助教)|[Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in Graduate School of Science and Technology.|
+|April 2025 - **Current**|[University College London](https://www.ucl.ac.uk/physics-astronomy/)|Research Associate|[Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in Department of Physics and Astronomy.|
 |April 2025 - **Current**|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Overseas Research Fellowship 海外特別研究員|[海外特別研究員制度](https://www.jsps.go.jp/j-ab/)、書面審査区分：情報学　小区分：計算機システム関連|
 |April 2022 - March 2025|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ1436/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
 |April 2022 - March 2025|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|[Quantum Information Science and Technology Unit](https://groups.oist.jp/qist), led by Prof. Kae Nemoto|
-|September 2023 - December 2023| [University College London (UCL)](https://www.ucl.ac.uk/) | Visiting Researcher | Worked in QASTAL group. Supervised by Prof. Dan Browne. Supported by [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) (日本学術振興会若手研究者挑戦プログラム).  |
+|September 2023 - December 2023|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Overseas Challenge Program for Young Researchers 若手研究者海外挑戦プログラム|[若手研究者海外挑戦プログラム制度](https://www.jsps.go.jp/j-abc/)、書面審査区分：情報学　小区分：情報学基礎論関連「フォールトトレラント量子計算のための3直交符号の探索」[報告書](https://www.jsps.go.jp/j-abc/abc_list/R5.html) 派遣先: Department of physics and astronomy, University College London|
+|September 2023 - December 2023| [University College London (UCL)](https://www.ucl.ac.uk/) | Visiting Researcher | Supervised by Prof. Dan Browne.|
 |April 2020 - March 2022|[国立情報学研究所(NII) National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
 |July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Problems Design and Judge.|
 |November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
@@ -446,12 +443,12 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * MACROSS (Zero, F)
 
 ## Favorite Video Games
+* Metal Gear Solid 
 * 十三機兵防衛圏
 * FROM SOFTWARE 
   * (In order of preference) Armored Core Series > Dark Souls > King's Field > Sekiro > Demon's souls > Déraciné > Bloodborne > Dark Souls 2 > Dark Souls 3 > ELDEN RING (I prefer non-open-world games) 
 * STAR WARS Jedi: Fallen Order
 * Battle Field V
-* Metal Gear Solid 
 * 戦場のヴァルキュリア4
 * Pokemon
 * レイジングループ
