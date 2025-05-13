@@ -2,7 +2,7 @@
 
 # 西尾 真 / Shin Nishio
 
-I am Shin Nishio, a Project Assistant Professor in [Associate Professor Takahiko Satoh's laboratory](https://sites.google.com/view/satoh-quantum-lab/), Department of Information and Computer Science, Faculty of Science and Technology, **Keio University** in Japan 🇯🇵.　I am αlso a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Proffessor Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group), Department of Physics and Astronomy, Faculty of Mathematical & Physical Sciences, **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
+I am **Shin Nishio**, a project assistant professor in [Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
 
 I am interested in quantum information processing, system software/middleware for quantum computing, and quantum error correction codes.
 
@@ -15,65 +15,37 @@ I am interested in quantum information processing, system software/middleware fo
 * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
 
 ## News
+2025/04/24: New paper and poster uploaded:
+**Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** [Paper(arxiv)](https://arxiv.org/abs/2505.06741) / 
+[Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)
+
+2025/04/18: I received [student presentation award](https://www.ipsj.or.jp/award/qs-award2.html) of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan!
+
 2025/03/24: I received the Inose Outstanding Student Award from the National Institute of Informatics as the top Ph.D. graduate of 2025!
 
 ## Table of Contents
-- [Education](#education)
-- [Work Experience](#work-experience)
 - [Paper](#paper)
 - [Invited Talk](#invited-talk)
 - [International Conference](#international-conference)
 - [Domestic Conference, Symposium and Workshops](#domestic-conference-symposium-and-workshops)
+- [Education History](#education-history)
+- [Work Experience](#work-experience)
+- [Funding](#funding)
 - [Award](#award)
 - [Hobby](#hobby)
 
-# Education
-* 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High School April 2010 - March 2016
-* Bachelor of Arts.(April 2016 - March 2020)
-  * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
-  * Major area of study: Quantum Information Processing
-  * [Advancing Quantum Architecture (AQUA)](https://aqua.sfc.wide.ad.jp/home.html) Group in [RG(so called Murai-ken)](https://rg.sfc.keio.ac.jp/)
-  * Thesis: Controlled Gate Compilation for IBMQ, supervised by Prof.Takahiko Satoh, Prof.Rondney Van Meter and Prof.Jun Murai
-* Doctor of Philosophy (5 year course, April 2020 - March 2025) 博士(情報学)
-  * I majored quantum information processing.
-  * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野 
-    * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
-    * supervised by Prof. Takeaki Uno and Prof. Kae Nemoto
-  * Visiting Researcher at University College London from September 2023 - December 2023
-    * supervised by Prof. Dan Browne
-  * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
-    * OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
-    * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist)
-  * Dissertation: Resource Reduction for Distributed Fault-tolerant Quantum Computing
-
-# Work experience
-|Period|Place|Job title|description|
-|----------|-----------------------|-----------------------|---------------------------------------|
-|April 2022 - March 2025|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ1436/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
-|April 2022 - March 2025|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|[Quantum Information Science and Technology Unit](https://groups.oist.jp/qist), led by Kae Nemoto|
-|September 2023 - December 2023| [University College London (UCL)](https://www.ucl.ac.uk/) | Visiting Researcher | Worked in QASTAL group. Supervised by Prof. Dan Browne. Supported by [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) (日本学術振興会若手研究者挑戦プログラム).  |
-|April 2020 - March 2022|[国立情報学研究所(NII) National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
-|July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Problems Design and Judge.|
-|November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
-|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|(1)[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Problems Design and Judge. (2)Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka (3) Qiskit-community-tutorial ["Implementation of Quantum Walks on Cycle Graph"](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/terra/qis_adv/quantum_walk.ipynb), Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan|
-|April 2017 – March 2020|[Keio University SFC Media Center AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
-|2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
-
-* Student Assistant (Teaching Assistant) at Keio University
-
-|year|semester|subject number|class|teacher|description|
-|----|------------|-----|----------------|-------|----------------------|
-|2018|春学期 spring|14270|線形の理論 LINEAR ALGEBRA(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "LINEAR ALGEBRA DS1 (GIGA/GG/GI)"(simultaneous holding).|
-|2018|春学期 spring|B3104|線形代数 LINEAR ALGEBRA DS1 (GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|[Some of the material / programs I wrote](https://github.com/parton-quark/LinearAlgebra-2018F-2019F)|
-|2018|秋学期 autumn|14330|不確実性と情報 INFORMATION AND UNCERTAINTY(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "PROBABILITY DS1 (GIGA/GG/GI)"(simultaneous holding).|
-|2018|秋学期 autumn|B3102|確率 PROBABILITY DS1 (GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|---|
-|2017|春学期 spring|32140|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|For students who follow the school rules of 2007, content is the same as "REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)"(simultaneous holding).|
-|2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
-
-
-
-
 # Paper
+### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
+<details><summary>Abstract</summary><div>
+Fault-tolerant quantum computers are expected to be offered as cloud services due to their significant resource and infrastructure requirements. Quantum multiprogramming, which runs multiple quantum jobs in parallel, is a promising approach to maximize the utilization of such systems. A key challenge in this setting is the need for an online scheduler capable of handling jobs submitted dynamically while other programs are already running.
+
+In this study, we formulate the online job scheduling problem for fault-tolerant quantum computing systems based on lattice surgery and propose an efficient scheduler to address it. To meet the responsiveness required in an online environment, our scheduler approximates lattice surgery programs, originally represented as polycubes, by using simpler cuboid representations. This approximation enables efficient scheduling while improving overall throughput. In addition, we incorporate a defragmentation mechanism into the scheduling process, demonstrating that it can further enhance QPU utilization.
+</div></details>
+
+- **Shin Nishio**, Ryo Wakizaka, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
+- preprint: [arxiv[quant-ph] 2505.06741](https://arxiv.org/abs/2505.06741)
+
+
 ### Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric
 <details><summary>Abstract</summary><div>
 To evaluate the performance of quantum computing systems relative to classical counterparts and explore the potential for quantum advantage, we propose a game-solving benchmark based on Elo ratings in the game of tic-tac-toe. We compare classical convolutional neural networks (CNNs), quantum convolutional neural networks (QCNNs), and hybrid classical-quantum models by assessing their performance against a random-move agent in automated matches. Additionally, we implement a QCNN integrated with quantum communication and evaluate its performance to quantify the overhead introduced by noisy quantum channels. Our results show that the classical-quantum hybrid model achieves Elo ratings comparable to those of classical CNNs, while the standalone QCNN underperforms under current hardware constraints. The communication overhead was found to be modest. These findings demonstrate the viability of using game-based benchmarks for evaluating quantum computing systems and suggest that quantum communication can be incorporated with limited impact on performance, providing a foundation for future hybrid quantum applications.
@@ -171,6 +143,11 @@ As the execution speed of the atomic operations of quantum computation in many p
 * Yukawa Institute for Theoretical Physics, Kyoto, Japan, 18 - 29 March 2024
 
 ## International Conference
+### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
+- [Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)
+- **Shin Nishio**, Ryo Wakizaka, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
+- [Quantum Computing Theory in Practice 2025(QCTiP2025)](https://qctip2025.com/) Berlin, 23-25 April 2025
+
 ### Surface Code Communication with Quantum Multiplexing
 * **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto
 * 19th International Conference on Theory of Quantum Computation, Communication and Cryptography (TQC2024)
@@ -328,7 +305,78 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * [第24回 量子情報関西 Student Chapter](https://sites.google.com/site/qikansai/past/24meeting)
 * Kyoto University, May 15th, 2018
 
+# Education
+* 聖光学院中学校高等学校/Seiko Gakuin (Junior/Senior) High School April 2010 - March 2016
+* Bachelor of Arts.(April 2016 - March 2020)
+  * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
+  * Major area of study: Quantum Information Processing
+  * [Advancing Quantum Architecture (AQUA)](https://aqua.sfc.wide.ad.jp/home.html) Group in [RG(so called Murai-ken)](https://rg.sfc.keio.ac.jp/)
+  * Thesis: Controlled Gate Compilation for IBMQ, supervised by Prof.Takahiko Satoh, Prof.Rondney Van Meter and Prof.Jun Murai
+* Doctor of Philosophy (5 year course, April 2020 - March 2025) 博士(情報学)
+  * I majored quantum information processing.
+  * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野 
+    * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
+    * supervised by Prof. Takeaki Uno and Prof. Kae Nemoto
+  * Visiting Researcher at University College London from September 2023 - December 2023
+    * supervised by Prof. Dan Browne
+  * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
+    * OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
+    * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist)
+  * Dissertation: Resource Reduction for Distributed Fault-tolerant Quantum Computing
+
+# Work experience
+|Period|Place|Job title|description|
+|----------|-----------------------|-----------------------|---------------------------------------|
+|April 2025 - **Current**|[慶應義塾大学理工学研究科]((https://www.keio.ac.jp/jp/)) [Keio University](https://www.keio.ac.jp/en/)|Project Assistant Professor (特任助教)|[Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/)|
+|April 2025 - **Current**|[University College London](https://www.ucl.ac.uk/physics-astronomy/)|Research Associate|[Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group)|
+|April 2025 - **Current**|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Overseas Research Fellowship 海外特別研究員|[海外特別研究員制度](https://www.jsps.go.jp/j-ab/)、書面審査区分：情報学　小区分：計算機システム関連|
+|April 2022 - March 2025|[日本学術振興会(JSPS) Japan Society for the Promotion of Science](https://www.jsps.go.jp/)|Research Fellowship for Young Scientists 特別研究員 DC1|[特別研究員制度](https://www.jsps.go.jp/j-pd/index.html)、書面審査区分：情報学　小区分：計算機システム関連 「[量子インターコネクトを用いた量子クラスタ計算のシステムソフトウェア構築](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ1436/)」　受入研究者：宇野　毅明 教授(総合研究大学院大学 複合科学研究科 情報学専攻) Grant Number JP22J20882|
+|April 2022 - March 2025|[沖縄科学技術大学院大学(OIST)Okinawa Institute of Science and Technology Graduate University](https://www.oist.jp/)|Teaching Fellowship|[Quantum Information Science and Technology Unit](https://groups.oist.jp/qist), led by Prof. Kae Nemoto|
+|September 2023 - December 2023| [University College London (UCL)](https://www.ucl.ac.uk/) | Visiting Researcher | Worked in QASTAL group. Supervised by Prof. Dan Browne. Supported by [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) (日本学術振興会若手研究者挑戦プログラム).  |
+|April 2020 - March 2022|[国立情報学研究所(NII) National Institute of Informatics](https://www.nii.ac.jp/)|Research Assistant|--|
+|July 2020 - December 2020|[IBM東京基礎研究所 IBM Research - Tokyo](https://research.ibm.com/jp-ja/labs/tokyo/)|Research And Development Intern|[IBM Quantum Challenge 2020](https://github.com/qiskit-community/IBMQuantumChallenge2020) Problems Design and Judge.|
+|November 2018 - March 2020|[独立行政法人情報処理推進機構 IPA (Information-technology Promotion Agency, JAPAN)](https://www.ipa.go.jp/index-e.html), 経済産業省(Ministry of Economy, Trade and Industry, Japan)|Mitou Target 2018 / 2018年度未踏ターゲット事業（ゲート式量子コンピュータ部門） Exploratory IT Human Resources Project (MITOU TARGET Program)|Adopted project: "Implementation and improvement of machine learning tools using quantum computers", **Shin Nishio**, Ryosuke Sato, Yasuhiro Okura「量子コンピュータを用いた機械学習ツールの実装と改良」, **西尾 真**, 佐藤 綾祐, 大倉 康寛|
+|May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|(1)[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Problems Design and Judge. (2)Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka (3) Qiskit-community-tutorial ["Implementation of Quantum Walks on Cycle Graph"](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/terra/qis_adv/quantum_walk.ipynb), Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan|
+|April 2017 – March 2020|[Keio University SFC Media Center AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
+|2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
+
+* Student Assistant (Teaching Assistant) at Keio University
+
+|year|semester|subject number|class|teacher|description|
+|----|------------|-----|----------------|-------|----------------------|
+|2018|春学期 spring|14270|線形の理論 LINEAR ALGEBRA(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "LINEAR ALGEBRA DS1 (GIGA/GG/GI)"(simultaneous holding).|
+|2018|春学期 spring|B3104|線形代数 LINEAR ALGEBRA DS1 (GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|[Some of the material / programs I wrote](https://github.com/parton-quark/LinearAlgebra-2018F-2019F)|
+|2018|秋学期 autumn|14330|不確実性と情報 INFORMATION AND UNCERTAINTY(GIGA)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|For students who follow the school rules of 2007, content is the same as "PROBABILITY DS1 (GIGA/GG/GI)"(simultaneous holding).|
+|2018|秋学期 autumn|B3102|確率 PROBABILITY DS1 (GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|---|
+|2017|春学期 spring|32140|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|For students who follow the school rules of 2007, content is the same as "REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)"(simultaneous holding).|
+|2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
+
+# Funding
+### Overseas Research Fellowship (海外学振), 8 million yen per year (April 2025 - March 2027)
+- Japan Society for the Promotion of Science (JSPS)
+- Shin Nishio, Low-overhead fault-tolerant quantum computation with circuit-centric dynamical codes.
+
+### Overseas Challenge Program for Young Researchers (若手研究者海外挑戦プログラム), 1.4 million yen (September 2023 - December 2024)
+- Japan Society for the Promotion of Science (JSPS)
+-  Shin Nishio, An exploration of triorthogonal codes for fault-tolerant quantum computing ([フォールトトレラント量子計算のための3直交符号の探索](https://www.jsps.go.jp/j-abc/abc_list/R5.html))
+-  Host institute: University College London
+-  Host researcher: Prof. Dan Browne
+
+### Research Fellowship for Young Scientists (学振DC1), ¥3400000(April 2022 - March 2025)
+- Japan Society for the Promotion of Science (JSPS)
+- Shin Nishio, System software construction of quantum computer clusters with quantum interconnect
+- [Grant Number JP22KJ1436](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1436/)
+
+### Exploratory IT Human Resources Project (Mitou target, 未踏ターゲット事業 2018), ¥6800000 (November 2018 - March 2020)
+- Information-technology Promotion Agency (IPA) and Ministry of Economy, Trade and Industry (METI)
+- [Exploratory IT Human Resources Project](https://www.ipa.go.jp/jinzai/target/index.html)
+- Adopted project: Shin Nishio(representative), Ryosuke Satoh, Yasuhiro Okura, [“Implementation and improvement of machine learning tools using quantum computers”](https://www.ipa.go.jp/jinzai/target/2018/seika2.html)
+
+
 # Award
+* 情報処理学会 第198回HPC・第14回量子ソフトウェア合同研究発表会　[学生奨励賞](https://www.ipsj.or.jp/award/qs-award2.html)
+  * Student Presentation Award of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan.
+  * **Nishio Shin**,	Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
 * National Institute of Informatics Inose Outstanding Student Award (March 24th 2025). 
   * 猪瀬優秀学生賞: 2025年度に国立情報学研究所における指導で博士号を取得した学生の中で最も優秀な学生に贈られる賞を受賞しました!!
 * [LOQCathon 2.0](https://www.linkedin.com/posts/quandela_replay-loqcathon-20-highlights-activity-7135624694388465664-98Lu?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) 3rd place hackathon champions. Team 6: Shadow VQE, Mentor: Benjamin Stott, Members: Eduardo Beattie, Maria Gragera Garces, **Shin Nishio**, Lia Yeh, Hafsa Zeroual.
@@ -397,14 +445,13 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Getter Robot
 * MACROSS (Zero, F)
 
-## Recently Played Video Games
+## Favorite Video Games
 * 十三機兵防衛圏
 * FROM SOFTWARE 
-  * (In order of preference) Dark Souls > King's Field > Sekiro > Demon's souls > Déraciné > Bloodborne > Dark Souls 2 > Dark Souls 3 > ELDEN RING (I prefer non-open-world games) 
-  * Armored Core Series
+  * (In order of preference) Armored Core Series > Dark Souls > King's Field > Sekiro > Demon's souls > Déraciné > Bloodborne > Dark Souls 2 > Dark Souls 3 > ELDEN RING (I prefer non-open-world games) 
 * STAR WARS Jedi: Fallen Order
 * Battle Field V
-* Metal Gear Solid
+* Metal Gear Solid 
 * 戦場のヴァルキュリア4
 * Pokemon
 * レイジングループ
