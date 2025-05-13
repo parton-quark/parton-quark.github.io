@@ -2,7 +2,7 @@
 
 # 西尾 真 / Shin Nishio
 
-I am **Shin Nishio**, a project assistant professor in [Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
+I am **Shin Nishio**, a project assistant professor in [Dr. Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
 
 I am interested in quantum information processing, system software/middleware for quantum computing, and quantum error correction codes.
 
