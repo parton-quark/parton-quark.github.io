@@ -244,6 +244,10 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
 ## Domestic Conference,  Symposium and Workshops
+### フォールトトレラント量子マルチプログラミングのためのオンラインスケジューラ
+* **西尾 真**
+* Quantum Internet Task Force 研究会 2025年6月11日 オンライン
+
 ### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
 * Nishio Shin (SOKENDAI)・Wakizaka Ryo (Kyoto University)・Sakuma Daisuke (Keio University)・Ueno Yosuke (RIKEN)・Suzuki Yasunari (NTT)
 * [情報処理学会第198回ハイパフォーマンスコンピューティング・第14回量子ソフトウェア合同研究発表会](https://www.ipsj.or.jp/kenkyukai/event/hpc198qs14.html)
