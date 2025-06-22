@@ -340,7 +340,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * Lecture material preparation support
   
 |year|semester|Institute|subject number|class|teacher|description|
-|----|--------|---------|-----|-----|-------|------------|
+|----|--------|---------|-----|------------|-------|---------------|
 |2025|Spring|Keio University|FST-IC-35333-211-60|量子コンピューティング1A|Associate Professor Takahiko Satoh|[Lecture page](https://gslbs.keio.jp/pub-syllabus/detail?ttblyr=2025&entno=13046&lang=jp), [Jupyter notebook](https://github.com/parton-quark/QuantumComputing1A)|
 |2025|Spring|Keio University|FST-IC-35333-211-60|量子コンピューティング1B|Associate Professor Takahiko Satoh|[Lecture page](https://gslbs.keio.jp/pub-syllabus/detail?ttblyr=2025&entno=13065&lang=jp)|
 |2022|--|The University of Tokyo|35603-1091|物理学特別講義Ｂ|Prof. Kae Nemoto|量子計算における量子誤り訂正の基礎と実装|
