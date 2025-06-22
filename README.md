@@ -9,8 +9,6 @@ My interest: quantum information processing, system software/middleware for quan
 * ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
 * GitHub: [parton-quark](https://github.com/parton-quark)
 * Twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
-<!-- * Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva) -->
-<!-- * Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon) -->
 
 ## News
 2025/04/24: New paper and poster uploaded:
@@ -24,7 +22,7 @@ My interest: quantum information processing, system software/middleware for quan
 - [Invited Talk](#invited-talk)
 - [International Conference](#international-conference)
 - [Domestic Conference, Symposium and Workshops](#domestic-conference-symposium-and-workshops)
-- [Education History](#education-history)
+- [Education](#education)
 - [Work Experience](#work-experience)
 - [Funding](#funding)
 - [Award](#award)
@@ -391,6 +389,8 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞
 
 # Hobby
+* Annict: [ehdnifnaoneva](https://annict.jp/@ehdnifnaoneva)
+* Playstation Network: [kshatriya-zeon](https://my.playstation.com/profile/kshatriya-zeon)
 ## 競プロ Programming contest
 * [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)
     * IBMQ/Qiskit's first competitive programming contest in 2019
@@ -458,3 +458,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * 戦場のヴァルキュリア4
 * Pokemon
 * レイジングループ
+
+## 最近みたもの
+- 天国大魔境
+- 機動戦士Gundam GQuuuuuuX
