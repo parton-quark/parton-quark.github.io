@@ -15,11 +15,9 @@ My interest: quantum information processing, system software/middleware for quan
 ## News
 2025/04/24: New paper and poster uploaded:
 **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** [Paper(arxiv)](https://arxiv.org/abs/2505.06741) / 
-[Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)
-
-2025/04/18: I received [student presentation award](https://www.ipsj.or.jp/award/qs-award2.html) of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan!
-
-2025/03/24: I received the Inose Outstanding Student Award from the National Institute of Informatics as the top Ph.D. graduate of 2025!
+[Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)<br>
+2025/04/18: I received [Student Encouragement Award](https://www.ipsj.or.jp/award/qs-award2.html) of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan!<br>
+2025/03/24: I received the Inose Outstanding Student Award from the National Institute of Informatics as the best Ph.D. graduate of 2025!
 
 ## Table of Contents
 - [Paper](#paper)
@@ -309,7 +307,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
   * 慶應義塾大学総合政策学部 Keio University Faculty of Policy Management, Japan
   * Major area of study: Quantum Information Processing
   * [Advancing Quantum Architecture (AQUA)](https://aqua.sfc.wide.ad.jp/home.html) Group in [RG(so called Murai-ken)](https://rg.sfc.keio.ac.jp/)
-  * Thesis: Controlled Gate Compilation for IBMQ, supervised by Prof.Takahiko Satoh, Prof.Rondney Van Meter and Prof.Jun Murai
+  * Thesis: [Controlled Gate Compilation for IBMQ](https://aqua.sfc.wide.ad.jp/publications/parton_bthesis.pdf), supervised by Prof.Takahiko Satoh, Prof.Rondney Van Meter and Prof.Jun Murai
 * Doctor of Philosophy (5 year course, April 2020 - March 2025) 博士(情報学)
   * 国立情報学研究所 情報学プリンシプル研究系 / 総合研究大学院大学 複合科学研究科 情報学専攻 情報基礎科学分野 
     * NII (National Institute of Informatics) /  SOKENDAI (The Graduate University for Advanced Studies), Japan
@@ -317,8 +315,8 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
   * Visiting Researcher at University College London, supervised by Prof. Dan Browne from September 2023 - December 2023
   * 沖縄科学技術大学院大学（OIST）特別研究生、ティーチングフェローシップ
     * OIST (Okinawa Institute of Science and Technology Graduate University) as a special research student (SRS) and teaching fellowship
-    * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist)
-  * Dissertation: Resource Reduction for Distributed Fault-tolerant Quantum Computing
+    * [Quantum Information Science and Technology Unit](https://groups.oist.jp/qist). Supervised by Prof. Kae Nemoto and Prof. Takeaki Uno.
+  * Dissertation: [Resource Reduction for Distributed Fault-tolerant Quantum Computing](https://ir.soken.ac.jp/records/2000314) (分散フォールトトレラント量子計算のリソース削減)
 
 # Work experience
 |Period|Place|Job title|description|
@@ -336,6 +334,14 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 |May 2018 – March 2022|[Keio University Quantum Computing Center](https://quantum.keio.ac.jp/)|Development assistance for quantum computer interface, Q-LEAP Network-based research center for quantum information processing|(1)[IBM Quantum Challenge 2019](https://ibmquantum.angelhack.com/) Problems Design and Judge. (2)Qiskit Camp Asia’s 1st Place hackathon champions: [Design a Pulse Programming Language](https://github.com/SaraM92/qiskit-terra), Thomas Alexander, Anastasia Marchenkova, Sara Metwalli, **Shin Nishio**, Maika Takita, Ryo Wakizaka (3) Qiskit-community-tutorial ["Implementation of Quantum Walks on Cycle Graph"](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/terra/qis_adv/quantum_walk.ipynb), Jordan Kemp, **Shin Nishio**, Ryosuke Satoh, Desiree Vogt-Lee, and Tanisha Bassan|
 |April 2017 – March 2020|[Keio University SFC Media Center AV/Fab space](http://www.sfc.lib.keio.ac.jp/eng/general/fabspace_eng.html)|AV / Fab Consultant Student Vice President / AV・Fabコンサルタント 副代表|Fab Space is a glass-windowed corner near the 1st floor entrance of the Media Center, and can be seen from the outside. This is where 3D Printers, 3D Scanners, Cutting Machines, Laser Cutter, and Sewing Machines (regular and embroidery) are located, and users can experience digitalized craftwork. AV Counter or Fab Space staff is available to answer any inquiries.|
 |2017|[Link-U inc.](https://www.link-u.co.jp/)|Application development, part time job|--|
+
+* Lecture material preparation support
+  
+|year|semester|Institute|subject number|class|teacher|description|
+|----|--------|---------|-----|-----|-------|------------|
+|2025|Spring|Keio University|FST-IC-35333-211-60|量子コンピューティング1A|Associate Professor Takahiko Satoh|[Lecture page](https://gslbs.keio.jp/pub-syllabus/detail?ttblyr=2025&entno=13046&lang=jp), [Jupyter notebook](https://github.com/parton-quark/QuantumComputing1A)|
+|2025|Spring|Keio University|FST-IC-35333-211-60|量子コンピューティング1B|Associate Professor Takahiko Satoh|[Lecture page](https://gslbs.keio.jp/pub-syllabus/detail?ttblyr=2025&entno=13065&lang=jp)|
+|2022|--|The University of Tokyo|35603-1091|物理学特別講義Ｂ|Prof. Kae Nemoto|量子計算における量子誤り訂正の基礎と実装|
 
 * Student Assistant (Teaching Assistant) at Keio University
 
@@ -372,7 +378,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 
 # Award
 * 情報処理学会 第198回HPC・第14回量子ソフトウェア合同研究発表会　[学生奨励賞](https://www.ipsj.or.jp/award/qs-award2.html)
-  * Student Presentation Award of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan.
+  * Student Encouragement Award of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan.
   * **Nishio Shin**,	Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
 * National Institute of Informatics Inose Outstanding Student Award (March 24th 2025). 
   * 猪瀬優秀学生賞: 2025年度に国立情報学研究所における指導で博士号を取得した学生の中で最も優秀な学生に贈られる賞を受賞しました!!
