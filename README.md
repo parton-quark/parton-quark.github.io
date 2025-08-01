@@ -121,6 +121,13 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 
 # Presentation
 ##  Invited Talk
+### Toward Scalable Multicore Fault-Tolerant Quantum Computers using Quantum Multiplexing
+* [Abstract PDF](https://parton-quark.github.io/abstract/2025_07_31_quantuminnovation_abstract.pdf)
+* [Slides PDF](https://parton-quark.github.io/slides/2025_07_31_QuantumInnovation.pdf)
+* **Shin Nishio**
+* [Quantum Innovation 2025](https://www.qi2025.jp/index.html) The International Symposium on Quantum Science, Technology and Innovation
+* Congress Square Grand Green Osaka, Osaka Japan
+
 ### A computer system perspective of large-scale quantum computers
 <details><summary>Abstract</summary><div>
 As the execution speed of the atomic operations of quantum computation in many physical systems is slower than that in classical computation, large-scale quantum computation is required to achieve a computational advantage. Fault-tolerant quantum computation, one of the frameworks for realizing large-scale quantum computation, introduces spatial overhead, including a large number of physical qubits, and temporal overhead, including logical gates and magic state distillation. In addition to these, costs related to classical computational resources for a system software are non-negligible. In this talk, we will give an overview of the system software configuration required for large-scale quantum computers. Then, we will discuss the results and prospects of resource optimization in distributed quantum computing systems with quantum interconnects, a promising approach for scaling up quantum computers. As a further developmental topic, we deal with formal language for distributed quantum computing; we show a method for detecting deadlocks in quantum programs with a type system.
