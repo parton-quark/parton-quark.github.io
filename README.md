@@ -38,7 +38,7 @@ In this study, we formulate the online job scheduling problem for fault-tolerant
 
 - **Shin Nishio**, Ryo Wakizaka, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
 - preprint: [arxiv[quant-ph] 2505.06741](https://arxiv.org/abs/2505.06741)
-
+- accepted for publication in the Proceedings of IEEE QCE 2025
 
 ### Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric
 <details><summary>Abstract</summary><div>
@@ -65,13 +65,15 @@ Connecting multiple processors via quantum interconnect technologies could help 
 * [	Quantum 9, 1613 (2025).](https://arxiv.org/abs/2406.08832)
 * preprint: [arXiv[quant-ph] 2406.08832](https://arxiv.org/abs/2406.08832)
 
-### Photonic quantum signatures of chaos and boson sampling
+### Equilibration of Non-interacting Photons and Quantum Signatures of Chaos
+formerly titled: Photonic quantum signatures of chaos and boson sampling
 <details><summary>Abstract</summary><div>
 Boson sampling is a paradigmatic example of a task that can be performed by a quantum photonic computer yet is hard for digital classical computers. In a typical boson sampling experiment, the scattering amplitude is determined by the permanent of a submatrix of a unitary drawn from an ensemble of random matrices. Random matrix theory plays a very important role in quite diverse fields while at the same time being intimately related to quantum signatures of chaos. Within this framework, a chaotic quantum system exhibits level statistics characteristic of ensembles of random matrices. Such quantum signatures are encoded in the unitary evolution and so in this work we combine the dynamics of chaotic systems with boson sampling. One of the key results of our work is that we demonstrate the intimate relation between out-of-time-order correlators and boson sampling. We show that the unitary dynamics of a Floquet system may be exploited to perform sampling tasks with identical particles using single-mode phase shifters and multiport beamsplitters. At the end of our paper propose a photonic implementation of the multiparticle kicked rotor, which provides a concrete example of our general approach.
 </div></details>
 
 * V. M. Bastidas, H. Nourse, A. Sakurai, A. Hayashi, **S. Nishio**, Kae Nemoto, W. J. Munro
 * preprint: [arXiv[quant-ph] 2307.13200](https://arxiv.org/abs/2307.13200)
+* accepted for publication in Physical Review B 
 
 ### Hardness of braided quantum circuit optimization in the surface code
 <details><summary>Abstract</summary><div>
@@ -144,6 +146,15 @@ As the execution speed of the atomic operations of quantum computation in many p
 * Yukawa Institute for Theoretical Physics, Kyoto, Japan, 18 - 29 March 2024
 
 ## International Conference
+### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
+- Ryo Wakizaka, <u>**Shin Nishio**</u>, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
+- Technical paper in [IEEE International Conference on Quantum Computing and Engineering (QCE2025, also known as IEEE Quantum Week 2025)](https://qce.quantum.ieee.org/2025/) Alberquerque, New Mexico, US, Aug 31 - Sep 5 2025
+- To be appear in the proceedings of 2025 IEEE International Conference on Quantum Computing and Engineering (QCE)
+
+### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
+- **Shin Nishio**, Ryo Wakizaka, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
+- [Seeking Quantum Advantage (SEEQA2025)](https://conference.seeqa.org/) Merton and Corpus Christi Colleges, Oxford, August 25 – 29, 2025.
+
 ### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
 - [Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)
 - **Shin Nishio**, Ryo Wakizaka, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
@@ -460,7 +471,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * MACROSS (Zero, F)
 
 ## Favorite Video Games
-* Metal Gear Solid 
+* Metal Gear Solid Series
 * 十三機兵防衛圏
 * FROM SOFTWARE 
   * (In order of preference) Armored Core Series > Dark Souls > King's Field > Sekiro > Demon's souls > Déraciné > Bloodborne > Dark Souls 2 > Dark Souls 3 > ELDEN RING (I prefer non-open-world games) 
