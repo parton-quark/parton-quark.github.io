@@ -32,23 +32,37 @@ My interests are: quantum information processing, system software/middleware for
 <details><summary> Efficient Quantum Communication with Quantum Multiplexing </summary><div>
 
 **Quantum multiplexing** uses multiple degrees of freedom (DoFs), or multiple modes within a single DoF to encode higher dimensional quantum information onto a single photon. Applying quantum multiplexing to quantum information–processing systems can drastically reduce resource requirements—for example, lowering the gate count of encoding circuits for quantum error-correcting codes (QECCs) [[Physical Review A 107, 032620](https://doi.org/10.1103/PhysRevA.107.032620)] and reducing the number of photons required for QECC-based quantum communication [[Quantum 9, 1613](https://arxiv.org/abs/2406.08832)]. We also analyzed how multiplexing affects error models, showing that it can induce correlated errors. To mitigate this, we showed that permuting physical-qubit assignments to leverage randomness and maximizing the code distance within a single photon are effective.
+
+Efficient implementation of multiple controlled-X gate on a multiplexed photon.
+![multiplexing](https://parton-quark.github.io/figures/multiplexed_gate.png)
+
+Quantum communication with multiplexed photons.
+![multiplexing](https://parton-quark.github.io/figures/multiplexing_flow.png)
 </div></details>
 
 <details><summary> Multiprogramming system for fault-tolerant quatnum computers </summary><div>
 
 **Multiprogramming** achieves high-throughput computing by running multiple programs in parallel. We formally defined multiprogramming for fault-tolerant quantum computing and, for the first time, posed the corresponding online scheduling problem—think like 3D Tetris—for realizing it. Increasing throughput can substantially reduce the cost per program [[arxiv[quant-ph] 2505.06741](https://arxiv.org/abs/2505.06741)]. 
-![QM](https://parton-quark.github.io/figures/multiprogramming.pdf)
+![QM](https://parton-quark.github.io/figures/multiprogramming.png)
 </div></details>
 
 <details><summary> Formal Programming Language for Distributed Quantum Computing </summary><div>
 
 A formal programming language specifies the semantics of programs. One representative approach is **operational semantics**, which specifies how a machine executes atomic operations. Based on such semantics, one can design **type systems** that allow users to verify properties (e.g., safety) before execution. We introduced **InQuIR**, the first formal programming language for distributed quantum computing [[arXiv[quant-ph] 2302.00267](https://arxiv.org/abs/2302.00267)]. It also enables fair comparisons of compiler performance.
 
+Type system can proof whether given code can be resulted in **Dead Lock**.
+![DeadLock](https://parton-quark.github.io/figures/InQuIR.png)
 </div></details>
 
 <details><summary> Compilation and Circuit optimization for Quantum Computing </summary><div>
 
 **Compilation** and circuit optimization are crucial for harnessing the full potential of quantum computers. We proposed a compiler for noisy intermediate-scale quantum (NISQ) devices that takes qubit quality into account so users obtain higher-fidelity results [[ACM Journal on Emerging Technologies in Computing Systems Vol. 16, No. 3](https://dl.acm.org/doi/abs/10.1145/3386162)]. We also formulated the circuit-optimization problem for **defect-braiding-based surface-code fault-tolerant quantum computing** and proved its **computational complexity** [[IEEE Transactions on Quantum Engineering vol. 4, pp. 1-7, 2023](https://doi.org/10.1109/TQE.2023.3251358)].
+
+Error aware compilation for NISQ devices.
+![EA](https://parton-quark.github.io/figures/mapping.png)
+
+Defect braiding circuit.
+![DB](https://parton-quark.github.io/figures/3d_braiding_circuit.png)
 </div></details>
 
 # Paper
