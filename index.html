@@ -241,7 +241,7 @@
 <h1 class="title">西尾 真 / Shin Nishio’s profile</h1>
 </header>
 <p>I am <strong>Shin Nishio</strong>, a project assistant professor in <a href="https://sites.google.com/view/satoh-quantum-lab/">Dr. Takahiko Satoh’s Group</a> in <strong>Keio University</strong> in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in <a href="https://sites.google.com/site/danbrowneucl/group">Prof. Dan Browne’s Group</a> in <strong>University College London (UCL)</strong> in UK 🇬🇧. I am physically based in London.</p>
-<p>My interest: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation, quantum programming language, quantum error correction codes</p>
+<p>My interests are: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation, quantum programming language, quantum error correction codes</p>
 <ul>
 <li>email: parton (at) sfc.wide.ad.jp</li>
 <li><a href="https://scholar.google.com/citations?user=gZNt8twAAAAJ&amp;hl=ja">Google scholar</a></li>
@@ -250,7 +250,7 @@
 <li>Twitter: <a href="https://twitter.com/shin_tsujido">@shin_tsujido</a></li>
 </ul>
 <h2 id="news">News</h2>
-<p>2025/04/24: New paper and poster uploaded: <strong>Online Job Scheduler for Fault-tolerant Quantum Multiprogramming</strong> <a href="https://arxiv.org/abs/2505.06741">Paper(arxiv)</a> / <a href="https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf">Poster PDF</a><br> 2025/04/18: I received <a href="https://www.ipsj.or.jp/award/qs-award2.html">Student Encouragement Award</a> of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan!<br> 2025/03/24: I received the Inose Outstanding Student Award from the National Institute of Informatics as the best Ph.D. graduate of 2025!</p>
+<p>2025/04/24: New paper and poster uploaded: <strong>Online Job Scheduler for Fault-tolerant Quantum Multiprogramming</strong> <a href="https://arxiv.org/abs/2505.06741">Paper(arxiv)</a> / <a href="https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf">Poster PDF</a><br> 2025/04/18: I received <strong><a href="https://www.ipsj.or.jp/award/qs-award2.html">Student Encouragement Award</a></strong> of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan!<br> 2025/03/24: I received <strong>Inose Outstanding Student Award</strong> from the National Institute of Informatics as the best Ph.D. graduate of 2025!</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#paper">Paper</a></li>
@@ -263,6 +263,31 @@
 <li><a href="#award">Award</a></li>
 <li><a href="#hobby">Hobby</a></li>
 </ul>
+<h2 id="selected-research-projects">Selected Research Projects</h2>
+<details>
+<summary> Efficient Quantum Communication with Quantum Multiplexing </summary>
+<div>
+<p><strong>Quantum multiplexing</strong> uses multiple degrees of freedom (DoFs), or multiple modes within a single DoF to encode higher dimensional quantum information onto a single photon. Applying quantum multiplexing to quantum information–processing systems can drastically reduce resource requirements—for example, lowering the gate count of encoding circuits for quantum error-correcting codes (QECCs) [<a href="https://doi.org/10.1103/PhysRevA.107.032620">Physical Review A 107, 032620</a>] and reducing the number of photons required for QECC-based quantum communication [<a href="https://arxiv.org/abs/2406.08832">Quantum 9, 1613</a>]. We also analyzed how multiplexing affects error models, showing that it can induce correlated errors. To mitigate this, we showed that permuting physical-qubit assignments to leverage randomness and maximizing the code distance within a single photon are effective.</p>
+</div>
+</details>
+<details>
+<summary> Multiprogramming system for fault-tolerant quatnum computers </summary>
+<div>
+<p><strong>Multiprogramming</strong> achieves high-throughput computing by running multiple programs in parallel. We formally defined multiprogramming for fault-tolerant quantum computing and, for the first time, posed the corresponding online scheduling problem—think like 3D Tetris—for realizing it. Increasing throughput can substantially reduce the cost per program [<a href="https://arxiv.org/abs/2505.06741">arxiv[quant-ph] 2505.06741</a>]. <embed src="https://parton-quark.github.io/figures/multiprogramming.pdf" /></p>
+</div>
+</details>
+<details>
+<summary> Formal Programming Language for Distributed Quantum Computing </summary>
+<div>
+<p>A formal programming language specifies the semantics of programs. One representative approach is <strong>operational semantics</strong>, which specifies how a machine executes atomic operations. Based on such semantics, one can design <strong>type systems</strong> that allow users to verify properties (e.g., safety) before execution. We introduced <strong>InQuIR</strong>, the first formal programming language for distributed quantum computing [<a href="https://arxiv.org/abs/2302.00267">arXiv[quant-ph] 2302.00267</a>]. It also enables fair comparisons of compiler performance.</p>
+</div>
+</details>
+<details>
+<summary> Compilation and Circuit optimization for Quantum Computing </summary>
+<div>
+<p><strong>Compilation</strong> and circuit optimization are crucial for harnessing the full potential of quantum computers. We proposed a compiler for noisy intermediate-scale quantum (NISQ) devices that takes qubit quality into account so users obtain higher-fidelity results [<a href="https://dl.acm.org/doi/abs/10.1145/3386162">ACM Journal on Emerging Technologies in Computing Systems Vol. 16, No. 3</a>]. We also formulated the circuit-optimization problem for <strong>defect-braiding-based surface-code fault-tolerant quantum computing</strong> and proved its <strong>computational complexity</strong> [<a href="https://doi.org/10.1109/TQE.2023.3251358">IEEE Transactions on Quantum Engineering vol. 4, pp. 1-7, 2023</a>].</p>
+</div>
+</details>
 <h1 id="paper">Paper</h1>
 <h3 id="online-job-scheduler-for-fault-tolerant-quantum-multiprogramming">Online Job Scheduler for Fault-tolerant Quantum Multiprogramming</h3>
 <details>

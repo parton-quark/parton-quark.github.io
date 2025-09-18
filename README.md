@@ -2,7 +2,7 @@
 
 I am **Shin Nishio**, a project assistant professor in [Dr. Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
 
-My interest: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation,  quantum programming language, quantum error correction codes
+My interests are: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation,  quantum programming language, quantum error correction codes
 
 * email: parton (at) sfc.wide.ad.jp
 * [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
@@ -14,8 +14,8 @@ My interest: quantum information processing, system software/middleware for quan
 2025/04/24: New paper and poster uploaded:
 **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** [Paper(arxiv)](https://arxiv.org/abs/2505.06741) / 
 [Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)<br>
-2025/04/18: I received [Student Encouragement Award](https://www.ipsj.or.jp/award/qs-award2.html) of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan!<br>
-2025/03/24: I received the Inose Outstanding Student Award from the National Institute of Informatics as the best Ph.D. graduate of 2025!
+2025/04/18: I received **[Student Encouragement Award](https://www.ipsj.or.jp/award/qs-award2.html)** of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan!<br>
+2025/03/24: I received **Inose Outstanding Student Award** from the National Institute of Informatics as the best Ph.D. graduate of 2025!
 
 ## Table of Contents
 - [Paper](#paper)
@@ -27,6 +27,29 @@ My interest: quantum information processing, system software/middleware for quan
 - [Funding](#funding)
 - [Award](#award)
 - [Hobby](#hobby)
+
+## Selected Research Projects
+<details><summary> Efficient Quantum Communication with Quantum Multiplexing </summary><div>
+
+**Quantum multiplexing** uses multiple degrees of freedom (DoFs), or multiple modes within a single DoF to encode higher dimensional quantum information onto a single photon. Applying quantum multiplexing to quantum information–processing systems can drastically reduce resource requirements—for example, lowering the gate count of encoding circuits for quantum error-correcting codes (QECCs) [[Physical Review A 107, 032620](https://doi.org/10.1103/PhysRevA.107.032620)] and reducing the number of photons required for QECC-based quantum communication [[Quantum 9, 1613](https://arxiv.org/abs/2406.08832)]. We also analyzed how multiplexing affects error models, showing that it can induce correlated errors. To mitigate this, we showed that permuting physical-qubit assignments to leverage randomness and maximizing the code distance within a single photon are effective.
+</div></details>
+
+<details><summary> Multiprogramming system for fault-tolerant quatnum computers </summary><div>
+
+**Multiprogramming** achieves high-throughput computing by running multiple programs in parallel. We formally defined multiprogramming for fault-tolerant quantum computing and, for the first time, posed the corresponding online scheduling problem—think like 3D Tetris—for realizing it. Increasing throughput can substantially reduce the cost per program [[arxiv[quant-ph] 2505.06741](https://arxiv.org/abs/2505.06741)]. 
+![QM](https://parton-quark.github.io/figures/multiprogramming.pdf)
+</div></details>
+
+<details><summary> Formal Programming Language for Distributed Quantum Computing </summary><div>
+
+A formal programming language specifies the semantics of programs. One representative approach is **operational semantics**, which specifies how a machine executes atomic operations. Based on such semantics, one can design **type systems** that allow users to verify properties (e.g., safety) before execution. We introduced **InQuIR**, the first formal programming language for distributed quantum computing [[arXiv[quant-ph] 2302.00267](https://arxiv.org/abs/2302.00267)]. It also enables fair comparisons of compiler performance.
+
+</div></details>
+
+<details><summary> Compilation and Circuit optimization for Quantum Computing </summary><div>
+
+**Compilation** and circuit optimization are crucial for harnessing the full potential of quantum computers. We proposed a compiler for noisy intermediate-scale quantum (NISQ) devices that takes qubit quality into account so users obtain higher-fidelity results [[ACM Journal on Emerging Technologies in Computing Systems Vol. 16, No. 3](https://dl.acm.org/doi/abs/10.1145/3386162)]. We also formulated the circuit-optimization problem for **defect-braiding-based surface-code fault-tolerant quantum computing** and proved its **computational complexity** [[IEEE Transactions on Quantum Engineering vol. 4, pp. 1-7, 2023](https://doi.org/10.1109/TQE.2023.3251358)].
+</div></details>
 
 # Paper
 ### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
@@ -62,7 +85,7 @@ Connecting multiple processors via quantum interconnect technologies could help 
 </div></details>
 
 * **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto
-* [	Quantum 9, 1613 (2025).](https://arxiv.org/abs/2406.08832)
+* [Quantum 9, 1613 (2025).](https://arxiv.org/abs/2406.08832)
 * preprint: [arXiv[quant-ph] 2406.08832](https://arxiv.org/abs/2406.08832)
 
 ### Equilibration of Non-interacting Photons and Quantum Signatures of Chaos
