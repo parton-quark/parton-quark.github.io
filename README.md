@@ -49,7 +49,7 @@ Defect braiding circuit.
 
 ## News
 **2025/04/24**: New paper and poster uploaded:
-**Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** [arxiv](https://arxiv.org/abs/2505.06741) / 
+**Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** [arXiv](https://arxiv.org/abs/2505.06741) / 
 [Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)<br>
 **2025/04/18**: I received **[Student Encouragement Award](https://www.ipsj.or.jp/award/qs-award2.html)** of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan (IPSJ)!<br>
 **2025/03/24**: I received **Inose Outstanding Student Award** from the National Institute of Informatics as the best Ph.D. graduate of 2025!
@@ -68,13 +68,15 @@ Defect braiding circuit.
 - [Hobby](#hobby)
 
 # Papers
-**Categories**:<br>
-<span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> Quantum Error Correction and Fault-tolerant Quantum Computing<br>
-<span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QINFO</span> Quantum Information<br>
+<details><summary> Categories </summary><div>
+<span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> Quantum Error Correction and Fault-tolerant Quantum Computing<br>
+<span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> Quantum Information<br>
 <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span> System Software and Programming Languages<br>
 <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span> Quantum Machine Learning
+</div></details>
 
-### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>  
+
+### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>  
 <details><summary>Abstract</summary><div>
 Fault-tolerant quantum computers are expected to be offered as cloud services due to their significant resource and infrastructure requirements. Quantum multiprogramming, which runs multiple quantum jobs in parallel, is a promising approach to maximize the utilization of such systems. A key challenge in this setting is the need for an online scheduler capable of handling jobs submitted dynamically while other programs are already running.
 
@@ -93,7 +95,7 @@ To evaluate the performance of quantum computing systems relative to classical c
 * Suzukaze Kamei, Hideaki Kawaguchi, **Shin Nishio**, Tatakahiko Satoh
 * preprint: [arxiv[quant-ph] 2503.21514](https://arxiv.org/abs/2503.21514)
 
-### Faulty States can be used in Cat Code Error Correction <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
+### Faulty States can be used in Cat Code Error Correction <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> 
 <details><summary>Abstract</summary><div>
 Bosonic codes have seen a resurgence in interest for applications as varied as fault tolerant quantum architectures, quantum enhanced sensing, and entanglement distribution. Cat codes have been proposed as low-level elements in larger architectures, and the theory of rotationally symmetric codes more generally has been significantly expanded in the recent literature. The fault-tolerant preparation and maintenance of cat code states as a stand-alone quantum error correction scheme remains however limited by the need for robust state preparation and strong inter-mode interactions. In this work, we consider the teleportation-based correction circuit for cat code quantum error correction. We show that the class of acceptable ancillary states is broader than is typically acknowledged, and exploit this to propose the use of many-component "bridge" states which, though not themselves in the cat code space, are nonetheless capable of syndrome extraction in the regime where non-linear interactions are a limiting factor.
 </div></details>
@@ -101,7 +103,7 @@ Bosonic codes have seen a resurgence in interest for applications as varied as f
 * Michael Hanks, Soovin Lee, Nicolo Lo Piparo, **Shin Nishio**, William J. Munro, Kae Nemoto, M.S. Kim
 * preprint: [arXiv[quant-ph] 2412.15134](https://arxiv.org/abs/2412.15134)
 
-### Multiplexed Quantum Communication with Surface and Hypergraph Product Codes <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
+### Multiplexed Quantum Communication with Surface and Hypergraph Product Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
 <details><summary>Abstract</summary><div>
 Connecting multiple processors via quantum interconnect technologies could help to overcome issues of scalability in single-processor quantum computers. Transmission via these interconnects can be performed more efficiently using quantum multiplexing, where information is encoded in high-dimensional photonic degrees of freedom. We explore the effects of multiplexing on logical error rates in surface codes and hypergraph product codes. We show that, although multiplexing makes loss errors more damaging, assigning qubits to photons in an intelligent manner can minimize these effects, and the ability to encode higher-distance codes in a smaller number of photons can result in overall lower logical error rates. This multiplexing technique can also be adapted to quantum communication and multimode quantum memory with high-dimensional qudit systems.
 </div></details>
@@ -110,7 +112,7 @@ Connecting multiple processors via quantum interconnect technologies could help 
 * [Quantum 9, 1613 (2025).](https://arxiv.org/abs/2406.08832)
 * preprint: [arXiv[quant-ph] 2406.08832](https://arxiv.org/abs/2406.08832)
 
-### Equilibration of Non-interacting Photons and Quantum Signatures of Chaos <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QINFO</span>
+### Equilibration of Non-interacting Photons and Quantum Signatures of Chaos <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span>
 formerly titled: Photonic quantum signatures of chaos and boson sampling
 <details><summary>Abstract</summary><div>
 Boson sampling is a paradigmatic example of a task that can be performed by a quantum photonic computer yet is hard for digital classical computers. In a typical boson sampling experiment, the scattering amplitude is determined by the permanent of a submatrix of a unitary drawn from an ensemble of random matrices. Random matrix theory plays a very important role in quite diverse fields while at the same time being intimately related to quantum signatures of chaos. Within this framework, a chaotic quantum system exhibits level statistics characteristic of ensembles of random matrices. Such quantum signatures are encoded in the unitary evolution and so in this work we combine the dynamics of chaotic systems with boson sampling. One of the key results of our work is that we demonstrate the intimate relation between out-of-time-order correlators and boson sampling. We show that the unitary dynamics of a Floquet system may be exploited to perform sampling tasks with identical particles using single-mode phase shifters and multiport beamsplitters. At the end of our paper propose a photonic implementation of the multiparticle kicked rotor, which provides a concrete example of our general approach.
@@ -120,7 +122,7 @@ Boson sampling is a paradigmatic example of a task that can be performed by a qu
 * preprint: [arXiv[quant-ph] 2307.13200](https://arxiv.org/abs/2307.13200)
 * accepted for publication in Physical Review B 
 
-### Hardness of braided quantum circuit optimization in the surface code <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
+### Hardness of braided quantum circuit optimization in the surface code <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
 <details><summary>Abstract</summary><div>
 Large-scale quantum information processing requires the use of quantum error correcting codes to mitigate the effects of noise in quantum devices. Topological error-correcting codes, such as surface codes, are promising candidates as they can be implemented using only local interactions in a two-dimensional array of physical qubits. Procedures such as defect braiding and lattice surgery can then be used to realize a fault-tolerant universal set of gates on the logical space of such topological codes. However, error correction also introduces a significant overhead in computation time, the number of physical qubits, and the number of physical gates. While optimizing fault-tolerant circuits to minimize this overhead is critical, the computational complexity of such optimization problems remains unknown. This ambiguity leaves room for doubt surrounding the most effective methods for compiling fault-tolerant circuits for a large-scale quantum computer. In this paper, we show that the optimization of a special subset of braided quantum circuits is NP-hard by a polynomial-time reduction of the optimization problem into a specific problem called Planar Rectilinear 3SAT.
 </div></details>
@@ -146,7 +148,7 @@ The quantum extreme reservoir computation (QERC) is a versatile quantum neural n
 * Physical Review A [108, 042609](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042609`)
 * preprint: [arXiv[quant-ph] 2211.07841](https://arxiv.org/abs/2211.07841)
 
-### Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
+### Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
 <details><summary>Abstract</summary><div>
 Quantum communication technologies will play an important role in quantum information processing in the near future as we network devices together. However, their implementation is still a challenging task due to both loss and gate errors. Quantum error correction codes are one important technique to address this issue. In particular, the Quantum Reed-Solomon codes are known to be quite efficient for quantum communication tasks. The high degree of physical resources required, however, makes such a code difficult to use in practice. A recent technique called quantum multiplexing has been shown to reduce resources by using multiple degrees of freedom of a photon. In this work, we propose a method to decompose multi-controlled gates using fewer CX gates via this quantum multiplexing technique. We show that our method can significantly reduce the required number of CX gates needed in the encoding circuits for the quantum Reed-Solomon code. Our approach is also applicable to many other quantum error correction codes and quantum algorithms, including Grovers and quantum walks.
 </div></details>
@@ -541,6 +543,19 @@ I take astrophotographies on weekends.
 - 機動戦士Gundam GQuuuuuuX
 - 劇場版 鬼滅の刃 無限城編
 
-# 参考になるwebサイト
+## プロ野球
+東京ヤクルトスワローズを応援しています。
+
+## 参考になるwebサイト
 - [松尾豊 論文の書き方](https://ymatsuo.com/information/how-to-write-paper-en/)
-- [Rodney Van Meter "Abstracts for Systems Papers"](https://rdvlivefromtokyo.blogspot.com/2011/04/abstracts-for-systems-papers.html)
+- [Rodney Van Meter "Abstracts for Systems Papers"](https://rdvlivefromtokyo.blogspot.com/2011/04/abstracts-for-systems-papers.html): 英語論文の要旨の書き方
+- [ACM Computing Classification System](https://dl.acm.org/ccs): ACMによる計算機の分野の分類
+- [「審査区分表」の見直し案](https://www.mext.go.jp/a_menu/shinkou/hojyo/1385136_00007.htm): 日本学術振興会/科研費の審査区分に量子情報分野が追加されることが検討されています。「中区分91：量子情報およびその関連分野（新設区分）以下小区分： 91010 量子情報ハードウェア関連（新設区分）, 91020 量子情報システム関連（新設区分）、91030 量子情報基礎理論・応用関連（新設区分）」 これらの制度変更によって日本の量子情報分野が活性化することを期待しています。
+- [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/): 日本の博士課程支援プログラム(生活費・研究費)がまとまっている個人サイト。
+
+## 所属(過去のものを含む)のウェブサイト
+- (学部)[慶應義塾大学 SFC Advancing Quantum Architecture Group (Van Meter研)](https://aqua.sfc.wide.ad.jp/)
+- (インターン)[IBM東京基礎研究所](https://research.ibm.com/labs/tokyo)
+- (博士)[OIST Quantum Architecture Unit (根本研)](https://www.oist.jp/research/research-units/qist) 
+- (特任助教)[慶應義塾大学理工学部 佐藤貴彦研究室](https://sites.google.com/view/satoh-quantum-lab)
+- (ポスドク)[UCL QASTAL Group (Prof.Dan Browne group)](https://sites.google.com/site/danbrowneucl/home?authuser=0)
