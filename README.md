@@ -556,6 +556,9 @@ I take astrophotographies on weekends.
 ## 所属(過去のものを含む)のウェブサイト
 - (学部)[慶應義塾大学 SFC Advancing Quantum Architecture Group (Van Meter研)](https://aqua.sfc.wide.ad.jp/)
 - (インターン)[IBM東京基礎研究所](https://research.ibm.com/labs/tokyo)
-- (博士)[OIST Quantum Architecture Unit (根本研)](https://www.oist.jp/research/research-units/qist) 
+- (博士)
+  - [総合研究大学院大学 先端学術院 情報学コース](https://www.nii.ac.jp/graduate/) 在籍時には複合科学研究科情報学専攻。
+  - [Global Research Center for Quantum Information Science in the National Institute of Informatics 2004-2020](https://qis1.ex.nii.ac.jp/quantumCenter/index.html)
+  - [OIST Quantum Architecture Unit (根本研)](https://www.oist.jp/research/research-units/qist) 
 - (特任助教)[慶應義塾大学理工学部 佐藤貴彦研究室](https://sites.google.com/view/satoh-quantum-lab)
 - (ポスドク)[UCL QASTAL Group (Prof.Dan Browne group)](https://sites.google.com/site/danbrowneucl/home?authuser=0)
