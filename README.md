@@ -192,7 +192,8 @@ As the execution speed of the atomic operations of quantum computation in many p
 * Yukawa Institute for Theoretical Physics, Kyoto, Japan, 18 - 29 March 2024
 
 ## International Conferences
-### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming
+### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming 
+- [YouTube Video](https://youtu.be/Yb2j4pQ-rQs)
 - Ryo Wakizaka, <u>**Shin Nishio**</u>, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
 - Technical paper in [IEEE International Conference on Quantum Computing and Engineering (QCE2025, also known as IEEE Quantum Week 2025)](https://qce.quantum.ieee.org/2025/) Alberquerque, New Mexico, US, Aug 31 - Sep 5 2025
 - To be appear in the proceedings of 2025 IEEE International Conference on Quantum Computing and Engineering (QCE)
