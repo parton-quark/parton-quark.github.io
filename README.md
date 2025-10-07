@@ -109,7 +109,7 @@ Connecting multiple processors via quantum interconnect technologies could help 
 </div></details>
 
 * **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto
-* [Quantum 9, 1613 (2025).](https://arxiv.org/abs/2406.08832)
+* [Quantum 9, 1613 (2025).](https://quantum-journal.org/papers/q-2025-01-28-1613/)
 * preprint: [arXiv[quant-ph] 2406.08832](https://arxiv.org/abs/2406.08832)
 
 ### Equilibration of Non-interacting Photons and Quantum Signatures of Chaos <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span>
@@ -427,23 +427,23 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 # Fundings
 ### Overseas Research Fellowship (海外学振), 8 million yen per year (April 2025 - March 2027)
 - Japan Society for the Promotion of Science (JSPS)
-- Shin Nishio, Low-overhead fault-tolerant quantum computation with circuit-centric dynamical codes.
+- **Shin Nishio**, Low-overhead fault-tolerant quantum computation with circuit-centric dynamical codes.
 
 ### Overseas Challenge Program for Young Researchers (若手研究者海外挑戦プログラム), 1.4 million yen (September 2023 - December 2024)
 - Japan Society for the Promotion of Science (JSPS)
--  Shin Nishio, An exploration of triorthogonal codes for fault-tolerant quantum computing ([フォールトトレラント量子計算のための3直交符号の探索](https://www.jsps.go.jp/j-abc/abc_list/R5.html))
+-  **Shin Nishio**, An exploration of triorthogonal codes for fault-tolerant quantum computing ([フォールトトレラント量子計算のための3直交符号の探索](https://www.jsps.go.jp/j-abc/abc_list/R5.html))
 -  Host institute: University College London
 -  Host researcher: Prof. Dan Browne
 
 ### Research Fellowship for Young Scientists (学振DC1), ¥3400000(April 2022 - March 2025)
 - Japan Society for the Promotion of Science (JSPS)
-- Shin Nishio, System software construction of quantum computer clusters with quantum interconnect
+- **Shin Nishio**, System software construction of quantum computer clusters with quantum interconnect
 - [Grant Number JP22KJ1436](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1436/)
 
 ### Exploratory IT Human Resources Project (Mitou target, 未踏ターゲット事業 2018), ¥6800000 (November 2018 - March 2020)
 - Information-technology Promotion Agency (IPA) and Ministry of Economy, Trade and Industry (METI)
 - [Exploratory IT Human Resources Project](https://www.ipa.go.jp/jinzai/target/index.html)
-- Adopted project: Shin Nishio(representative), Ryosuke Satoh, Yasuhiro Okura, [“Implementation and improvement of machine learning tools using quantum computers”](https://www.ipa.go.jp/jinzai/target/2018/seika2.html)
+- Adopted project: **Shin Nishio**(representative), Ryosuke Satoh, Yasuhiro Okura, [“Implementation and improvement of machine learning tools using quantum computers”](https://www.ipa.go.jp/jinzai/target/2018/seika2.html)
 
 
 # Awards
@@ -551,6 +551,7 @@ I take astrophotographies on weekends.
 - [松尾豊 論文の書き方](https://ymatsuo.com/information/how-to-write-paper-en/)
 - [Rodney Van Meter "Abstracts for Systems Papers"](https://rdvlivefromtokyo.blogspot.com/2011/04/abstracts-for-systems-papers.html): 英語論文の要旨の書き方
 - [ACM Computing Classification System](https://dl.acm.org/ccs): ACMによる計算機の分野の分類
+- [IEEE Thesaurus and IEEE Taxonomy Access](https://www.ieee.org/publications/services/thesaurus-thank-you): IEEEによる分野の分類
 - [「審査区分表」の見直し案](https://www.mext.go.jp/a_menu/shinkou/hojyo/1385136_00007.htm): 日本学術振興会/科研費の審査区分に量子情報分野が追加されることが検討されています。「中区分91：量子情報およびその関連分野（新設区分）以下小区分： 91010 量子情報ハードウェア関連（新設区分）, 91020 量子情報システム関連（新設区分）、91030 量子情報基礎理論・応用関連（新設区分）」 これらの制度変更によって日本の量子情報分野が活性化することを期待しています。
 - [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/): 日本の博士課程支援プログラム(生活費・研究費)がまとまっている個人サイト。
 
