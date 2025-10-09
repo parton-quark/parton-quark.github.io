@@ -48,6 +48,7 @@ Defect braiding circuit.
 </div></details>
 
 ## News
+**2025/10/08**: Our paper **Equilibration of Non-interacting Photons and Quantum Signatures of Chaos** has been published on [Phys. Rev. B](https://doi.org/10.1103/tmw1-vry7).
 **2025/04/24**: New paper and poster uploaded:
 **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** [arXiv](https://arxiv.org/abs/2505.06741) / 
 [Poster PDF](https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf)<br>
@@ -84,8 +85,9 @@ In this study, we formulate the online job scheduling problem for fault-tolerant
 </div></details>
 
 - **Shin Nishio**, Ryo Wakizaka, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
-- preprint: [arxiv[quant-ph] 2505.06741](https://arxiv.org/abs/2505.06741)
 - accepted for publication in the Proceedings of IEEE QCE 2025
+- preprint: [arxiv[quant-ph] 2505.06741](https://arxiv.org/abs/2505.06741)
+
 
 ### Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span>
 <details><summary>Abstract</summary><div>
@@ -109,7 +111,7 @@ Connecting multiple processors via quantum interconnect technologies could help 
 </div></details>
 
 * **Shin Nishio**, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto
-* [Quantum 9, 1613 (2025).](https://quantum-journal.org/papers/q-2025-01-28-1613/)
+* Quantum [9, 1613 (2025).](https://quantum-journal.org/papers/q-2025-01-28-1613/)
 * preprint: [arXiv[quant-ph] 2406.08832](https://arxiv.org/abs/2406.08832)
 
 ### Equilibration of Non-interacting Photons and Quantum Signatures of Chaos <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span>
@@ -119,8 +121,9 @@ Boson sampling is a paradigmatic example of a task that can be performed by a qu
 </div></details>
 
 * V. M. Bastidas, H. Nourse, A. Sakurai, A. Hayashi, **S. Nishio**, Kae Nemoto, W. J. Munro
+* Physical Review B [112, 134304](https://doi.org/10.1103/tmw1-vry7)
 * preprint: [arXiv[quant-ph] 2307.13200](https://arxiv.org/abs/2307.13200)
-* accepted for publication in Physical Review B 
+ 
 
 ### Hardness of braided quantum circuit optimization in the surface code <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
 <details><summary>Abstract</summary><div>
