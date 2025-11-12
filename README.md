@@ -48,6 +48,7 @@ Defect braiding circuit.
 </div></details>
 
 ## News
+**2025/11/10**: New paper uploaded: **Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling** [arXiv](https://arxiv.org/abs/2511.06758) <br>
 **2025/10/08**: Our paper **Equilibration of Non-interacting Photons and Quantum Signatures of Chaos** has been published on [Phys. Rev. B](https://doi.org/10.1103/tmw1-vry7).
 **2025/04/24**: New paper and poster uploaded:
 **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** [arXiv](https://arxiv.org/abs/2505.06741) / 
@@ -75,6 +76,21 @@ Defect braiding circuit.
 <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span> System Software and Programming Languages<br>
 <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span> Quantum Machine Learning
 </div></details>
+
+
+### Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
+<details><summary>Abstract</summary><div>
+The surface code is one of the leading quantum error correction codes for realizing large-scale fault-tolerant quantum computing (FTQC).
+One major challenge in realizing surface-code-based FTQC is the extremely large number of qubits required. To mitigate this problem, fusing multiple codewords of the surface code into a densely packed configuration has been proposed. It is known that by using dense packing, the number of physical qubits required per logical qubit can be reduced to approximately three-fourths compared to simply placing surface-code patches side by side.
+Despite its potential, concrete deformation procedures and quantitative error-rate analyses have remained largely unexplored.
+In this work, we present a detailed code-deformation procedure that transforms multiple standard surface code patches into a densely packed, connected configuration, along with a conceptual microarchitecture to utilize this dense packing. We also propose a CNOT gate-scheduling for stabilizer measurement circuits that suppresses hook errors in the densely packed surface code. 
+We performed circuit-level Monte Carlo noise simulation of densely packed surface codes using this gate scheduling.
+The numerical results demonstrate that as the code distance of the densely packed surface code increases and the physical error rate decreases, the logical error rate of the densely packed surface code becomes lower than that of the standard surface code.
+Furthermore, we find that only when employing hook-error-avoiding syndrome extraction can the densely packed surface code achieve a lower logical error rate than the standard surface code, while simultaneously reducing the space overhead.
+</div></details>
+
+- Kohei Fujiu, Shota Nagayama, **Shin Nishio**, Hideaki Kawaguchi, Takahiko Satoh
+- preprint: [arxiv[quant-ph] 2511.06758](https://arxiv.org/abs/2511.06758)
 
 
 ### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>  
@@ -492,20 +508,21 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
     * Paris, Sorbonne Université, 15 - 17 November 2023
     * Event Host: Pierre-Emmanuel Emeriau, Organized by Quandela
 
-## Astronomy
+## その他
+### Astronomy
 * 慶應義塾大学文化団体連盟所属団体 宇宙科学総合研究会 [LYNCS](https://lyncs-keio.net/)(Laboratory of sYNnthetic Cosmic Science, リンクス)18年度代表/ 2018 representative
 
 I take astrophotographies on weekends.
 
 
-## [Satellite](https://lyncs-keio.net/advance/)
+### [Satellite](https://lyncs-keio.net/advance/)
 * 2016年第24回衛星設計コンテスト 設計の部: 全天周宇宙映像収集衛星「Sachika」 地球電磁気・地球惑星圏学会賞受賞\
   西尾は模型製作を担当。
 
 * 2017年第25回衛星設計コンテスト アイデアの部「光格子時計測位衛星 ツキアカリ」応募(代表)。
 * Cansat
 
-## Camera
+### Camera
 * Camera
   * Nikon D7200
   * Nikon D7100 (IR filter modificated)
@@ -516,7 +533,7 @@ I take astrophotographies on weekends.
 * Telescope
   * Redcat 51
 
-## Robot-SciFi (including games, novels, and so on)
+### Robot-SciFi (including games, novels, and so on)
 * Yoshiyuki Tomino's anime
 * All Anime of Gundam Series(especially ∀, Reconguista in G, and Victory)
 * Full Matal Panic!
@@ -526,7 +543,7 @@ I take astrophotographies on weekends.
 * Getter Robot
 * MACROSS (Zero, F)
 
-## Favorite Video Games
+### Favorite Video Games
 * Gundam EXVS series
 * Metal Gear Solid Series
 * 十三機兵防衛圏
@@ -540,14 +557,15 @@ I take astrophotographies on weekends.
 * 信長の野望
 * Drag on Dragoon and Nier series
 * Pokemon
+* GNOSIA
 * レイジングループ
 
-## 最近みたもの
+### 最近みたもの
 - 天国大魔境
 - 機動戦士Gundam GQuuuuuuX
 - 劇場版 鬼滅の刃 無限城編
 
-## プロ野球
+### プロ野球
 東京ヤクルトスワローズを応援しています。
 
 ## 参考になるwebサイト
@@ -557,10 +575,11 @@ I take astrophotographies on weekends.
 - [IEEE Thesaurus and IEEE Taxonomy Access](https://www.ieee.org/publications/services/thesaurus-thank-you): IEEEによる分野の分類
 - [「審査区分表」の見直し案](https://www.mext.go.jp/a_menu/shinkou/hojyo/1385136_00007.htm): 日本学術振興会/科研費の審査区分に量子情報分野が追加されることが検討されています。「中区分91：量子情報およびその関連分野（新設区分）以下小区分： 91010 量子情報ハードウェア関連（新設区分）, 91020 量子情報システム関連（新設区分）、91030 量子情報基礎理論・応用関連（新設区分）」 これらの制度変更によって日本の量子情報分野が活性化することを期待しています。
 - [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/): 日本の博士課程支援プログラム(生活費・研究費)がまとまっている個人サイト。
+- [How to use latexdiff on Overleaf](https://ja.overleaf.com/learn/latex/Articles/How_to_use_latexdiff_on_Overleaf)
 
 ## 所属(過去のものを含む)のウェブサイト
 - (学部)[慶應義塾大学 SFC Advancing Quantum Architecture Group (Van Meter研)](https://aqua.sfc.wide.ad.jp/)
-- (インターン)[IBM東京基礎研究所](https://research.ibm.com/labs/tokyo)
+- (インターン) [IBM東京基礎研究所](https://research.ibm.com/labs/tokyo)
 - (博士)
   - [総合研究大学院大学 先端学術院 情報学コース](https://www.nii.ac.jp/graduate/) 在籍時には複合科学研究科情報学専攻。
   - [Global Research Center for Quantum Information Science in the National Institute of Informatics 2004-2020](https://qis1.ex.nii.ac.jp/quantumCenter/index.html)
