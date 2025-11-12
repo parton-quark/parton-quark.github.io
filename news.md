@@ -1,4 +1,3 @@
-## News
 **2025/11/10**: New paper uploaded: **Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling** [arXiv](https://arxiv.org/abs/2511.06758) <br>
 **2025/10/08**: Our paper **Equilibration of Non-interacting Photons and Quantum Signatures of Chaos** has been published on [Phys. Rev. B](https://doi.org/10.1103/tmw1-vry7).
 **2025/04/24**: New paper and poster uploaded:
