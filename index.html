@@ -237,6 +237,20 @@
   <a href="#fundings">Funding</a>
   <a href="#awards">Award</a>
 </nav>
+
+<style>
+.news-container {
+  max-height: 200px;      /* ニュース欄の高さ（好みで） */
+  overflow: hidden;       /* iframe 自体のはみ出しを隠す（任意） */
+}
+
+.news-container iframe {
+  width: 100%;
+  height: 200px;          /* 上の max-height と揃える */
+  border: none;
+  overflow-y: scroll;     /* スクロールバーを出す */
+}
+</style>
 <header id="title-block-header">
 <h1 class="title">西尾 真 / Shin Nishio’s profile</h1>
 </header>
@@ -280,7 +294,9 @@
 </div>
 </details>
 <h2 id="news">News</h2>
-<p><strong>2025/11/10</strong>: New paper uploaded: <strong>Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling</strong> <a href="https://arxiv.org/abs/2511.06758">arXiv</a> <br> <strong>2025/10/08</strong>: Our paper <strong>Equilibration of Non-interacting Photons and Quantum Signatures of Chaos</strong> has been published on <a href="https://doi.org/10.1103/tmw1-vry7">Phys. Rev. B</a>. <strong>2025/04/24</strong>: New paper and poster uploaded: <strong>Online Job Scheduler for Fault-tolerant Quantum Multiprogramming</strong> <a href="https://arxiv.org/abs/2505.06741">arXiv</a> / <a href="https://parton-quark.github.io/poster/QCTiP2025_OnlineScheduler.pdf">Poster PDF</a><br> <strong>2025/04/18</strong>: I received <strong><a href="https://www.ipsj.or.jp/award/qs-award2.html">Student Encouragement Award</a></strong> of 14th symposium of SIG on Quantum Software, the Information Processing Society of Japan (IPSJ)!<br> <strong>2025/03/24</strong>: I received <strong>Inose Outstanding Student Award</strong> from the National Institute of Informatics as the best Ph.D. graduate of 2025!</p>
+<div class="news-container">
+<p><iframe src="news.html" title="News" loading="lazy"></iframe></p>
+</div>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#papers">Papers</a></li>
