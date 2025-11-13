@@ -160,7 +160,7 @@ The quantum extreme reservoir computation (QERC) is a versatile quantum neural n
 </div></details>
 
 * Aoi Hayashi, Akitada Sakurai, **Shin Nishio**, William J Munro, Kae Nemoto
-* Physical Review A [108, 042609](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042609`)
+* Physical Review A [108, 042609](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042609)
 * preprint: [arXiv[quant-ph] 2211.07841](https://arxiv.org/abs/2211.07841)
 
 ### Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
