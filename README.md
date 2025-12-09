@@ -74,6 +74,14 @@ Defect braiding circuit.
 </div></details>
 
 
+### RuleSet Generation Framework for Application Layer Integration in Quantum Internet <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
+<details><summary>Abstract</summary><div>
+Layered architectures for the Quantum Internet have been proposed, inspired by that of the classical Internet, which has demonstrated high maintainability even in large-scale systems. While lower layers in the Quantum Internet, such as entanglement generation and distribution, have been extensively studied, the application layer - responsible for translating user requests into executable quantum-network operations - remains largely unexplored. A significant challenge is translating application-level requests into the concrete instructions executable at lower layers. In this work, we introduce a RuleSet-based framework that explicitly incorporates the application layer into the layered architecture of the Quantum Internet. Our framework builds on a RuleSet-based protocol, clarifying communication procedures, organizing application request information, and introducing new Rules for application execution by embedding application specifications into RuleSets. To evaluate feasibility, we constructed state machines from the generated RuleSets. This approach enables a transparent integration from the application layer down to the physical layer, thereby lowering barriers to deploying new applications on the Quantum Internet.
+</div></details>
+
+- Rei Kawano, **Shin Nishio**, Hideaki Kawaguchi, Shota Nagayama, Takahiko Satoh
+- preprint: [arxiv[quant-ph] 2512.07475](https://arxiv.org/abs/2512.07475)
+
 ### Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
 <details><summary>Abstract</summary><div>
 The surface code is one of the leading quantum error correction codes for realizing large-scale fault-tolerant quantum computing (FTQC).
@@ -97,7 +105,7 @@ In this study, we formulate the online job scheduling problem for fault-tolerant
 </div></details>
 
 - **Shin Nishio**, Ryo Wakizaka, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
-- accepted for publication in the Proceedings of IEEE QCE 2025
+- Proceedings of [2025 IEEE International Conference on Quantum Computing and Engineering](https://doi.org/10.1109/QCE65121.2025.00090) (IEEE QCE 2025)
 - preprint: [arxiv[quant-ph] 2505.06741](https://arxiv.org/abs/2505.06741)
 
 
