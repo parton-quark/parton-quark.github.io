@@ -512,6 +512,25 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
     * Paris, Sorbonne Université, 15 - 17 November 2023
     * Event Host: Pierre-Emmanuel Emeriau, Organized by Quandela
 
+## 所属(過去のものを含む)のウェブサイト
+- (学部)[慶應義塾大学 SFC Advancing Quantum Architecture Group (Van Meter研)](https://aqua.sfc.wide.ad.jp/)
+- (インターン) [IBM東京基礎研究所](https://research.ibm.com/labs/tokyo)
+- (博士)
+  - [総合研究大学院大学 先端学術院 情報学コース](https://www.nii.ac.jp/graduate/) 在籍時には複合科学研究科情報学専攻。
+  - [Global Research Center for Quantum Information Science in the National Institute of Informatics 2004-2020](https://qis1.ex.nii.ac.jp/quantumCenter/index.html)
+  - [OIST Quantum Architecture Unit (根本研)](https://www.oist.jp/research/research-units/qist) 
+- (特任助教)[慶應義塾大学理工学部 佐藤貴彦研究室](https://sites.google.com/view/satoh-quantum-lab)
+- (ポスドク)[UCL QASTAL Group (Prof.Dan Browne group)](https://sites.google.com/site/danbrowneucl/home?authuser=0)
+
+## 参考になるwebサイト
+- [松尾豊 論文の書き方](https://ymatsuo.com/information/how-to-write-paper-en/)
+- [Rodney Van Meter "Abstracts for Systems Papers"](https://rdvlivefromtokyo.blogspot.com/2011/04/abstracts-for-systems-papers.html): 英語論文の要旨の書き方
+- [ACM Computing Classification System](https://dl.acm.org/ccs): ACMによる計算機の分野の分類
+- [IEEE Thesaurus and IEEE Taxonomy Access](https://www.ieee.org/publications/services/thesaurus-thank-you): IEEEによる分野の分類
+- [「審査区分表」の見直し案](https://www.mext.go.jp/a_menu/shinkou/hojyo/1385136_00007.htm): 日本学術振興会/科研費の審査区分に量子情報分野が追加されることが検討されています。「中区分91：量子情報およびその関連分野（新設区分）以下小区分： 91010 量子情報ハードウェア関連（新設区分）, 91020 量子情報システム関連（新設区分）、91030 量子情報基礎理論・応用関連（新設区分）」 これらの制度変更によって日本の量子情報分野が活性化することを期待しています。
+- [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/): 日本の博士課程支援プログラム(生活費・研究費)がまとまっている個人サイト。
+- [How to use latexdiff on Overleaf](https://ja.overleaf.com/learn/latex/Articles/How_to_use_latexdiff_on_Overleaf)
+
 ## その他
 ### Astronomy
 * 慶應義塾大学文化団体連盟所属団体 宇宙科学総合研究会 [LYNCS](https://lyncs-keio.net/)(Laboratory of sYNnthetic Cosmic Science, リンクス)18年度代表/ 2018 representative
@@ -571,22 +590,3 @@ I take astrophotographies on weekends.
 
 ### プロ野球
 東京ヤクルトスワローズを応援しています。
-
-## 参考になるwebサイト
-- [松尾豊 論文の書き方](https://ymatsuo.com/information/how-to-write-paper-en/)
-- [Rodney Van Meter "Abstracts for Systems Papers"](https://rdvlivefromtokyo.blogspot.com/2011/04/abstracts-for-systems-papers.html): 英語論文の要旨の書き方
-- [ACM Computing Classification System](https://dl.acm.org/ccs): ACMによる計算機の分野の分類
-- [IEEE Thesaurus and IEEE Taxonomy Access](https://www.ieee.org/publications/services/thesaurus-thank-you): IEEEによる分野の分類
-- [「審査区分表」の見直し案](https://www.mext.go.jp/a_menu/shinkou/hojyo/1385136_00007.htm): 日本学術振興会/科研費の審査区分に量子情報分野が追加されることが検討されています。「中区分91：量子情報およびその関連分野（新設区分）以下小区分： 91010 量子情報ハードウェア関連（新設区分）, 91020 量子情報システム関連（新設区分）、91030 量子情報基礎理論・応用関連（新設区分）」 これらの制度変更によって日本の量子情報分野が活性化することを期待しています。
-- [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/): 日本の博士課程支援プログラム(生活費・研究費)がまとまっている個人サイト。
-- [How to use latexdiff on Overleaf](https://ja.overleaf.com/learn/latex/Articles/How_to_use_latexdiff_on_Overleaf)
-
-## 所属(過去のものを含む)のウェブサイト
-- (学部)[慶應義塾大学 SFC Advancing Quantum Architecture Group (Van Meter研)](https://aqua.sfc.wide.ad.jp/)
-- (インターン) [IBM東京基礎研究所](https://research.ibm.com/labs/tokyo)
-- (博士)
-  - [総合研究大学院大学 先端学術院 情報学コース](https://www.nii.ac.jp/graduate/) 在籍時には複合科学研究科情報学専攻。
-  - [Global Research Center for Quantum Information Science in the National Institute of Informatics 2004-2020](https://qis1.ex.nii.ac.jp/quantumCenter/index.html)
-  - [OIST Quantum Architecture Unit (根本研)](https://www.oist.jp/research/research-units/qist) 
-- (特任助教)[慶應義塾大学理工学部 佐藤貴彦研究室](https://sites.google.com/view/satoh-quantum-lab)
-- (ポスドク)[UCL QASTAL Group (Prof.Dan Browne group)](https://sites.google.com/site/danbrowneucl/home?authuser=0)
