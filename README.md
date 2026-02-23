@@ -193,6 +193,12 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 
 # Presentations
 ##  Invited Talks
+### Online Job Scheduler for Fault-Tolerant Quantum Multiprogramming
+* **Shin Nishio** 
+* [Q-LEAP Workshop: Towards Building a Large-Scale Quantum Computer](https://sites.google.com/nii.ac.jp/q-leap-workshop-2026/)
+* National Institute of Informatics, Tokyo, Japan (19 Feburary 2026)
+
+
 ### Toward Scalable Multicore Fault-Tolerant Quantum Computers using Quantum Multiplexing
 * [Abstract PDF](https://parton-quark.github.io/abstract/2025_07_31_quantuminnovation_abstract.pdf), [Slides PDF](https://parton-quark.github.io/slides/2025_07_31_QuantumInnovation.pdf)
 * **Shin Nishio**
@@ -458,12 +464,12 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 -  Host institute: University College London
 -  Host researcher: Prof. Dan Browne
 
-### Research Fellowship for Young Scientists (学振DC1), ¥3400000(April 2022 - March 2025)
+### Research Fellowship for Young Scientists (学振DC1), 3.4 million yen(April 2022 - March 2025)
 - Japan Society for the Promotion of Science (JSPS)
 - **Shin Nishio**, System software construction of quantum computer clusters with quantum interconnect
 - [Grant Number JP22KJ1436](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1436/)
 
-### Exploratory IT Human Resources Project (Mitou target, 未踏ターゲット事業 2018), ¥6800000 (November 2018 - March 2020)
+### Exploratory IT Human Resources Project (Mitou target, 未踏ターゲット事業 2018), 6.8 million yen (November 2018 - March 2020)
 - Information-technology Promotion Agency (IPA) and Ministry of Economy, Trade and Industry (METI)
 - [Exploratory IT Human Resources Project](https://www.ipa.go.jp/jinzai/target/index.html)
 - Adopted project: **Shin Nishio**(representative), Ryosuke Satoh, Yasuhiro Okura, [“Implementation and improvement of machine learning tools using quantum computers”](https://www.ipa.go.jp/jinzai/target/2018/seika2.html)
@@ -525,6 +531,7 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 ## 参考になるwebサイト
 - [松尾豊 論文の書き方](https://ymatsuo.com/information/how-to-write-paper-en/)
 - [Rodney Van Meter "Abstracts for Systems Papers"](https://rdvlivefromtokyo.blogspot.com/2011/04/abstracts-for-systems-papers.html): 英語論文の要旨の書き方
+- William Strunk Jr. and E.B. White "The Elements of Style" 英語ライティングの短い教科書。
 - [ACM Computing Classification System](https://dl.acm.org/ccs): ACMによる計算機の分野の分類
 - [IEEE Thesaurus and IEEE Taxonomy Access](https://www.ieee.org/publications/services/thesaurus-thank-you): IEEEによる分野の分類
 - [「審査区分表」の見直し案](https://www.mext.go.jp/a_menu/shinkou/hojyo/1385136_00007.htm): 日本学術振興会/科研費の審査区分に量子情報分野が追加されることが検討されています。「中区分91：量子情報およびその関連分野（新設区分）以下小区分： 91010 量子情報ハードウェア関連（新設区分）, 91020 量子情報システム関連（新設区分）、91030 量子情報基礎理論・応用関連（新設区分）」 これらの制度変更によって日本の量子情報分野が活性化することを期待しています。
@@ -584,6 +591,8 @@ I take astrophotographies on weekends.
 * レイジングループ
 
 ### 最近みたもの
+- 閃光のハサウェイ
+- グノーシア
 - 天国大魔境
 - 機動戦士Gundam GQuuuuuuX
 - 劇場版 鬼滅の刃 無限城編
