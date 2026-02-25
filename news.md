@@ -1,3 +1,4 @@
+**2026/02/25**: New paper uploaded: **Telemetry-Based Server Selection in the Quantum Internet via Cross-Layer Runtime Estimation** on [arXiv](https://arxiv.org/abs/2602.21007).<br>
 **2025/12/08**: New paper uploaded: **RuleSet Generation Framework for Application Layer Integration in Quantum Internet** on [arXiv](https://arxiv.org/abs/2512.07475).<br>
 **2025/12/01**: Our paper **Online Job Scheduler for Fault-tolerant Quantum Multiprogramming** has been published in the proceedings of [IEEE QCE2025](https://doi.org/10.1109/QCE65121.2025.00090).<br>
 **2025/11/10**: New paper uploaded: **Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling** on [arXiv](https://arxiv.org/abs/2511.06758).<br>

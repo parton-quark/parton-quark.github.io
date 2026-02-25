@@ -73,6 +73,14 @@ Defect braiding circuit.
 <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span> Quantum Machine Learning
 </div></details>
 
+### Telemetry-Based Server Selection in the Quantum Internet via Cross-Layer Runtime Estimation <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
+<details><summary>Abstract</summary><div>
+The Quantum Internet will allow clients to delegate quantum workloads to remote servers over heterogeneous networks, but choosing the server that minimizes end-to-end execution time is difficult because server processing, feedforward classical communication, and entanglement distribution can overlap in protocol-dependent ways and shift the runtime bottleneck. We propose Tmax, a lightweight runtime score that sums coarse telemetry from multiple layers to obtain a conservative ranking for online server selection without calibrating weights for each deployment. Using NetSquid discrete-event simulations of a modified parameter-blind VQE (PB-VQE) workload, we evaluate Tmax on pools of 10,000 heterogeneous candidates (selecting among up to 100 per decision) across crossover and bottleneck-dominated regimes, including temporal jitter scenarios and jobs with multiple shots. Tmax achieves single-digit mean regret normalized by the oracle (below 10%) in both regimes and remains in the single-digit range under classical communication latency jitter for multi-shot jobs, while performance degrades for single-shot jobs under severe jitter. To connect performance to deployment planning, we derive an operating map based on requirements relating distance and entanglement rate requirements to protocol level counts, quantify how simple multiuser contention shifts the crossover, and use Sobol global sensitivity analysis to identify regime-dependent bottlenecks. These findings suggest that simple cross-layer telemetry can enable practical server selection while providing actionable provisioning guidance for emerging Quantum Internet services.
+</div></details>
+
+- Masaki Nagai, Hideaki Kawaguchi, **Shin Nishio**, Takahiko Satoh
+- preprint: [arxiv[quant-ph] 2602.21007
+](https://arxiv.org/abs/2602.21007)
 
 ### RuleSet Generation Framework for Application Layer Integration in Quantum Internet <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
 <details><summary>Abstract</summary><div>
