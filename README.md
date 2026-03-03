@@ -1,6 +1,6 @@
 % 西尾 真 / Shin Nishio's profile
 
-I am **Shin Nishio**, a project assistant professor in [Dr. Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
+I am **Shin Nishio**, a project assistant professor in [Prof. Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
 
 My interests are: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation,  quantum programming language, quantum error correction codes
 
@@ -79,8 +79,7 @@ Local complement is a graph operation formalized by Bouchet which replaces the n
 </div></details>
 
 - Nicholas Connolly, **Shin Nishio**, Kae Nemoto
-- preprint: [arxiv[quant-ph] 2602.23825
-](https://arxiv.org/abs/2602.23825)
+- preprint: [arxiv[math.CO] 2602.23825](https://arxiv.org/abs/2602.23825)
 
 
 ### Telemetry-Based Server Selection in the Quantum Internet via Cross-Layer Runtime Estimation <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
