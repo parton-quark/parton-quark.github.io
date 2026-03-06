@@ -5,7 +5,7 @@ I am **Shin Nishio**, a project assistant professor in [Prof. Takahiko Satoh's G
 My interests are: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation,  quantum programming language, quantum error correction codes
 
 * email: parton (at) sfc.wide.ad.jp
-* [Google scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
+* [Google Scholar](https://scholar.google.com/citations?user=gZNt8twAAAAJ&hl=ja)
 * ORCiD [0000-0003-2659-5930](https://orcid.org/0000-0003-2659-5930)
 * GitHub: [parton-quark](https://github.com/parton-quark)
 * Twitter: [\@shin_tsujido](https://twitter.com/shin_tsujido)
