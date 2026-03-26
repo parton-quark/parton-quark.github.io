@@ -66,12 +66,21 @@ Defect braiding circuit.
 - [Hobby](#hobby)
 
 # Papers
-<details><summary> Categories </summary><div>
+<!-- <details><summary> Categories </summary><div> -->
 <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> Quantum Error Correction and Fault-tolerant Quantum Computing<br>
 <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> Quantum Information<br>
 <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span> System Software and Programming Languages<br>
 <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span> Quantum Machine Learning
+<!-- </div></details> -->
+
+### Efficient Preparation of Graph States using the Quotient-Augmented Strong Split Tree <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
+<details><summary>Abstract</summary><div>
+Graph states are a key resource for measurement-based quantum computation and quantum networking, but state-preparation costs limit their practical use. Graph states related by local complement (LC) operations are equivalent up to single-qubit Clifford gates; one may reduce entangling resources by preparing a favorable LC-equivalent representative. However, exhaustive optimization over the LC orbit is not scalable. We address this problem using the split decomposition and its quotient-augmented strong split tree (QASST). For several families of distance-hereditary (DH) graphs, we use the QASST to characterize LC orbits and identify representatives with reduced controlled-Z count or preparation circuit depth. We also introduce a split-fuse construction for arbitrary DH graph states, achieving linear scaling with respect to entangling gates, time steps, and auxiliary qubits. Beyond the DH setting, we discuss a generalized divide-and-conquer split-fuse strategy and a simple greedy heuristic for generic graphs based on triangle enumeration. Together, these methods outperform direct implementations on sufficiently large graphs, providing a scalable alternative to brute-force optimization.
 </div></details>
+
+- Nicholas Connolly, Shin Nishio, Dan E. Browne, Willian John Munro, Kae Nemoto
+- preprint: [arXiv[quant-ph] 2603.23892](https://arxiv.org/abs/2603.23892)
+
 
 ### Local Equivalence Classes of Distance-Hereditary Graphs using Split Decompositions <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span>
 <details><summary>Abstract</summary><div>
