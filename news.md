@@ -1,5 +1,5 @@
-<!-- **2026/03/XX**: Our paper **Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling** has been published in [Phys. Rev. A]().<br>
-**2026/03/XX**: Our paper **Use of faulty states in cat-code error correction** has been published on [Phys. Rev. A](https://doi.org/10.1103/vb9n-g6gx).<br> -->
+<!-- **2026/03/XX**: Our paper **Use of faulty states in cat-code error correction** has been published on [Phys. Rev. A](https://doi.org/10.1103/vb9n-g6gx).<br> -->
+**2026/04/03**: Our paper **Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling** has been published in [Phys. Rev. A](https://doi.org/10.1103/7lm4-3bnh).<br>
 **2026/03/26**: New paper uploaded: **Efficient Preparation of Graph States using the Quotient-Augmented Strong Split Tree** on [arXiv](https://arxiv.org/abs/2603.23892).<br>
 **2026/03/02**: New paper uploaded: **Local Equivalence Classes of Distance-Hereditary Graphs using Split Decompositions** on [arXiv](https://arxiv.org/abs/2602.23825).<br>
 **2026/02/25**: New paper uploaded: **Telemetry-Based Server Selection in the Quantum Internet via Cross-Layer Runtime Estimation** on [arXiv](https://arxiv.org/abs/2602.21007).<br>
