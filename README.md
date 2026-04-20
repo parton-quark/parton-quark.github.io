@@ -144,12 +144,13 @@ To evaluate the performance of quantum computing systems relative to classical c
 * Suzukaze Kamei, Hideaki Kawaguchi, **Shin Nishio**, Tatakahiko Satoh
 * preprint: [arxiv[quant-ph] 2503.21514](https://arxiv.org/abs/2503.21514)
 
-### Faulty States can be used in Cat Code Error Correction <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> 
+### Use of faulty states in cat-code error correction <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> 
 <details><summary>Abstract</summary><div>
-Bosonic codes have seen a resurgence in interest for applications as varied as fault tolerant quantum architectures, quantum enhanced sensing, and entanglement distribution. Cat codes have been proposed as low-level elements in larger architectures, and the theory of rotationally symmetric codes more generally has been significantly expanded in the recent literature. The fault-tolerant preparation and maintenance of cat code states as a stand-alone quantum error correction scheme remains however limited by the need for robust state preparation and strong inter-mode interactions. In this work, we consider the teleportation-based correction circuit for cat code quantum error correction. We show that the class of acceptable ancillary states is broader than is typically acknowledged, and exploit this to propose the use of many-component "bridge" states which, though not themselves in the cat code space, are nonetheless capable of syndrome extraction in the regime where non-linear interactions are a limiting factor.
+Bosonic codes have seen a resurgence in interest for applications as varied as fault-tolerant quantum architectures, quantum enhanced sensing, and entanglement distribution. Cat codes have been proposed as low-level elements in larger architectures, and the theory of rotationally symmetric codes more generally has been significantly expanded in the recent literature. The fault-tolerant preparation and maintenance of cat-code states as a standalone quantum error correction scheme remains, however, limited by the need for robust state preparation and strong intermode interactions. In this work, we consider the teleportation-based correction circuit for cat-code quantum error correction. We show that the class of acceptable ancillary states is broader than is typically acknowledged, and exploit this to propose the use of many-component bridge states, which, though not themselves in the cat-code space, are nonetheless capable of syndrome extraction in the regime where nonlinear interactions are a limiting factor.
 </div></details>
 
 * Michael Hanks, Soovin Lee, Nicolo Lo Piparo, **Shin Nishio**, William J. Munro, Kae Nemoto, M.S. Kim
+* Physical Review A [113, 042621](https://doi.org/10.1103/vb9n-g6gx)
 * preprint: [arXiv[quant-ph] 2412.15134](https://arxiv.org/abs/2412.15134)
 
 ### Multiplexed Quantum Communication with Surface and Hypergraph Product Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
