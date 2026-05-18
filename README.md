@@ -1,6 +1,6 @@
 % 西尾 真 / Shin Nishio's profile
 
-I am **Shin Nishio**, a project assistant professor in [Prof. Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://sites.google.com/site/danbrowneucl/group) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
+I am **Shin Nishio**, a project assistant professor in [Prof. Takahiko Satoh's Group](https://sites.google.com/view/satoh-quantum-lab/) in **Keio University** in Japan 🇯🇵.　I am also a research associate funded by Overseas Research Fellowships of JSPS (海外学振) in [Prof. Dan Browne's Group](https://www.homepages.ucl.ac.uk/~ucapdeb/) in **University College London (UCL)** in UK 🇬🇧. I am physically based in London. 
 
 My interests are: quantum information processing, system software/middleware for quantum computing, fault-tolerant quantum computation,  quantum programming language, quantum error correction codes
 
@@ -221,6 +221,11 @@ Our compiler uses this subsystem and maps complete circuits onto the machine usi
 
 # Presentations
 ##  Invited Talks
+### Detecting Qubit Loss without Leakage Detection Units
+* **Shin Nishio** and **Dan Browne**
+* [QEC Workshop @ UCL](https://ucl-qec-workshop.sessionize.com/speaker/7f504513-5b2a-4213-b9b9-e34fc489c038)
+* University College London, UK (7 May 2026)
+
 ### Online Job Scheduler for Fault-Tolerant Quantum Multiprogramming
 * **Shin Nishio** 
 * [Q-LEAP Workshop: Towards Building a Large-Scale Quantum Computer](https://sites.google.com/nii.ac.jp/q-leap-workshop-2026/)
