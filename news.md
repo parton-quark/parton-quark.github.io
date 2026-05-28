@@ -1,3 +1,5 @@
+**2026/05/12**: New paper uploaded: **QuBridge: Layer-wise Fidelity Decomposition in Quantum Computation Pipeline** on [arXiv](https://arxiv.org/abs/2605.11529).<br>
+**2026/05/12**: New paper uploaded: **Digital Annealer-Assisted Accuracy-First Quantum Circuit Transpilation with Integrated QUBO Mapping and Routing** on [arXiv](https://arxiv.org/abs/2605.11500).<br>
 **2026/04/17**: Our paper **Use of faulty states in cat-code error correction** has been published on [Phys. Rev. A](https://doi.org/10.1103/vb9n-g6gx).<br>
 **2026/04/03**: Our paper **Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling** has been published in [Phys. Rev. A](https://doi.org/10.1103/7lm4-3bnh).<br>
 **2026/03/26**: New paper uploaded: **Efficient Preparation of Graph States using the Quotient-Augmented Strong Split Tree** on [arXiv](https://arxiv.org/abs/2603.23892).<br>

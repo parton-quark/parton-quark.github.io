@@ -318,6 +318,28 @@
 <h1 id="papers">Papers</h1>
 <!-- <details><summary> Categories </summary><div> -->
 <p><span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> Quantum Error Correction and Fault-tolerant Quantum Computing<br> <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> Quantum Information<br> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span> System Software and Programming Languages<br> <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span> Quantum Machine Learning <!-- </div></details> --></p>
+<h3 id="qubridge-layer-wise-fidelity-decomposition-in-quantum-computation-pipeline-sys">QuBridge: Layer-wise Fidelity Decomposition in Quantum Computation Pipeline <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<details>
+<summary>Abstract</summary>
+<div>
+<p>Running a quantum circuit on current hardware involves a sequence of engineering decisions, each with tunable parameters and distinct error characteristics. Existing tools optimize each decision in isolation, leaving practitioners unable to determine how much each decision contributes to final output quality. We present QuBridge, a pipeline analysis tool that decomposes quantum computation into three decision layers and measures each layer’s fidelity contribution through progressive ablation and isolation experiments. Applied to quantum teleportation under IBM-calibrated noise models, the framework surfaces three phenomena that end-to-end measurement obscures. Qubit selection narrows the worst-case fidelity band from 11.8% to under 2% with downstream layers held fixed, without changing the peak. Per-gate pulse-shape assignment adds a +0.9% residual gain whose attributed magnitude depends on upstream layout. Error-detection encoding is not uniformly advantageous, and its conditional benefit emerges for input states whose dominant error channel is detectable by the chosen code. QuBridge operates on cached calibration data without requiring live hardware access.</p>
+</div>
+</details>
+<ul>
+<li>Kisho Sotokawa, Hideaki Kawaguchi, Shin Nishio, Takahiko Satoh</li>
+<li>preprint: <a href="https://arxiv.org/abs/2605.11529">arXiv[quant-ph] 2605.11529</a></li>
+</ul>
+<h3 id="digital-annealer-assisted-accuracy-first-quantum-circuit-transpilation-with-integrated-qubo-mapping-and-routing-sys">Digital Annealer-Assisted Accuracy-First Quantum Circuit Transpilation with Integrated QUBO Mapping and Routing <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<details>
+<summary>Abstract</summary>
+<div>
+<p>In the Noisy Intermediate-Scale Quantum (NISQ) era, limited qubit counts and high gate error rates directly constrain circuit fidelity, making the minimization of CNOT gate counts crucial. While conventional compilers prioritize heuristic efficiency, there is a compelling need for “accuracy-first” transpilation that prioritizes gate reduction over compilation latency. We propose a framework leveraging the Digital Annealer (DA) via two complementary strategies: (1) Hybrid, which uses DA-driven global initial mapping combined with high-speed heuristic routing by Qiskit, and (2) Full DA, which solves mapping and routing as separate DA-assisted QUBO subproblems within an iterative workflow. Benchmarks demonstrate that our Hybrid approach achieves an average CNOT reduction of 13.7 % (up to 57.4 %) compared to Qiskit’s highest optimization level, with the largest gains on structured circuits such as GHZ and ASP where the initial layout is decisive. The Full DA approach matches Hybrid on structured circuits and outperforms ISAAQ by 23.1 % on average (maximum 90.8 %), but degrades on circuits with random or concentrated connectivity - exposing a trade-off between QUBO size and solution quality when the entire circuit is encoded in a single annealing pass. Although these global optimizations incur higher computational overhead than pure heuristics, our results indicate that for high-precision workflows where gate noise is the primary bottleneck, DA-assisted global initial placement provides a practical “time-for-quality” trade-off for enhancing the utility of near-term quantum hardware.</p>
+</div>
+</details>
+<ul>
+<li>Kazuma Watanabe, Hideaki Kawaguchi, <strong>Shin Nishio</strong>, Takahiko satoh</li>
+<li>preprint: <a href="https://arxiv.org/abs/2605.11500">arXiv[quant-ph] 2605.11500</a></li>
+</ul>
 <h3 id="efficient-preparation-of-graph-states-using-the-quotient-augmented-strong-split-tree-qi-sys">Efficient Preparation of Graph States using the Quotient-Augmented Strong Split Tree <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
