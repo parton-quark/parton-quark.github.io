@@ -73,10 +73,19 @@ Defect braiding circuit.
 <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span> Quantum Machine Learning
 <!-- </div></details> -->
 
+### Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
+<details><summary>Abstract</summary><div>
+As quantum computing emerges as an applied technology, there is a growing need to protect quantum computers against information security attacks. This work identifies a new class of side-channel attacks against fault-tolerant quantum computers, in which the syndrome data that is sent to the decoder system is used to infer which computation (logical circuit) is taking place on the quantum computer. Our work introduces the concept of gate fingerprints, which describes those patterns present in syndrome data that indicate which logical operation took place on the quantum computer. We show different effects by which logical operations produce gate fingerprints by focusing on Clifford+T computation in the surface code. We then explore how gate fingerprint information can be used to make inferences about the circuits or algorithms run on a quantum computer. Our findings indicate that decoder systems can be a vector for side-channel attacks and thus to prevent this, decoder systems should either be secured or built by a trusted party.
+</div></details>
+
+- Shashvat Shukla, Dan E. Browne, **Shin Nishio**
+- preprint: [arXiv[quant-ph] 2607.12174 ](https://arxiv.org/abs/2607.12174)
+
 ### Treewidth-Aware Gate Cut Selection for Reducing Transpilation Overhead on Superconducting Quantum Devices <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
 <details><summary>Abstract</summary><div>
 On superconducting quantum devices with sparse qubit connectivity, transpilation of long-range two-qubit interactions inserts additional SWAP gates, increasing hardware cost and execution error. Gate cutting via quasi-probability decomposition (QPD) can remove a selected two-qubit gate and thereby reduce routing overhead, but its sampling cost makes cut placement critical. We propose TW2S, a graph-only two-stage gate-cut selection method that operates on the circuit interaction graph without backend-specific transpilation at selection time. Stage 1 analyzes a min-fill elimination trace and scores edges by their contribution to a treewidth upper bound. Stage 2 ranks the resulting candidates by edge betweenness centrality with a degree penalty to identify routing bottlenecks. Across grid, Watts-Strogatz, barbell, and stochastic block model benchmarks transpiled to IBM's FakeSherbrooke backend, TW2S consistently outperforms random cut selection when the interaction graph contains identifiable sparse cuts. The advantage is governed not by absolute graph density but by moderate community structure and accessible inter-community edges. We further derive a mean-squared-error breakeven condition showing that, under a shared total shot budget, QPD is beneficial only when the ECR reduction is large enough and the signal strength is sufficient. Under an expanded per-subcircuit budget the signal-strength requirement is substantially relaxed. In noisy simulations of the J1-J2 transverse-field Ising model, TW2S achieves ΔECR = 47 for n = 8, compared with approximately 9 for random selection, and yields lower estimation error than the uncut baseline in the tested strong-signal regime, with larger gains at increased shot budgets. These results position graph-structural cut selection as a practical compiler-side tool for turning circuit cutting into a targeted routing-reduction strategy.
 </div></details>
+
 - Hana Ebi, **Shin Nishio**, Takahiko Satoh
 - preprint: [arXiv[quant-ph] 2605.29723 ](https://arxiv.org/abs/2605.29723)
 
@@ -84,7 +93,8 @@ On superconducting quantum devices with sparse qubit connectivity, transpilation
 <details><summary>Abstract</summary><div>
 Running a quantum circuit on current hardware involves a sequence of engineering decisions, each with tunable parameters and distinct error characteristics. Existing tools optimize each decision in isolation, leaving practitioners unable to determine how much each decision contributes to final output quality. We present QuBridge, a pipeline analysis tool that decomposes quantum computation into three decision layers and measures each layer's fidelity contribution through progressive ablation and isolation experiments. Applied to quantum teleportation under IBM-calibrated noise models, the framework surfaces three phenomena that end-to-end measurement obscures. Qubit selection narrows the worst-case fidelity band from 11.8% to under 2% with downstream layers held fixed, without changing the peak. Per-gate pulse-shape assignment adds a +0.9% residual gain whose attributed magnitude depends on upstream layout. Error-detection encoding is not uniformly advantageous, and its conditional benefit emerges for input states whose dominant error channel is detectable by the chosen code. QuBridge operates on cached calibration data without requiring live hardware access.
 </div></details>
-- Kisho Sotokawa, Hideaki Kawaguchi, Shin Nishio, Takahiko Satoh
+
+- Kisho Sotokawa, Hideaki Kawaguchi, **Shin Nishio**, Takahiko Satoh
 - preprint: [arXiv[quant-ph] 2605.11529 ](https://arxiv.org/abs/2605.11529)
 
 
@@ -277,6 +287,23 @@ As the execution speed of the atomic operations of quantum computation in many p
 * Yukawa Institute for Theoretical Physics, Kyoto, Japan, 18 - 29 March 2024
 
 ## International Conferences
+### Detecting Qubit Loss without Leakage Detection Units via Repeated Stabilizer Measurements
+- Shin Nishio and Dan E. Browne
+- poster
+- the 8th edition of the International Quantum Error Correction conference, Santa Barbara June 11 2026.
+
+
+### Quantum Process Tomography Analysis of Thermal Noise in Mølmer-Sørensen Gates for Quantum Error Correction
+- Author(s): HIRAI Noah*; KUDO Isamu; MIYANISHI Koichiro; **NISHIO Shin**; SATOH Takahiko; TAKAHASHI Hiroki; TAKEOKA Masahiro; TANJI Kazufumi Affiliation(s): Department of Electronics and Electrical Engineering, Keio University
+- poster
+- Asian Conference on Trapped Ions 2026, National University of Singapore April 20-22 2026.
+
+### Transport-Aware Syndrome Measurement Circuit Compiler for 1D QCCD Architecture 
+- Author(s): ISHIKAWA Eitaro*; **NISHIO Shin**; MIYANISHI Koichiro; TANJI Kazufumi; KUDO Isamu; TAKEOKA Masahiro; TAKAHASHI Hiroki; SATOH Takahiko 
+Affiliation(s): Department of Information Engineering, Faculty of Science and Technology, Keio University
+- poster
+- Asian Conference on Trapped Ions 2026, National University of Singapore April 20-22 2026.
+
 ### Online Job Scheduler for Fault-tolerant Quantum Multiprogramming 
 - [YouTube Video](https://youtu.be/Yb2j4pQ-rQs)
 - Ryo Wakizaka, <u>**Shin Nishio**</u>, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki
@@ -394,6 +421,11 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 * National Institute for Informatics, Tokyo, Japan(9 April 2018) Peer-reviewed 査読あり
 
 ## Domestic Conferences, Symposiums and Workshops
+### 量子エラー訂正のための量子プロセストモグラフィーを用いた、Mølmer-Sørensenゲートにおけるノイズの数値解析	
+- 平井希空・丹治和史（慶大）・宮西孝一郎（Qubitcore）・工藤　勇・**西尾　真**・佐藤貴彦（慶大）・高橋優樹（OIST）・武岡正裕（慶大）
+- [講演抄録](https://ken.ieice.org/ken/paper/202605297cvX/)
+- 第54回量子情報技術研究会 (QIT54) 2026年5月27日(水)〜2026年5月29日(金) シンフォニアテクノロジー響ホール伊勢（伊勢市観光文化会館）
+
 ### フォールトトレラント量子マルチプログラミングのためのオンラインスケジューラ
 * **西尾 真**
 * Quantum Internet Task Force 研究会 2025年6月11日 オンライン
@@ -508,6 +540,11 @@ Keywords: Fault-tolerant quantum computation, Quantum circuit optimization, Surf
 |2018|秋学期 autumn|B3102|確率 PROBABILITY DS1 (GIGA/GG/GI)|佐藤　貴彦特任助教 Project Research Associate Takahiko Satoh|---|
 |2017|春学期 spring|32140|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|For students who follow the school rules of 2007, content is the same as "REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)"(simultaneous holding).|
 |2017|春学期 spring|C1102|地域と社会（欧州・ＣＩＳ）REGION AND SOCIETY(EUROPE AND CIS COUNTRIES)|横手　慎二教授 Prof. Shinji Yokote|---|
+
+### Co-Supervision
+- 格子手術に基づく二次元アーキテクチャ向け誤り耐性ブラインド量子計算プロトコル 藤生 剛平（修士論文）[PDF](https://drive.google.com/file/d/1973Q3dOb2uPZRnV5hGkI8bHho1D9upx_/view)
+- ユニバーサル量子計算に向けたクリフォード階層スタビライザ符号の誤り訂正閾値解析 芳賀 一玖（卒業論文）[PDF](https://drive.google.com/file/d/1lw7xbS_vYrlTyOqBAMse9NYfKkyXTqsj/view?usp=sharing)
+- 1次元QCCDアーキテクチャにおける量子回路実行時間評価のためのコンパイラ設計 石川 英太郎（卒業論文）[PDF](https://drive.google.com/file/d/12O5cPUJH6W-EcRrzAJZ_iOuNJ3epk3dc/view?usp=sharing)
 
 # Fundings
 ### Overseas Research Fellowship (海外学振), 8 million yen per year (April 2025 - March 2027)
