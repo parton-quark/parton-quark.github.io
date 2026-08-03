@@ -318,7 +318,19 @@
 <h1 id="papers">Papers</h1>
 <!-- <details><summary> Categories </summary><div> -->
 <p><span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> Quantum Error Correction and Fault-tolerant Quantum Computing<br> <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> Quantum Information<br> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span> System Software and Programming Languages<br> <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span> Quantum Machine Learning <!-- </div></details> --></p>
-<h3 id="anticipating-decoder-side-channel-attacks-in-fault-tolerant-quantum-computers-qec-sys">Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="qubit-loss-inference-with-stabilizer-codes-without-leakage-detection-units-qec-sys">20. Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<details>
+<summary>Abstract</summary>
+<div>
+<p>Qubit loss occurs when the physical carrier of a qubit leaves the computational system without directly revealing the event’s location. Such errors are a major obstacle to fault-tolerant quantum computation on platforms including photonic, neutral-atom, and trapped-ion systems. Loss locations are commonly identified using additional hardware operations such as leakage-detection units (LDUs), which introduce space-time overhead and may themselves become a source of error.</p>
+<p>We investigate whether qubit loss on stabilizer codes can instead be inferred from syndrome data obtained through standard repeated stabilizer measurements. Under a non-entangling model for gates involving a lost qubit, we derive a sufficient condition for loss detectability in general stabilizer codes. The condition is based on the emergence of anticommutation between stabilizer checks after their support on the lost qubits is removed. By using that condition, we formulate the exact loss-inference problem using the observed set of non-deterministic checks together with its maximum-likelihood formulation. We then relax the problem to the minimum set cover problem with a greedy heuristic algorithm. We evaluate the resulting inference and loss-correction protocols on the rotated surface code via circuit-level noise simulations for trapped-ion and neutral-atom platforms. On both platforms, inference-based and adaptive protocols reduce the logical error rate relative to a noisy-LDU baseline in the low-to-moderate loss-rate regime relevant to near-term hardware, while requiring fewer space-time overheads.</p>
+</div>
+</details>
+<ul>
+<li><strong>Shin Nishio</strong>, Takeaki Uno, Fumiyoshi Kobayashi, Takahiko Satoh, and Dan E. Browne</li>
+<li>preprint: <a href="https://arxiv.org/abs/2607.29603">arxiv[quant-ph] 2607.29603</a></li>
+</ul>
+<h3 id="anticipating-decoder-side-channel-attacks-in-fault-tolerant-quantum-computers-qec-sys">19. Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -329,7 +341,7 @@
 <li>Shashvat Shukla, Dan E. Browne, <strong>Shin Nishio</strong></li>
 <li>preprint: <a href="https://arxiv.org/abs/2607.12174">arXiv[quant-ph] 2607.12174</a></li>
 </ul>
-<h3 id="treewidth-aware-gate-cut-selection-for-reducing-transpilation-overhead-on-superconducting-quantum-devices-sys">Treewidth-Aware Gate Cut Selection for Reducing Transpilation Overhead on Superconducting Quantum Devices <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="treewidth-aware-gate-cut-selection-for-reducing-transpilation-overhead-on-superconducting-quantum-devices-sys">18. Treewidth-Aware Gate Cut Selection for Reducing Transpilation Overhead on Superconducting Quantum Devices <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -340,7 +352,7 @@
 <li>Hana Ebi, <strong>Shin Nishio</strong>, Takahiko Satoh</li>
 <li>preprint: <a href="https://arxiv.org/abs/2605.29723">arXiv[quant-ph] 2605.29723</a></li>
 </ul>
-<h3 id="qubridge-layer-wise-fidelity-decomposition-in-quantum-computation-pipeline-sys">QuBridge: Layer-wise Fidelity Decomposition in Quantum Computation Pipeline <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="qubridge-layer-wise-fidelity-decomposition-in-quantum-computation-pipeline-sys">17. QuBridge: Layer-wise Fidelity Decomposition in Quantum Computation Pipeline <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -351,7 +363,7 @@
 <li>Kisho Sotokawa, Hideaki Kawaguchi, <strong>Shin Nishio</strong>, Takahiko Satoh</li>
 <li>preprint: <a href="https://arxiv.org/abs/2605.11529">arXiv[quant-ph] 2605.11529</a></li>
 </ul>
-<h3 id="digital-annealer-assisted-accuracy-first-quantum-circuit-transpilation-with-integrated-qubo-mapping-and-routing-sys">Digital Annealer-Assisted Accuracy-First Quantum Circuit Transpilation with Integrated QUBO Mapping and Routing <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="digital-annealer-assisted-accuracy-first-quantum-circuit-transpilation-with-integrated-qubo-mapping-and-routing-sys">16. Digital Annealer-Assisted Accuracy-First Quantum Circuit Transpilation with Integrated QUBO Mapping and Routing <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -362,7 +374,7 @@
 <li>Kazuma Watanabe, Hideaki Kawaguchi, <strong>Shin Nishio</strong>, Takahiko satoh</li>
 <li>preprint: <a href="https://arxiv.org/abs/2605.11500">arXiv[quant-ph] 2605.11500</a></li>
 </ul>
-<h3 id="efficient-preparation-of-graph-states-using-the-quotient-augmented-strong-split-tree-qi-sys">Efficient Preparation of Graph States using the Quotient-Augmented Strong Split Tree <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="efficient-preparation-of-graph-states-using-the-quotient-augmented-strong-split-tree-qi-sys">15. Efficient Preparation of Graph States using the Quotient-Augmented Strong Split Tree <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -373,7 +385,7 @@
 <li>Nicholas Connolly, <strong>Shin Nishio</strong>, Dan E. Browne, Willian John Munro, Kae Nemoto</li>
 <li>preprint: <a href="https://arxiv.org/abs/2603.23892">arXiv[quant-ph] 2603.23892</a></li>
 </ul>
-<h3 id="local-equivalence-classes-of-distance-hereditary-graphs-using-split-decompositions-qi">Local Equivalence Classes of Distance-Hereditary Graphs using Split Decompositions <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span></h3>
+<h3 id="local-equivalence-classes-of-distance-hereditary-graphs-using-split-decompositions-qi">14. Local Equivalence Classes of Distance-Hereditary Graphs using Split Decompositions <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -384,7 +396,7 @@
 <li>Nicholas Connolly, <strong>Shin Nishio</strong>, Kae Nemoto</li>
 <li>preprint: <a href="https://arxiv.org/abs/2602.23825">arxiv[math.CO] 2602.23825</a></li>
 </ul>
-<h3 id="telemetry-based-server-selection-in-the-quantum-internet-via-cross-layer-runtime-estimation-sys">Telemetry-Based Server Selection in the Quantum Internet via Cross-Layer Runtime Estimation <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="telemetry-based-server-selection-in-the-quantum-internet-via-cross-layer-runtime-estimation-sys">13. Telemetry-Based Server Selection in the Quantum Internet via Cross-Layer Runtime Estimation <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -395,7 +407,7 @@
 <li>Masaki Nagai, Hideaki Kawaguchi, <strong>Shin Nishio</strong>, Takahiko Satoh</li>
 <li>preprint: <a href="https://arxiv.org/abs/2602.21007">arxiv[quant-ph] 2602.21007</a></li>
 </ul>
-<h3 id="ruleset-generation-framework-for-application-layer-integration-in-quantum-internet-sys">RuleSet Generation Framework for Application Layer Integration in Quantum Internet <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="ruleset-generation-framework-for-application-layer-integration-in-quantum-internet-sys">12. RuleSet Generation Framework for Application Layer Integration in Quantum Internet <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -406,7 +418,7 @@
 <li>Rei Kawano, <strong>Shin Nishio</strong>, Hideaki Kawaguchi, Shota Nagayama, Takahiko Satoh</li>
 <li>preprint: <a href="https://arxiv.org/abs/2512.07475">arxiv[quant-ph] 2512.07475</a></li>
 </ul>
-<h3 id="dense-packing-of-the-surface-code-code-deformation-procedures-and-hook-error-avoiding-gate-scheduling-qec">Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
+<h3 id="dense-packing-of-the-surface-code-code-deformation-procedures-and-hook-error-avoiding-gate-scheduling-qec">11. Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -418,7 +430,7 @@
 <li>Physical Review A <a href="https://doi.org/10.1103/7lm4-3bnh">113, 042412</a></li>
 <li>preprint: <a href="https://arxiv.org/abs/2511.06758">arxiv[quant-ph] 2511.06758</a></li>
 </ul>
-<h3 id="online-job-scheduler-for-fault-tolerant-quantum-multiprogramming-qec-sys">Online Job Scheduler for Fault-tolerant Quantum Multiprogramming <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="online-job-scheduler-for-fault-tolerant-quantum-multiprogramming-qec-sys">10. Online Job Scheduler for Fault-tolerant Quantum Multiprogramming <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -431,7 +443,7 @@
 <li>Proceedings of <a href="https://doi.org/10.1109/QCE65121.2025.00090">2025 IEEE International Conference on Quantum Computing and Engineering</a> (IEEE QCE 2025)</li>
 <li>preprint: <a href="https://arxiv.org/abs/2505.06741">arxiv[quant-ph] 2505.06741</a></li>
 </ul>
-<h3 id="quantitative-evaluation-of-quantumclassical-neural-network-using-a-game-solver-metric-qml">Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span></h3>
+<h3 id="quantitative-evaluation-of-quantumclassical-neural-network-using-a-game-solver-metric-qml">9. Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -442,7 +454,7 @@
 <li>Suzukaze Kamei, Hideaki Kawaguchi, <strong>Shin Nishio</strong>, Tatakahiko Satoh</li>
 <li>preprint: <a href="https://arxiv.org/abs/2503.21514">arxiv[quant-ph] 2503.21514</a></li>
 </ul>
-<h3 id="use-of-faulty-states-in-cat-code-error-correction-qec">Use of faulty states in cat-code error correction <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
+<h3 id="use-of-faulty-states-in-cat-code-error-correction-qec">8. Use of faulty states in cat-code error correction <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -454,7 +466,7 @@
 <li>Physical Review A <a href="https://doi.org/10.1103/vb9n-g6gx">113, 042621</a></li>
 <li>preprint: <a href="https://arxiv.org/abs/2412.15134">arXiv[quant-ph] 2412.15134</a></li>
 </ul>
-<h3 id="multiplexed-quantum-communication-with-surface-and-hypergraph-product-codes-qec">Multiplexed Quantum Communication with Surface and Hypergraph Product Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
+<h3 id="multiplexed-quantum-communication-with-surface-and-hypergraph-product-codes-qec">7. Multiplexed Quantum Communication with Surface and Hypergraph Product Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -466,7 +478,7 @@
 <li>Quantum <a href="https://quantum-journal.org/papers/q-2025-01-28-1613/">9, 1613 (2025).</a></li>
 <li>preprint: <a href="https://arxiv.org/abs/2406.08832">arXiv[quant-ph] 2406.08832</a></li>
 </ul>
-<h3 id="equilibration-of-non-interacting-photons-and-quantum-signatures-of-chaos-qi">Equilibration of Non-interacting Photons and Quantum Signatures of Chaos <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span></h3>
+<h3 id="equilibration-of-non-interacting-photons-and-quantum-signatures-of-chaos-qi">6. Equilibration of Non-interacting Photons and Quantum Signatures of Chaos <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span></h3>
 formerly titled: Photonic quantum signatures of chaos and boson sampling
 <details>
 <summary>Abstract</summary>
@@ -479,7 +491,7 @@ formerly titled: Photonic quantum signatures of chaos and boson sampling
 <li>Physical Review B <a href="https://doi.org/10.1103/tmw1-vry7">112, 134304</a></li>
 <li>preprint: <a href="https://arxiv.org/abs/2307.13200">arXiv[quant-ph] 2307.13200</a></li>
 </ul>
-<h3 id="hardness-of-braided-quantum-circuit-optimization-in-the-surface-code-qec">Hardness of braided quantum circuit optimization in the surface code <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
+<h3 id="hardness-of-braided-quantum-circuit-optimization-in-the-surface-code-qec">5. Hardness of braided quantum circuit optimization in the surface code <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -491,7 +503,7 @@ formerly titled: Photonic quantum signatures of chaos and boson sampling
 <li>IEEE Transactions on Quantum Engineering <a href="https://doi.org/10.1109/TQE.2023.3251358">vol. 4, pp. 1-7, 2023</a></li>
 <li>preprint: <a href="https://arxiv.org/abs/2302.00273">arXiv[quant-ph] 2302.00273</a></li>
 </ul>
-<h3 id="inquir-intermediate-representation-for-interconnected-quantum-computers-sys">InQuIR: Intermediate Representation for Interconnected Quantum Computers <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="inquir-intermediate-representation-for-interconnected-quantum-computers-sys">4. InQuIR: Intermediate Representation for Interconnected Quantum Computers <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -502,7 +514,7 @@ formerly titled: Photonic quantum signatures of chaos and boson sampling
 <li><strong>Shin Nishio</strong>, Ryo Wakizaka</li>
 <li>preprint: <a href="https://arxiv.org/abs/2302.00267">arXiv[quant-ph] 2302.00267</a></li>
 </ul>
-<h3 id="impact-of-the-form-of-weighted-networks-on-the-quantum-extreme-reservoir-computation-qml">Impact of the form of weighted networks on the quantum extreme reservoir computation <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span></h3>
+<h3 id="impact-of-the-form-of-weighted-networks-on-the-quantum-extreme-reservoir-computation-qml">3. Impact of the form of weighted networks on the quantum extreme reservoir computation <span style="background-color:#c4c8ee; color:#6360e1; padding:2px 6px; border-radius:4px; font-size:0.85em;">QML</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -514,7 +526,7 @@ formerly titled: Photonic quantum signatures of chaos and boson sampling
 <li>Physical Review A <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042609">108, 042609</a></li>
 <li>preprint: <a href="https://arxiv.org/abs/2211.07841">arXiv[quant-ph] 2211.07841</a></li>
 </ul>
-<h3 id="resource-reduction-in-multiplexed-high-dimensional-quantum-reed-solomon-codes-qec">Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
+<h3 id="resource-reduction-in-multiplexed-high-dimensional-quantum-reed-solomon-codes-qec">2. Resource Reduction in Multiplexed High-Dimensional Quantum Reed-Solomon Codes <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -526,7 +538,7 @@ formerly titled: Photonic quantum signatures of chaos and boson sampling
 <li>Physical Review A <a href="https://doi.org/10.1103/PhysRevA.107.032620">107, 032620</a></li>
 <li>preprint: <a href="https://arxiv.org/abs/2206.03712">arXiv[quant-ph] 2206.03712</a></li>
 </ul>
-<h3 id="extracting-success-from-ibms-20-qubit-machines-using-error-aware-compilation-sys">Extracting Success from IBM’s 20-Qubit Machines Using Error-Aware Compilation <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
+<h3 id="extracting-success-from-ibms-20-qubit-machines-using-error-aware-compilation-sys">1. Extracting Success from IBM’s 20-Qubit Machines Using Error-Aware Compilation <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span></h3>
 <details>
 <summary>Abstract</summary>
 <div>
@@ -1157,7 +1169,7 @@ formerly titled: Photonic quantum signatures of chaos and boson sampling
 <li><a href="https://www.oist.jp/research/research-units/qist">OIST Quantum Architecture Unit (根本研)</a></li>
 </ul></li>
 <li>(特任助教)<a href="https://sites.google.com/view/satoh-quantum-lab">慶應義塾大学理工学部 佐藤貴彦研究室</a></li>
-<li>(ポスドク)<a href="https://sites.google.com/site/danbrowneucl/home?authuser=0">UCL QASTAL Group (Prof.Dan Browne group)</a></li>
+<li>(ポスドク)<a href="https://www.homepages.ucl.ac.uk/~ucapdeb/">UCL QASTAL Group (Prof.Dan Browne group)</a></li>
 </ul>
 <h2 id="参考になるwebサイト">参考になるwebサイト</h2>
 <ul>

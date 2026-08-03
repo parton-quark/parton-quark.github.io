@@ -1,6 +1,8 @@
+**2026/08/03**: New paper uploaded:**Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units** on [arXiv](https://arxiv.org/abs/2607.29603)<br>
+**2026/07/29**: I had a talk on **A JSPS International Researcher’s story** at [UCL-Japan Youth Challenge 2026](https://www.ucl-japan-youth-challenge.com/programme-2026/), a summer school programme for Japan-UK high school students as a JSPS overseas research fellow.<br>
 **2026/07/23**: I had a talk on **Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units** at 295th RQC Seminar in Riken Center for Quantum Computing. [Link](https://rqc.riken.jp/events/20260723_295th_rqc-seminar.html)<br>
-**2026/07/13**: New paper uploaded:**Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers** on [arXiv](https://arxiv.org/abs/2607.12174)<br>
 **2026/07/14**: I had a talk on **Efficient Graph-State Preparation and Loss-Error Correction** at London Research Seminar in Quantinuum London. <br>
+**2026/07/13**: New paper uploaded:**Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers** on [arXiv](https://arxiv.org/abs/2607.12174)<br>
 **2026/07/07**: I had a talk on **Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units** at Quantum Computer Architectures and Theory Seminar in Computer Laboratory, University of Cambridge. [Link](https://talks.cam.ac.uk/talk/index/272293/)<br>
 **2026/05/28**: New paper uploaded: **Treewidth-Aware Gate Cut Selection for Reducing Transpilation Overhead on Superconducting Quantum Devices** on [arXiv](https://arxiv.org/abs/2605.29723).<br>
 **2026/05/12**: New paper uploaded: **QuBridge: Layer-wise Fidelity Decomposition in Quantum Computation Pipeline** on [arXiv](https://arxiv.org/abs/2605.11529).<br>
