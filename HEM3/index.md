@@ -25,7 +25,7 @@ There are FTQC theorists in each phisical system project in Moonshot projects. T
 
 **Organizers**: Shin Nishio,  Dr. Fumiyoshi Kobayashi (Mercari)<br>
 **Local Organizer**: Mr. Nilton Filho<br>
-**Contributors:** Prof. Matsuzaki (Chuo University), Dr. Suzuki(Riken), Dr. Miyanishi (Qubitcore),  Mr.Hirai (Keio University), Mr. Ishikawa (Keio University)<br>
+**Contributors:** Prof. Matsuzaki (Chuo University), Dr. Suzuki(Riken), Dr. Miyanishi (Qubitcore),  Mr.Hirai (Keio University), Mr. Ishikawa (Keio University) and more!<br>
 
 **External observers (tentative):** NanoQT, QuEL and more
 
