@@ -1,0 +1,217 @@
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="description" content="FTQC Hackathon & Exchange Meeting (HEM3) — a 3-day hackathon and exchange meeting for fault-tolerant quantum computing theorists and software tools." />
+<title>FTQC HEM3 — Hackathon &amp; Exchange Meeting</title>
+<style>
+  :root {
+    --accent: #e8604c;
+    --dark: #2b2b2b;
+    --dark-2: #3c3c3c;
+    --bg: #fbfaf8;
+    --text: #232323;
+    --muted: #6b6b6b;
+    --border: #e4e0da;
+  }
+  * { box-sizing: border-box; }
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+  body {
+    margin: 0;
+    overflow-x: hidden;
+    font-family: -apple-system, "Segoe UI", "Hiragino Kaku Gothic ProN", "Noto Sans JP", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.65;
+    padding-top: 3em;
+  }
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+
+  /* sticky nav */
+  nav.site-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--dark);
+    border-bottom: 1px solid var(--border);
+    padding: 0.7em 0.5em;
+    z-index: 1000;
+    text-align: center;
+  }
+  nav.site-nav a {
+    margin: 0 0.7em;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.95em;
+    letter-spacing: 0.02em;
+  }
+  nav.site-nav a:hover {
+    color: var(--accent);
+  }
+
+  /* hero */
+  .hero {
+    background: linear-gradient(135deg, var(--dark) 0%, var(--dark-2) 100%);
+    color: #fff;
+    text-align: center;
+    padding: 4.5em 1.5em 3.5em;
+  }
+  .hero-date {
+    font-size: 1.05em;
+    letter-spacing: 0.08em;
+    color: #f2c9c2;
+    margin-bottom: 0.6em;
+  }
+  .hero h1 {
+    margin: 0;
+    font-size: 3em;
+    letter-spacing: 0.03em;
+  }
+  .hero-subtitle {
+    font-size: 1.3em;
+    margin: 0.4em 0 1.6em;
+    color: #e8e6e2;
+  }
+  .hero-organizer {
+    font-size: 0.95em;
+    color: #cfcbc4;
+    margin: 0;
+  }
+  .hero-affiliations {
+    margin-top: 1.6em;
+    font-size: 0.85em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #a8a49d;
+  }
+
+  /* main content container */
+  main, body > h2, body > p, body > ul, body > ol, body > table, body > div.hero + *:not(nav) {
+    max-width: 46em;
+  }
+  body > *:not(.hero):not(nav) {
+    max-width: 46em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+  }
+
+  h2 {
+    background: var(--dark-2);
+    color: #fff;
+    padding: 0.5em 0.7em;
+    border-radius: 6px;
+    font-size: 1.35em;
+    margin-top: 2.6em;
+  }
+  h2 a.anchor { color: inherit; }
+  h3 {
+    color: var(--dark);
+    border-left: 4px solid var(--accent);
+    padding-left: 0.6em;
+    margin-top: 2em;
+  }
+  h4 { color: var(--dark); }
+
+  p, li { color: var(--text); }
+  a { color: #b5432f; }
+  a:visited { color: #8f3524; }
+  a:hover { color: var(--accent); }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.2em 0;
+    font-size: 0.95em;
+    display: block;
+    overflow-x: auto;
+  }
+  thead { display: table-header-group; }
+  tbody { display: table-row-group; }
+  tr { display: table-row; }
+  th, td { display: table-cell; }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 0.55em 0.7em;
+    text-align: left;
+    vertical-align: top;
+  }
+  th {
+    background: #f1ece5;
+    color: var(--dark);
+  }
+  tr:nth-child(even) td {
+    background: #f8f6f2;
+  }
+
+  .tag {
+    display: inline-block;
+    background: #fce4e0;
+    color: var(--accent);
+    font-size: 0.72em;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 0.15em 0.55em;
+    border-radius: 999px;
+    vertical-align: middle;
+  }
+  .hero .tag {
+    background: rgba(255,255,255,0.12);
+    color: #f7c6bd;
+  }
+  .star { color: var(--accent); }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2.5em 0;
+  }
+
+  #title-block-header {
+    display: none;
+  }
+
+  @media (max-width: 600px) {
+    body { font-size: 0.95em; }
+    .hero h1 { font-size: 2.1em; }
+    .hero-subtitle { font-size: 1.05em; }
+    nav.site-nav a { font-size: 0.8em; }
+  }
+</style>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156583515-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-156583515-2');
+</script>
+<!-- Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "FTQC HEM3 — Hackathon & Exchange Meeting",
+    "description": "A 3-day hackathon and exchange meeting for fault-tolerant quantum computing theorists, software tools, and collaborative projects.",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-27",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "organizer": {
+      "@type": "Person",
+      "name": "Shin Nishio",
+      "url": "https://parton-quark.github.io/"
+    }
+  }
+</script>
