@@ -21,13 +21,15 @@
 
 ## Background &amp; Motivation {#background}
 
-There are FTQC theorists in each phisical system project in Moonshot projects. To encourage collaboration beyond the project and with observer companies, we will host a hackathon and exchange meeting at Osaka. We utilize software outcome of Moonshot such as device-aware compilation and noisy circuit simulator and resource estimator for FTQC.
+FTQC theorists are working across different physical-system projects in Moonshot, and there is an opportunity to further promote theoretical research and collaboration across different physical systems, within the Moonshot program and more broadly across Japan. To facilitate such cross-project interactions, we will host a hackathon and exchange meeting in Osaka, bringing together FTQC theorists / experimentalists from across the Moonshot program.
+
+The event will also provide opportunities for interaction and collaboration with observer companies. Participants will utilize software developed through Moonshot projects, such as device-aware compilation tools, noisy-circuit simulators, and resource estimators for FTQC.
 
 **Organizers**: Shin Nishio,  Dr. Fumiyoshi Kobayashi (Mercari)<br>
 **Local Organizer**: Mr. Nilton Filho<br>
 **Contributors:** Prof. Matsuzaki (Chuo University), Dr. Suzuki(Riken), Dr. Miyanishi (Qubitcore),  Mr.Hirai (Keio University), Mr. Ishikawa (Keio University) and more!<br>
 
-**External observers (tentative):** NanoQT, QuEL and more
+**External observers (tentative):** NanoQT, QuEL and more!
 
 ## Program {#program}
 
