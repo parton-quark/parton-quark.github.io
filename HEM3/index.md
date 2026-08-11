@@ -1,7 +1,7 @@
 % FTQC HEM3 — Hackathon & Exchange Meeting
 
 <div class="hero">
-  <div class="hero-date">2026/11/25(Wed)–27(Fri) <span class="tag">tentative</span></div>
+  <div class="hero-date">2026/11/25(Wed)–27(Fri)</div>
   <h1>FTQC HEM3</h1>
   <p class="hero-subtitle">FTQC Hackathon &amp; Exchange Meeting for 3 days @ The University of Osaka </p>
   <p class="hero-organizer">Organized by Shin Nishio<br>
@@ -106,7 +106,7 @@ Toyonaka Campus, The University of Osaka
 
 ## Contact {#contact}
 
-All details on this page — dates, venue, and participant list — are still tentative. If you're interested in joining, or have suggestions for participants, tools, or venues, please get in touch.
+All details on this page — venue, and participant list — are still tentative. If you're interested in joining, or have suggestions for participants, tools, or venues, please get in touch.
 
 * Shin Nishio — email: parton (at) sfc.wide.ad.jp
 * [parton-quark.github.io](https://parton-quark.github.io/)
