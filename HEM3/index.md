@@ -27,7 +27,6 @@ The event will also provide opportunities for interaction and collaboration with
 
 **Organizers**: Shin Nishio,  Dr. Fumiyoshi Kobayashi (Mercari)<br>
 **Local Organizer**: Mr. Nilton Filho<br>
-**Contributors:** Prof. Matsuzaki (Chuo University), Dr. Suzuki(Riken), Dr. Miyanishi (Qubitcore),  Mr.Hirai (Keio University), Mr. Ishikawa (Keio University) and more!<br>
 
 **External observers (tentative):** NanoQT, QuEL and more!
 
@@ -39,7 +38,7 @@ The event will also provide opportunities for interaction and collaboration with
 
 | Time | Session | Presenter |
 |---|---|---|
-| 10:15 | Opening | Nishio |
+| 10:00 | Opening & Discussion: What are the wrong abstractions in current FTQC? | Nishio |
 | 10:30 | **TBA** <span class="star">★</span> (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa |
 | 11:00 | **Losssim** <span class="star">★</span>: circuit-level loss / erasure sim | Nishio |
 | 11:30 | **TBA** (neutral atom) <span class="star">★</span>: compiler &amp; noisy circuit sim | Dr. Kobayashi |
@@ -50,17 +49,20 @@ The event will also provide opportunities for interaction and collaboration with
 | 15:30– | Happy Hacking! | — |
 
 ### Day 2 — Hacking
+13:00-13:30 Mid discussion
 
 ### Day 3 — Hacking and Presentations
 We have a presentation for the hackathon results and hold a dicussion.
 
+The goal of HEM3 is not necessarily to produce a finished implementation during the event. We encourage participants to use the hackathon to identify interesting research questions, develop new formulations, test early ideas, and initiate collaborations that may continue beyond HEM3.
+
 ### What shall we work on?
 
 * Hardware-aware something — decoding, resource estimation, compilation, ...
+* Design architecture and criteria
 * Try your favorite codes on multiple devices
 * Make simulators faster (especially loss sim is very slow...)
 * Connect simulators and resource estimator
-* Design architecture and criteria
 * Program analysis on intermediate representations
 
 ## Resources {#resources}
