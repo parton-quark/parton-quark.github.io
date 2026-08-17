@@ -39,7 +39,7 @@ The goal of HEM3 is not necessarily to produce a completed implementation during
 | Time | Session | Presenter |
 |---|---|---|
 | 10:00 | Opening & Discussion: What are the **wrong** abstractions in current FTQC? | Nishio |
-| 10:30 | **TBA** <span class="star">★</span> (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa |
+| 10:30 | **TBA** <span class="star">★</span> (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa & Mr. Hirai |
 | 11:00 | **Losssim** <span class="star">★</span>: circuit-level loss / erasure sim | Nishio |
 | 11:30 | **TBA** (neutral atom) <span class="star">★</span>: compiler &amp; noisy circuit sim | Dr. Kobayashi |
 | 12:00 | Lunch and discussion | — |
@@ -90,7 +90,7 @@ From north to south:
 - **RIKEN** — Prof. Suzuki, Dr. Ueno<br>
 - **Chuo University** - Prof. Matsuzaki<br>
 - **Mercari** — Dr. Kobayashi<br>
-- **Keio University** — Nishio<br>
+- **Keio University** — Nishio, Mr. Ishikawa, Mr. Hirai<br>
 - **U Osaka** — Mr. Nilton<br>
 - **OIST** — Ms. Zen<br>
 - **Qubitcore** — Dr. Miyanishi<br>
