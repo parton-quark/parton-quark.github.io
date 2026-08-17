@@ -87,6 +87,7 @@ TBA
 
 ### Partial list of participants
 From north to south:
+
 - **RIKEN** — Prof. Suzuki, Dr. Ueno<br>
 - **Chuo University** - Prof. Matsuzaki<br>
 - **Mercari** — Dr. Kobayashi<br>
