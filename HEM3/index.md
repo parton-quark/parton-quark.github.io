@@ -80,12 +80,20 @@ We have a presentation for the hackathon results and hold a dicussion.
 
 ## Participants <span class="tag">tentative</span> {#participants}
 TBA
+- Expected attendance: about 20 people (may vary depending on the venue)
+- We’d like to focus on researchers who can actively participate in hands-on activities
+- In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible
+- We’ll also invite people who are developing error budgets/simulator for each hardware.
 
-* Expected attendance: about 20 people (may vary depending on the venue)
-* We’d like to focus on researchers who can actively participate in hands-on activities
-* In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible
-* We’ll also invite people who are developing error budgets/simulator for each hardware.
-
+### Partial list of participants
+From north to south:
+- **RIKEN** — Prof. Suzuki, Dr. Ueno<br>
+- **Chuo University** - Prof. Matsuzaki<br>
+- **Mercari** — Dr. Kobayashi<br>
+- **Keio University** — Nishio<br>
+- **U Osaka** — Mr. Nilton<br>
+- **OIST** — Ms. Zen<br>
+- **Qubitcore** — Dr. Miyanishi<br>
 Let me know if you have any candidates!
 
 ## Venue <span class="tag">tentative</span> {#venue}
