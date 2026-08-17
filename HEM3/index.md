@@ -25,10 +25,10 @@ FTQC theorists are working across different physical-system projects in Moonshot
 
 The event will also provide opportunities for interaction and collaboration with observer companies. Participants will utilize software developed through Moonshot projects, such as device-aware compilation tools, noisy-circuit simulators, and resource estimators for FTQC.
 
+The goal of HEM3 is not necessarily to produce a completed implementation during the event. We encourage participants to use the hackathon to identify interesting research questions, develop new formulations, test early ideas, and initiate collaborations that may continue beyond HEM3.
+
 **Organizers**: Shin Nishio,  Dr. Fumiyoshi Kobayashi (Mercari)<br>
 **Local Organizer**: Mr. Nilton Filho<br>
-
-**External observers (tentative):** NanoQT, QuEL and more!
 
 ## Program {#program}
 
@@ -38,23 +38,22 @@ The event will also provide opportunities for interaction and collaboration with
 
 | Time | Session | Presenter |
 |---|---|---|
-| 10:00 | Opening & Discussion: What are the wrong abstractions in current FTQC? | Nishio |
+| 10:00 | Opening & Discussion: What are the **wrong** abstractions in current FTQC? | Nishio |
 | 10:30 | **TBA** <span class="star">★</span> (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa |
 | 11:00 | **Losssim** <span class="star">★</span>: circuit-level loss / erasure sim | Nishio |
 | 11:30 | **TBA** (neutral atom) <span class="star">★</span>: compiler &amp; noisy circuit sim | Dr. Kobayashi |
 | 12:00 | Lunch and discussion | — |
 | 13:30 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
 | 14:00 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
-| 14:30 | Brainstorming &amp; team forming (if necessary) | Nishio |
-| 15:30– | Happy Hacking! | — |
+| 14:30 | **VeriQ** | Prof. Soeda |
+| 15:00 | Brainstorming &amp; team forming (if necessary) | Nishio |
+| 16:00 – | Happy Hacking! | — |
 
 ### Day 2 — Hacking
 13:00-13:30 Mid discussion
 
 ### Day 3 — Hacking and Presentations
 We have a presentation for the hackathon results and hold a dicussion.
-
-The goal of HEM3 is not necessarily to produce a finished implementation during the event. We encourage participants to use the hackathon to identify interesting research questions, develop new formulations, test early ideas, and initiate collaborations that may continue beyond HEM3.
 
 ### What shall we work on?
 
@@ -77,22 +76,13 @@ The goal of HEM3 is not necessarily to produce a finished implementation during 
 | **TBA** <span class="star">★</span> | (neutral atom) Compiler &amp; noisy circuit sim | TBA |
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
 | **Quration** | Resource estimator for FTQC | [quration/quration](https://github.com/quration/quration) |
-|VeriQ| TBA | TBA 
+|**VeriQ**| TBA | TBA |
 
 ## Participants <span class="tag">tentative</span> {#participants}
-From north to south:
+TBA
 
-**RIKEN** — Prof. Suzuki, Dr. Ueno<br>
-**NanoQT** — Dr. Hirano<br>
-**Chuo University** - Prof. Matsuzaki<br>
-**Mercari** — Dr. Kobayashi (F)<br>
-**Keio University** — Nishio, Ms. Ebi, Mr. Ishikawa, Mr. Hirai<br>
-**U Osaka** — Mr. Nilton<br>
-**OIST** — Ms. Zen<br>
-**Qubitcore** — Dr. Miyanishi<br>
-
-* Expected attendance: about 15-20 people (may vary depending on the venue)
-* We’d like to focus on early-career researchers who can actively participate in hands-on activities
+* Expected attendance: about 20 people (may vary depending on the venue)
+* We’d like to focus on researchers who can actively participate in hands-on activities
 * In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible
 * We’ll also invite people who are developing error budgets/simulator for each hardware.
 
