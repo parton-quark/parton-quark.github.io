@@ -90,6 +90,7 @@ As quantum computing emerges as an applied technology, there is a growing need t
 </div></details>
 
 - Shashvat Shukla, Dan E. Browne, **Shin Nishio**
+- Accepted for publication in the proceedings of IEEE International Conference on Quantum Computing and Engineering (QCE2026, IEEE Quantum Week).
 - preprint: [arXiv[quant-ph] 2607.12174 ](https://arxiv.org/abs/2607.12174)
 
 ### 18. Treewidth-Aware Gate Cut Selection for Reducing Transpilation Overhead on Superconducting Quantum Devices <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
@@ -132,6 +133,7 @@ Local complement is a graph operation formalized by Bouchet which replaces the n
 </div></details>
 
 - Nicholas Connolly, **Shin Nishio**, Kae Nemoto
+- Accepted for publication in Journal of Physics A: Mathematical and Theoretical.
 - preprint: [arxiv[math.CO] 2602.23825](https://arxiv.org/abs/2602.23825)
 
 
@@ -150,6 +152,7 @@ Layered architectures for the Quantum Internet have been proposed, inspired by t
 </div></details>
 
 - Rei Kawano, **Shin Nishio**, Hideaki Kawaguchi, Shota Nagayama, Takahiko Satoh
+- Accepted for publication in IEEE Transactions of Quantum Engineering.
 - preprint: [arxiv[quant-ph] 2512.07475](https://arxiv.org/abs/2512.07475)
 
 ### 11. Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>

@@ -77,6 +77,7 @@ The goal of HEM3 is not necessarily to produce a finished implementation during 
 | **TBA** <span class="star">★</span> | (neutral atom) Compiler &amp; noisy circuit sim | TBA |
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
 | **Quration** | Resource estimator for FTQC | [quration/quration](https://github.com/quration/quration) |
+|VeriQ| TBA | TBA 
 
 ## Participants <span class="tag">tentative</span> {#participants}
 From north to south:
