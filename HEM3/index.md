@@ -79,15 +79,13 @@ We have a presentation for the hackathon results and hold a dicussion.
 |**VeriQ**| TBA | TBA |
 
 ## Participants <span class="tag">tentative</span> {#participants}
-TBA
+### TBA
 - Expected attendance: about 20 people (may vary depending on the venue)
 - We’d like to focus on researchers who can actively participate in hands-on activities
 - In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible
 - We’ll also invite people who are developing error budgets/simulator for each hardware.
 
 ### Partial list of participants
-From north to south:
-
 - **RIKEN** — Prof. Suzuki, Dr. Ueno<br>
 - **Chuo University** - Prof. Matsuzaki<br>
 - **Mercari** — Dr. Kobayashi<br>
