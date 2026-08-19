@@ -116,6 +116,7 @@ In the Noisy Intermediate-Scale Quantum (NISQ) era, limited qubit counts and hig
 </div></details>
 
 - Kazuma Watanabe, Hideaki Kawaguchi, **Shin Nishio**, Takahiko satoh
+- Accepted for publication in the proceedings of IEEE International Conference on Quantum Computing and Engineering (QCE2026, IEEE Quantum Week).
 - preprint: [arXiv[quant-ph] 2605.11500 ](https://arxiv.org/abs/2605.11500)
 
 ### 15. Efficient Preparation of Graph States using the Quotient-Augmented Strong Split Tree <span style="background-color:#e0f7fa; color:#006064; padding:2px 6px; border-radius:4px; font-size:0.85em;">QI</span> <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
@@ -143,8 +144,7 @@ The Quantum Internet will allow clients to delegate quantum workloads to remote 
 </div></details>
 
 - Masaki Nagai, Hideaki Kawaguchi, **Shin Nishio**, Takahiko Satoh
-- preprint: [arxiv[quant-ph] 2602.21007
-](https://arxiv.org/abs/2602.21007)
+- preprint: [arxiv[quant-ph] 2602.21007](https://arxiv.org/abs/2602.21007)
 
 ### 12. RuleSet Generation Framework for Application Layer Integration in Quantum Internet <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
 <details><summary>Abstract</summary><div>
@@ -189,6 +189,7 @@ To evaluate the performance of quantum computing systems relative to classical c
 </div></details>
 
 * Suzukaze Kamei, Hideaki Kawaguchi, **Shin Nishio**, Tatakahiko Satoh
+* Accepted for publication in IEEE Access.
 * preprint: [arxiv[quant-ph] 2503.21514](https://arxiv.org/abs/2503.21514)
 
 ### 8. Use of faulty states in cat-code error correction <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> 
