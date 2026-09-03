@@ -152,7 +152,7 @@ Layered architectures for the Quantum Internet have been proposed, inspired by t
 </div></details>
 
 - Rei Kawano, **Shin Nishio**, Hideaki Kawaguchi, Shota Nagayama, Takahiko Satoh
-- Accepted for publication in IEEE Transactions of Quantum Engineering.
+- IEEE Transactions on Quantum Engineering [early access](https://doi.org/10.1109/TQE.2026.3729244)
 - preprint: [arxiv[quant-ph] 2512.07475](https://arxiv.org/abs/2512.07475)
 
 ### 11. Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span>
@@ -189,7 +189,7 @@ To evaluate the performance of quantum computing systems relative to classical c
 </div></details>
 
 * Suzukaze Kamei, Hideaki Kawaguchi, **Shin Nishio**, Tatakahiko Satoh
-* Accepted for publication in IEEE Access.
+* IEEE Access [doi: 10.1109/ACCESS.2026.3726953](https://doi.org/10.1109/ACCESS.2026.3726953)
 * preprint: [arxiv[quant-ph] 2503.21514](https://arxiv.org/abs/2503.21514)
 
 ### 8. Use of faulty states in cat-code error correction <span style="background-color:#f6cdcb; color:#99211a; padding:2px 6px; border-radius:4px; font-size:0.85em;">QEC</span> 
