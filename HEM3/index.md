@@ -21,7 +21,7 @@
 
 ## Background &amp; Motivation {#background}
 
-FTQC theorists are working across different physical-system projects in Moonshot, and there is an opportunity to further promote theoretical research and collaboration across different physical systems, within the Moonshot program and more broadly across Japan.  Following the success of the [decoder camp](https://github.com/ysuzuki-qc/qec_camp_1d_rep_code) held at Kyushu University in February 2026, we will host a hackathon and exchange meeting in Osaka to further facilitate such interactions and bring together FTQC theorist / experimentalist from across the Moonshot program and beyond.
+FTQC theorists are working across different physical-system projects in Moonshot (National project for FTQC in Japan), and there is an opportunity to further promote theoretical research and collaboration across different physical systems, within the Moonshot program and more broadly across Japan.  Following the success of the [decoder camp](https://github.com/ysuzuki-qc/qec_camp_1d_rep_code) held at Kyushu University in February 2026, we will host a hackathon and exchange meeting in Osaka to further facilitate such interactions and bring together FTQC theorist / experimentalist from across the Moonshot program and beyond.
 
 The event will also provide opportunities for interaction and collaboration with observer companies. Participants will utilize software developed through Moonshot projects, such as device-aware compilation tools, noisy-circuit simulators, and resource estimators for FTQC.
 
@@ -34,14 +34,12 @@ The goal of HEM3 is not necessarily to produce a completed implementation during
 
 ### Day 1 — Introduction to each system &amp; software suite <span class="tag">tentative</span>
 
-<span class="star">★</span> connected to [Stim](https://github.com/quantumlib/Stim)
-
 | Time | Session | Presenter |
 |---|---|---|
 | 10:00 | Opening & Discussion: What are the **wrong** abstractions in current FTQC? | Nishio |
-| 10:30 | **TBA** <span class="star">★</span> (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa & Mr. Hirai |
-| 11:00 | **Losssim** <span class="star">★</span>: circuit-level loss / erasure sim | Nishio |
-| 11:30 | **TBA** (neutral atom) <span class="star">★</span>: compiler &amp; noisy circuit sim | Dr. Kobayashi |
+| 10:30 | **TBA**  (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa & Mr. Hirai |
+| 11:00 | **Losssim** : circuit-level loss / erasure sim | Nishio |
+| 11:30 | **TBA** (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
 | 12:00 | Lunch and discussion | — |
 | 13:30 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
 | 14:00 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
@@ -73,10 +71,11 @@ We have a presentation for the hackathon results and hold a dicussion.
 | **Traqer** <span class="star">★</span> | (QCCD trapped-ion) Compiler &amp; noisy circuit sim | TBA |
 | **Losssim** <span class="star">★</span> | Circuit-level loss / erasure sim | TBA |
 | **TBA** <span class="star">★</span> | non-Clifford circuit simulator for non-Pauli stabilzer codes | TBA |
-| **TBA** <span class="star">★</span> | (neutral atom) Compiler &amp; noisy circuit sim | TBA |
+| **DualYbSim** <span class="star">★</span> | (neutral atom) Compiler &amp; noisy circuit sim | [FumiKobayashi/DualYbSim](https://github.com/FumiKobayashi/DualYbSim) |
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
-| **Quration** | Resource estimator for FTQC | [quration/quration](https://github.com/quration/quration) |
-|**VeriQ**| TBA | TBA |
+| **Quration** | Quantum Resource Estimation Toolchain | [quration/quration](https://github.com/quration/quration) |
+|**VeriQ**| Logical error rate simulator for low error rate less than $10^{-15}$ | TBA |
+|**CoQtail**|Quantum circuit and QEC visualizer |[CoQtail](https://www.ipa.go.jp/jinzai/mitou/target/2024/nl10bi000000dnye-att/seikagaiyou-ty-2.pdf)|
 
 ## Participants <span class="tag">tentative</span> {#participants}
 ### TBA
