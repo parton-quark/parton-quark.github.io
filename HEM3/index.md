@@ -4,9 +4,10 @@
   <div class="hero-date">2026/11/25(Wed)–27(Fri)</div>
   <h1>FTQC HEM3</h1>
   <p class="hero-subtitle">FTQC Hackathon &amp; Exchange Meeting for 3 days @ The University of Osaka </p>
-  <p class="hero-organizer">Organized by Shin Nishio<br>
-  Research Associate, University College London<br>
-  Project Assistant Professor, Keio University</p>
+  <p class="hero-organizer">Initiator: Shin Nishio (UCL & Keio University)</p>
+  <p class="hero-organizer">Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br>
+  Local Organizer: Nilton Filho (Osaka University)</p>
+
 </div>
 
 <nav class="site-nav">
@@ -26,9 +27,6 @@ FTQC theorists are working across different physical-system projects in Moonshot
 The event will also provide opportunities for interaction and collaboration with observer companies. Participants will utilize software developed through Moonshot projects, such as device-aware compilation tools, noisy-circuit simulators, and resource estimators for FTQC.
 
 The goal of HEM3 is not necessarily to produce a completed implementation during the event. We encourage participants to use the hackathon to identify interesting research questions, develop new formulations, test early ideas, and initiate collaborations that may continue beyond HEM3.
-
-**Organizers**: Shin Nishio,  Dr. Fumiyoshi Kobayashi (Mercari)<br>
-**Local Organizer**: Mr. Nilton Filho<br>
 
 ## Program {#program}
 
