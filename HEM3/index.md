@@ -34,14 +34,14 @@ The goal of HEM3 is not necessarily to produce a completed implementation during
 
 | Time | Session | Presenter |
 |---|---|---|
-| 10:00 | Opening & Discussion: What are the **wrong** abstractions in current FTQC? | Nishio |
+| 10:00 | Opening & Discussion: What are the **wrong** abstractions in current FTQC research? | Nishio |
 | 10:30 | **TBA**  (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa & Mr. Hirai |
 | 11:00 | **Losssim** : circuit-level loss / erasure sim | Nishio |
-| 11:30 | **TBA** (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
+| 11:30 | **DualYbSim** (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
 | 12:00 | Lunch and discussion | — |
 | 13:30 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
 | 14:00 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
-| 14:30 | **VeriQ** | Prof. Soeda |
+| 14:30 | **VeriQ**: Verifying logical error rates | Prof. Soeda |
 | 15:00 | Brainstorming &amp; team forming (if necessary) | Nishio |
 | 16:00 – | Happy Hacking! | — |
 
@@ -53,12 +53,13 @@ We have a presentation for the hackathon results and hold a dicussion.
 
 ### What shall we work on?
 
-* Hardware-aware something — decoding, resource estimation, compilation, ...
+* Hardware-aware technique — decoding, resource estimation, compilation, ...
 * Design architecture and criteria
 * Try your favorite codes on multiple devices
 * Make simulators faster (especially loss sim is very slow...)
 * Connect simulators and resource estimator
 * Program analysis on intermediate representations
+
 
 ## Resources {#resources}
 
@@ -69,28 +70,39 @@ We have a presentation for the hackathon results and hold a dicussion.
 | **Traqer** <span class="star">★</span> | (QCCD trapped-ion) Compiler &amp; noisy circuit sim | TBA |
 | **Losssim** <span class="star">★</span> | Circuit-level loss / erasure sim | TBA |
 | **TBA** <span class="star">★</span> | non-Clifford circuit simulator for non-Pauli stabilzer codes | TBA |
-| **DualYbSim** <span class="star">★</span> | (neutral atom) Compiler &amp; noisy circuit sim | [FumiKobayashi/DualYbSim](https://github.com/FumiKobayashi/DualYbSim) |
+| **DualYbSim** <span class="star">★</span> | (neutral atom) Noisy circuit sim | [FumiKobayashi/DualYbSim](https://github.com/FumiKobayashi/DualYbSim) |
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
 | **Quration** | Quantum Resource Estimation Toolchain | [quration/quration](https://github.com/quration/quration) |
 |**VeriQ**| Logical error rate simulator for low error rate less than $10^{-15}$ | TBA |
 |**CoQtail**|Quantum circuit and QEC visualizer |[CoQtail](https://www.ipa.go.jp/jinzai/mitou/target/2024/nl10bi000000dnye-att/seikagaiyou-ty-2.pdf)|
+|**NAQsim**|Architecture-level simulation framework for neutral-atom|[NAQsim](https://github.com/naqsim/naqsim)|
 
-## Participants <span class="tag">tentative</span> {#participants}
-### TBA
-- Expected attendance: about 20 people (may vary depending on the venue)
-- We’d like to focus on researchers who can actively participate in hands-on activities
-- In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible
-- We’ll also invite people who are developing error budgets/simulator for each hardware.
+## Participants {#participants}
+<!-- We’d like to focus on researchers who can actively participate in hands-on activities. In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible. We’ll also invite people who are developing error budgets/simulator for each hardware. -->
 
-### Partial list of participants
-- **RIKEN** — Prof. Suzuki, Dr. Ueno<br>
-- **Chuo University** - Prof. Matsuzaki<br>
-- **Mercari** — Dr. Kobayashi<br>
-- **Keio University** — Nishio, Mr. Ishikawa, Mr. Hirai<br>
-- **U Osaka** — Mr. Nilton<br>
-- **OIST** — Ms. Zen<br>
-- **Qubitcore** — Dr. Miyanishi<br>
-Let me know if you have any candidates!
+Akihito Soeda - *National Institute of Informatics*<br>
+Chen Jiajun - *Okinawa Institute of Science and Technology*<br>
+Eitaro Ishikawa - *Keio University*<br>
+Fumiyoshi Kobayashi, - *Mercari, inc.*<br>
+Hiroki Fukuhara　- *The University of Osaka*<br>
+Isamu Kudo -  *Keio University* and *Mitsubishi Electric Corporation*<br>
+Joshua Casapao - *JAIST*<br>
+Junichi Haruna - *Kyoto University*<br>
+Koichiro Miyanishi, - *Qubitcore Inc.,*<br>
+Kohei Yamamoto - *The University of Osaka*<br>
+Nilton Filho -  *Osaka University*<br>
+Noah Hirai - *Keio University*<br>
+Riki Toshio - *Fujitsu Ltd*<br>
+Ryo Wakizaka - *IBM Research Tokyo*<br>
+Salome Hayes-Shuptar - *Okinawa Institute of Science and Technology*<br>
+Shin Nishio -  *University College London* and *Keio University*<br>
+Sota Nakamura - *Kyoto University*<br>
+Takumi Akiyama - *The University of Osaka*<br>
+Teruo Tanimoto - *Kyusyu University*<br>
+Yasunari Suzuki - *RIKEN*<br>
+Yosuke Ueno - *RIKEN*<br>
+Yuichiro Matsuzaki -  *Chuo University*<br>
+Yusuke Machida - *Chuo University*<br>
 
 ## Venue <span class="tag">tentative</span> {#venue}
 Toyonaka Campus, The University of Osaka
@@ -101,7 +113,7 @@ Toyonaka Campus, The University of Osaka
 
 ## Contact {#contact}
 
-All details on this page — venue, and participant list — are still tentative. If you're interested in joining, or have suggestions for participants, tools, or venues, please get in touch.
+If you're interested in joining, or have suggestions for participants, tools, or venues, please get in touch.
 
 * Shin Nishio — email: parton (at) sfc.wide.ad.jp
-* [parton-quark.github.io](https://parton-quark.github.io/)
+  * [parton-quark.github.io](https://parton-quark.github.io/)

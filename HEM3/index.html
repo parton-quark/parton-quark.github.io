@@ -264,7 +264,6 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 <p>FTQC theorists are working across different physical-system projects in Moonshot (National project for FTQC in Japan), and there is an opportunity to further promote theoretical research and collaboration across different physical systems, within the Moonshot program and more broadly across Japan. Following the success of the <a href="https://github.com/ysuzuki-qc/qec_camp_1d_rep_code">decoder camp</a> held at Kyushu University in February 2026, we will host a hackathon and exchange meeting in Osaka to further facilitate such interactions and bring together FTQC theorist / experimentalist from across the Moonshot program and beyond.</p>
 <p>The event will also provide opportunities for interaction and collaboration with observer companies. Participants will utilize software developed through Moonshot projects, such as device-aware compilation tools, noisy-circuit simulators, and resource estimators for FTQC.</p>
 <p>The goal of HEM3 is not necessarily to produce a completed implementation during the event. We encourage participants to use the hackathon to identify interesting research questions, develop new formulations, test early ideas, and initiate collaborations that may continue beyond HEM3.</p>
-<p><strong>Organizers</strong>: Shin Nishio, Dr. Fumiyoshi Kobayashi (Mercari)<br> <strong>Local Organizer</strong>: Mr. Nilton Filho<br></p>
 <h2 id="program">Program</h2>
 <h3 id="day-1-introduction-to-each-system-software-suite-tentative">Day 1 — Introduction to each system &amp; software suite <span class="tag">tentative</span></h3>
 <table>
@@ -283,7 +282,7 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 <tbody>
 <tr class="odd">
 <td>10:00</td>
-<td>Opening &amp; Discussion: What are the <strong>wrong</strong> abstractions in current FTQC?</td>
+<td>Opening &amp; Discussion: What are the <strong>wrong</strong> abstractions in current FTQC research?</td>
 <td>Nishio</td>
 </tr>
 <tr class="even">
@@ -298,7 +297,7 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 </tr>
 <tr class="even">
 <td>11:30</td>
-<td><strong>TBA</strong> (neutral atom): compiler &amp; noisy circuit sim</td>
+<td><strong>DualYbSim</strong> (neutral atom): compiler &amp; noisy circuit sim</td>
 <td>Dr. Kobayashi</td>
 </tr>
 <tr class="odd">
@@ -318,7 +317,7 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 </tr>
 <tr class="even">
 <td>14:30</td>
-<td><strong>VeriQ</strong></td>
+<td><strong>VeriQ</strong>: Verifying logical error rates</td>
 <td>Prof. Soeda</td>
 </tr>
 <tr class="odd">
@@ -339,7 +338,7 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 <p>We have a presentation for the hackathon results and hold a dicussion.</p>
 <h3 id="what-shall-we-work-on">What shall we work on?</h3>
 <ul>
-<li>Hardware-aware something — decoding, resource estimation, compilation, …</li>
+<li>Hardware-aware technique — decoding, resource estimation, compilation, …</li>
 <li>Design architecture and criteria</li>
 <li>Try your favorite codes on multiple devices</li>
 <li>Make simulators faster (especially loss sim is very slow…)</li>
@@ -379,7 +378,7 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 </tr>
 <tr class="even">
 <td><strong>DualYbSim</strong> <span class="star">★</span></td>
-<td>(neutral atom) Compiler &amp; noisy circuit sim</td>
+<td>(neutral atom) Noisy circuit sim</td>
 <td><a href="https://github.com/FumiKobayashi/DualYbSim">FumiKobayashi/DualYbSim</a></td>
 </tr>
 <tr class="odd">
@@ -402,26 +401,16 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 <td>Quantum circuit and QEC visualizer</td>
 <td><a href="https://www.ipa.go.jp/jinzai/mitou/target/2024/nl10bi000000dnye-att/seikagaiyou-ty-2.pdf">CoQtail</a></td>
 </tr>
+<tr class="odd">
+<td><strong>NAQsim</strong></td>
+<td>Architecture-level simulation framework for neutral-atom</td>
+<td><a href="https://github.com/naqsim/naqsim">NAQsim</a></td>
+</tr>
 </tbody>
 </table>
-<h2 id="participants">Participants <span class="tag">tentative</span></h2>
-<h3 id="tba">TBA</h3>
-<ul>
-<li>Expected attendance: about 20 people (may vary depending on the venue)</li>
-<li>We’d like to focus on researchers who can actively participate in hands-on activities</li>
-<li>In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible</li>
-<li>We’ll also invite people who are developing error budgets/simulator for each hardware.</li>
-</ul>
-<h3 id="partial-list-of-participants">Partial list of participants</h3>
-<ul>
-<li><strong>RIKEN</strong> — Prof. Suzuki, Dr. Ueno<br></li>
-<li><strong>Chuo University</strong> - Prof. Matsuzaki<br></li>
-<li><strong>Mercari</strong> — Dr. Kobayashi<br></li>
-<li><strong>Keio University</strong> — Nishio, Mr. Ishikawa, Mr. Hirai<br></li>
-<li><strong>U Osaka</strong> — Mr. Nilton<br></li>
-<li><strong>OIST</strong> — Ms. Zen<br></li>
-<li><strong>Qubitcore</strong> — Dr. Miyanishi<br> Let me know if you have any candidates!</li>
-</ul>
+<h2 id="participants">Participants</h2>
+<!-- We’d like to focus on researchers who can actively participate in hands-on activities. In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible. We’ll also invite people who are developing error budgets/simulator for each hardware. -->
+<p>Akihito Soeda - <em>National Institute of Informatics</em><br> Chen Jiajun - <em>Okinawa Institute of Science and Technology</em><br> Eitaro Ishikawa - <em>Keio University</em><br> Fumiyoshi Kobayashi, - <em>Mercari, inc.</em><br> Hiroki Fukuhara　- <em>The University of Osaka</em><br> Isamu Kudo - <em>Keio University</em> and <em>Mitsubishi Electric Corporation</em><br> Joshua Casapao - <em>JAIST</em><br> Junichi Haruna - <em>Kyoto University</em><br> Koichiro Miyanishi, - <em>Qubitcore Inc.,</em><br> Kohei Yamamoto - <em>The University of Osaka</em><br> Nilton Filho - <em>Osaka University</em><br> Noah Hirai - <em>Keio University</em><br> Riki Toshio - <em>Fujitsu Ltd</em><br> Ryo Wakizaka - <em>IBM Research Tokyo</em><br> Salome Hayes-Shuptar - <em>Okinawa Institute of Science and Technology</em><br> Shin Nishio - <em>University College London</em> and <em>Keio University</em><br> Sota Nakamura - <em>Kyoto University</em><br> Takumi Akiyama - <em>The University of Osaka</em><br> Teruo Tanimoto - <em>Kyusyu University</em><br> Yasunari Suzuki - <em>RIKEN</em><br> Yosuke Ueno - <em>RIKEN</em><br> Yuichiro Matsuzaki - <em>Chuo University</em><br> Yusuke Machida - <em>Chuo University</em><br></p>
 <h2 id="venue">Venue <span class="tag">tentative</span></h2>
 <p>Toyonaka Campus, The University of Osaka</p>
 <center>
@@ -429,10 +418,12 @@ Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br> Local Organizer: Nilton Filho (
 </iframe>
 </center>
 <h2 id="contact">Contact</h2>
-<p>All details on this page — venue, and participant list — are still tentative. If you’re interested in joining, or have suggestions for participants, tools, or venues, please get in touch.</p>
+<p>If you’re interested in joining, or have suggestions for participants, tools, or venues, please get in touch.</p>
 <ul>
-<li>Shin Nishio — email: parton (at) sfc.wide.ad.jp</li>
+<li>Shin Nishio — email: parton (at) sfc.wide.ad.jp
+<ul>
 <li><a href="https://parton-quark.github.io/">parton-quark.github.io</a></li>
+</ul></li>
 </ul>
 </body>
 </html>
