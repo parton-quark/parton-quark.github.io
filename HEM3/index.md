@@ -6,7 +6,7 @@
   <p class="hero-subtitle">FTQC Hackathon &amp; Exchange Meeting for 3 days @ The University of Osaka </p>
   <p class="hero-organizer">Initiator: Shin Nishio (UCL & Keio University)</p>
   <p class="hero-organizer">Organizer: Fumiyoshi Kobayashi (Mercari R4D)<br>
-  Local Organizer: Nilton Filho (Osaka University)</p>
+  Local Organizer: Nilton Filho (The University of Osaka)</p>
 
 </div>
 
@@ -90,7 +90,7 @@ Joshua Casapao - *JAIST*<br>
 Junichi Haruna - *Kyoto University*<br>
 Koichiro Miyanishi, - *Qubitcore Inc.,*<br>
 Kohei Yamamoto - *The University of Osaka*<br>
-Nilton Filho -  *Osaka University*<br>
+Nilton Filho -  *The University of Osaka*<br>
 Noah Hirai - *Keio University*<br>
 Riki Toshio - *Fujitsu Ltd*<br>
 Ryo Wakizaka - *IBM Research Tokyo*<br>
