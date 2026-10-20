@@ -91,7 +91,7 @@ As quantum computing emerges as an applied technology, there is a growing need t
 
 - Shashvat Shukla, Dan E. Browne, **Shin Nishio**
 - Accepted for publication in the proceedings of IEEE International Conference on Quantum Computing and Engineering (QCE2026, IEEE Quantum Week).
-- preprint: [arXiv[quant-ph] 2607.12174 ](https://arxiv.org/abs/2607.12174)
+- preprint: [arXiv[quant-ph] 2607.12174](https://arxiv.org/abs/2607.12174)
 
 ### 18. Treewidth-Aware Gate Cut Selection for Reducing Transpilation Overhead on Superconducting Quantum Devices <span style="background-color:#f7caf5; color:#c21fba; padding:2px 6px; border-radius:4px; font-size:0.85em;">SYS</span>
 <details><summary>Abstract</summary><div>
@@ -134,7 +134,7 @@ Local complement is a graph operation formalized by Bouchet which replaces the n
 </div></details>
 
 - Nicholas Connolly, **Shin Nishio**, Kae Nemoto
-- Accepted for publication in Journal of Physics A: Mathematical and Theoretical.
+- IOP Science Journal of Physics A: Mathematical and Theoretical [Volume 59, Number 39](https://doi.org/10.1088/1751-8121/aea45d)
 - preprint: [arxiv[math.CO] 2602.23825](https://arxiv.org/abs/2602.23825)
 
 
