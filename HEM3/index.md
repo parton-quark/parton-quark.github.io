@@ -30,23 +30,22 @@ The goal of HEM3 is not necessarily to produce a completed implementation during
 
 ## Program {#program}
 
-### Day 1 — Introduction to each system &amp; software suite <span class="tag">tentative</span>
+### Day 1 — Introduction to physical systems &amp; software suite
 
 | Time | Session | Presenter |
 |---|---|---|
 | 10:00 | Opening & Discussion: What are the **wrong** abstractions in current FTQC research? | Nishio |
-| 10:30 | **TBA**  (trapped ion): compiler &amp; noisy circuit sim | Mr. Ishikawa & Mr. Hirai |
-| 11:00 | **Losssim** : circuit-level loss / erasure sim | Nishio |
-| 11:30 | **DualYbSim** (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
-| 12:00 | Lunch and discussion | — |
-| 13:30 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
-| 14:00 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
-| 14:30 | **VeriQ**: Verifying logical error rates | Prof. Soeda |
-| 15:00 | Brainstorming &amp; team forming (if necessary) | Nishio |
-| 16:00 – | Happy Hacking! | — |
+| 10:30 | **Tracking Shuttling and Heating for QEC in 1D QCCD trapped ion architecture** | Mr. Ishikawa & Mr. Hirai |
+| 11:00 | **DualYbSim** (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
+| 11:30 | Lunch and discussion | — |
+| 13:00 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
+| 13:30 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
+| 14:00 | **VeriQ**: Verifying logical error rates | Prof. Soeda |
+| 14:30 | Brainstorming &amp; team forming (if necessary) | Nishio |
+| 15:00 – 18:00 | Happy Hacking! | — |
 
 ### Day 2 — Hacking
-13:00-13:30 Mid discussion
+13:00-14:00 Mid discussion
 
 ### Day 3 — Hacking and Presentations
 We have a presentation for the hackathon results and hold a dicussion.
@@ -61,7 +60,7 @@ We have a presentation for the hackathon results and hold a dicussion.
 * Program analysis on intermediate representations
 
 
-## Resources {#resources}
+## Hackathon Resources {#resources}
 
 <span class="star">★</span> connected to [Stim](https://github.com/quantumlib/Stim)
 
@@ -73,9 +72,9 @@ We have a presentation for the hackathon results and hold a dicussion.
 | **DualYbSim** <span class="star">★</span> | (neutral atom) Noisy circuit sim | [FumiKobayashi/DualYbSim](https://github.com/FumiKobayashi/DualYbSim) |
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
 | **Quration** | Quantum Resource Estimation Toolchain | [quration/quration](https://github.com/quration/quration) |
-|**VeriQ**| Logical error rate simulator for low error rate less than $10^{-15}$ | TBA |
+|**VeriQ**| Certified Logical Error Bounds via Loop Verification for Stabilizer Circuits | TBA |
 |**CoQtail**|Quantum circuit and QEC visualizer |[CoQtail](https://www.ipa.go.jp/jinzai/mitou/target/2024/nl10bi000000dnye-att/seikagaiyou-ty-2.pdf)|
-|**NAQsim**|Architecture-level simulation framework for neutral-atom|[NAQsim](https://github.com/naqsim/naqsim)|
+|**NAQsim**|(neutral-atom) Architecture-level simulation framework|[NAQsim](https://github.com/naqsim/naqsim)|
 
 ## Participants {#participants}
 <!-- We’d like to focus on researchers who can actively participate in hands-on activities. In general, we’ll invite people who are open to future collaborative research and for whom it is administratively feasible. We’ll also invite people who are developing error budgets/simulator for each hardware. -->
@@ -83,37 +82,49 @@ We have a presentation for the hackathon results and hold a dicussion.
 Akihito Soeda - *National Institute of Informatics*<br>
 Chen Jiajun - *Okinawa Institute of Science and Technology*<br>
 Eitaro Ishikawa - *Keio University*<br>
+Eito Takenouchi - *Kyoto University*<br>
 Fumiyoshi Kobayashi, - *Mercari, inc.*<br>
 Hiroki Fukuhara　- *The University of Osaka*<br>
 Isamu Kudo -  *Keio University* and *Mitsubishi Electric Corporation*<br>
 Joshua Casapao - *JAIST*<br>
 Junichi Haruna - *Kyoto University*<br>
 Koichiro Miyanishi, - *Qubitcore Inc.,*<br>
-Kohei Yamamoto - *The University of Osaka*<br>
+Kohei Yamamoto - *The University of Osaka*<br
+Machida 
+Nicholas Connolly - *Yaqumo Inc.*
 Nilton Filho -  *The University of Osaka*<br>
 Noah Hirai - *Keio University*<br>
 Riki Toshio - *Fujitsu Ltd*<br>
-Ryo Wakizaka - *IBM Research Tokyo*<br>
 Salome Hayes-Shuptar - *Okinawa Institute of Science and Technology*<br>
 Shin Nishio -  *University College London* and *Keio University*<br>
 Sota Nakamura - *Kyoto University*<br>
 Takumi Akiyama - *The University of Osaka*<br>
 Teruo Tanimoto - *Kyusyu University*<br>
+Xiaorang Guo - *Riken*<br>
+Yasuhiro Aota - *Chuo University*<br>
 Yasunari Suzuki - *RIKEN*<br>
 Yosuke Ueno - *RIKEN*<br>
 Yuichiro Matsuzaki -  *Chuo University*<br>
 Yusuke Machida - *Chuo University*<br>
 
-## Venue <span class="tag">tentative</span> {#venue}
+## Venue {#venue}
 Toyonaka Campus, The University of Osaka
 
 <center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.1233744285023!2d135.45138478553164!3d34.80283780782253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000fb00695fa84b%3A0x85cdf459e55340f4!2z5aSn6Ziq5aSn5a2m6YeP5a2Q5oOF5aCx44O76YeP5a2Q55Sf5ZG956CU56m244K744Oz44K_44O8IENlbnRlciBmb3IgUXVhbnR1bSBJbmZvcm1hdGlvbiBhbmQgUXVhbnR1bSBCaW9sb2d5LCBUaGUgVW5pdmVyc2l0eSBvZiBPc2FrYe-8iFFJUULvvIk!5e0!3m2!1sja!2ses!4v1786111054944!5m2!1sja!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </center>
 
+### 11/25-26
+- 9:00~19:00 豊中共創棟 A棟7階 共通講義室４ / Lecture room 4, 7th floor, Toyonaka Co-Creation Building A [map](https://www.osaka-u.ac.jp/en/schools/facilities/tccb_b)
+
+### 11/27
+- 09:00~13:00　豊中共創棟 A棟7階　共通講義室3 / Lecture room 3, 7th floor, Toyonaka Co-Creation Building A [map](https://www.osaka-u.ac.jp/en/schools/facilities/tccb_b)
+- 13:00~16:30　基礎工学研究科棟G棟2階　基礎工セミナー室 G215-221 / Graduate School of Engineering Science, Building G, 2nd Floor, Kiso-ko Seminar Room G215-221 [map](https://www.es.osaka-u.ac.jp/en/accessmap/index.html)
+- 16:40~19:00　(if nessesary) 豊中共創棟 A棟6階　共通講義室1 /  Lecture room 1, 6th floor, Toyonaka Co-Creation Building A [map](https://www.osaka-u.ac.jp/en/schools/facilities/tccb_b)
+
 ## Contact {#contact}
 
-If you're interested in joining, or have suggestions for participants, tools, or venues, please get in touch.
+~If you're interested in joining, or have suggestions for participants, tools, or venues, please get in touch.~
+Closed
 
-* Shin Nishio — email: parton (at) sfc.wide.ad.jp
-  * [parton-quark.github.io](https://parton-quark.github.io/)
+* [Shin Nishio](https://parton-quark.github.io/) — email: parton (at) sfc.wide.ad.jp
