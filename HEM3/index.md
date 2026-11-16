@@ -98,7 +98,7 @@ Salome Hayes-Shuptar - *Okinawa Institute of Science and Technology*<br>
 Shin Nishio -  *University College London* and *Keio University*<br>
 Sota Nakamura - *Kyoto University*<br>
 Takumi Akiyama - *The University of Osaka*<br>
-Teruo Tanimoto - *Kyusyu University*<br>
+Teruo Tanimoto - *Kyushu University*<br>
 Xiaorang Guo - *Riken*<br>
 Yasuhiro Aota - *Chuo University*<br>
 Yasunari Suzuki - *RIKEN*<br>
