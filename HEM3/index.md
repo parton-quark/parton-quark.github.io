@@ -89,9 +89,8 @@ Isamu Kudo -  *Keio University* and *Mitsubishi Electric Corporation*<br>
 Joshua Casapao - *JAIST*<br>
 Junichi Haruna - *Kyoto University*<br>
 Koichiro Miyanishi, - *Qubitcore Inc.,*<br>
-Kohei Yamamoto - *The University of Osaka*<br
-Machida 
-Nicholas Connolly - *Yaqumo Inc.*
+Kohei Yamamoto - *The University of Osaka*<br>
+Nicholas Connolly - *Yaqumo Inc.*<br>
 Nilton Filho -  *The University of Osaka*<br>
 Noah Hirai - *Keio University*<br>
 Riki Toshio - *Fujitsu Ltd*<br>
