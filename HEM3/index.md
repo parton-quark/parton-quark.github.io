@@ -34,15 +34,17 @@ The goal of HEM3 is not necessarily to produce a completed implementation during
 
 | Time | Session | Presenter |
 |---|---|---|
-| 10:00 | Opening & Discussion: What are the **wrong** abstractions in current FTQC research? | Nishio |
-| 10:30 | **Tracking Shuttling and Heating for QEC in 1D QCCD trapped ion architecture** | Mr. Ishikawa & Mr. Hirai |
-| 11:00 | **DualYbSim** (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
+| 10:00 | Opening & Discussion: What are the wrong abstractions in current FTQC research? | Nishio |
+| 10:30 | **THeatA**: Tracking Shuttling and Heating for QEC in 1D QCCD trapped ion architecture | Mr. Ishikawa & Mr. Hirai |
+| 11:00 | **DualYbSim**: Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
 | 11:30 | Lunch and discussion | — |
 | 13:00 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
 | 13:30 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
-| 14:00 | **VeriQ**: Verifying logical error rates | Prof. Soeda |
+| 14:00 | **VeriQ**: Verifying logical error rates without simulation | Prof. Soeda |
 | 14:30 | Brainstorming &amp; team forming (if necessary) | Nishio |
 | 15:00 – 18:00 | Happy Hacking! | — |
+
+- Social Dinner 
 
 ### Day 2 — Hacking
 13:00-14:00 Mid discussion
@@ -66,10 +68,10 @@ We have a presentation for the hackathon results and hold a dicussion.
 
 | Tool | Description | GitHub Repository |
 |---|---|---|
-| **Traqer** <span class="star">★</span> | (QCCD trapped-ion) Compiler &amp; noisy circuit sim | TBA |
+| **THeatA** <span class="star">★</span> | (QCCD trapped-ion) Compiler &amp; noisy circuit sim | [paper](https://arxiv.org/abs/2611.30676) [GitHub](https://github.com/MSTakahashiPJ/theata) |
 | **Losssim** <span class="star">★</span> | Circuit-level loss / erasure sim | TBA |
 | **TBA** <span class="star">★</span> | non-Clifford circuit simulator for non-Pauli stabilzer codes | TBA |
-| **DualYbSim** <span class="star">★</span> | (neutral atom) Noisy circuit sim | [FumiKobayashi/DualYbSim](https://github.com/FumiKobayashi/DualYbSim) |
+| **DualYbSim** <span class="star">★</span> | (neutral atom) Noisy circuit sim | [paper](https://arxiv.org/abs/2608.27568) [GitHub](https://github.com/FumiKobayashi/DualYbSim) |
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
 | **Quration** | Quantum Resource Estimation Toolchain | [quration/quration](https://github.com/quration/quration) |
 |**VeriQ**| Certified Logical Error Bounds via Loop Verification for Stabilizer Circuits | TBA |
