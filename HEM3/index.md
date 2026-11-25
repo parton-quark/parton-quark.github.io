@@ -39,7 +39,7 @@ The goal of HEM3 is not necessarily to produce a completed implementation during
 | 11:00 | **DualYbSim**: Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models (neutral atom): compiler &amp; noisy circuit sim | Dr. Kobayashi |
 | 11:30 | Lunch and discussion | — |
 | 13:00 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
-| 13:30 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
+| 13:30 | **Quration**: resource estimator for FTQC | Prof. Suzuki |
 | 14:00 | How can we guarantee a logical error rate for a surface code? | Prof. Soeda |
 | 14:30 | Brainstorming &amp; team forming (if necessary) | Nishio |
 | 15:00 – 18:00 | Happy Hacking! | — |
