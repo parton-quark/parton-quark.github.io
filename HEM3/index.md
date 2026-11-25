@@ -75,7 +75,7 @@ We have a presentation for the hackathon results and hold a dicussion.
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
 | **Quration** | Quantum Resource Estimation Toolchain | [quration/quration](https://github.com/quration/quration) |
 |**VeriQ**| Certified Logical Error Bounds via Loop Verification for Stabilizer Circuits | TBA |
-|**CoQtail**|Quantum circuit and QEC visualizer |[CoQtail](https://www.ipa.go.jp/jinzai/mitou/target/2024/nl10bi000000dnye-att/seikagaiyou-ty-2.pdf)|
+|**CoQtail**|Quantum circuit and QEC visualizer |[Web App](https://lite.coqtail.io/)|
 |**NAQsim**|(neutral-atom) Architecture-level simulation framework|[NAQsim](https://github.com/naqsim/naqsim)|
 
 ## Participants {#participants}
