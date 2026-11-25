@@ -40,7 +40,7 @@ The goal of HEM3 is not necessarily to produce a completed implementation during
 | 11:30 | Lunch and discussion | — |
 | 13:00 | **TBA** (superconductor): compiler &amp; noisy circuit sim | Prof. Matsuzaki |
 | 13:30 | **Quration**: resource estimator for FTQC | Dr. Suzuki |
-| 14:00 | **VeriQ**: Verifying logical error rates without simulation | Prof. Soeda |
+| 14:00 | How can we guarantee a logical error rate for a surface code? | Prof. Soeda |
 | 14:30 | Brainstorming &amp; team forming (if necessary) | Nishio |
 | 15:00 – 18:00 | Happy Hacking! | — |
 
