@@ -69,8 +69,7 @@ We have a presentation for the hackathon results and hold a dicussion.
 | Tool | Description | GitHub Repository |
 |---|---|---|
 | **THeatA** <span class="star">★</span> | (QCCD trapped-ion) Compiler &amp; noisy circuit sim | [paper](https://arxiv.org/abs/2611.30676) [GitHub](https://github.com/MSTakahashiPJ/theata) |
-| **Losssim** <span class="star">★</span> | Circuit-level loss / erasure sim | TBA |
-| **TBA** <span class="star">★</span> | non-Clifford circuit simulator for non-Pauli stabilzer codes | TBA |
+| **tlsim** <span class="star">★</span> | Circuit-level loss / erasure sim | [GitHub](https://github.com/parton-quark/tlsim) |
 | **DualYbSim** <span class="star">★</span> | (neutral atom) Noisy circuit sim | [paper](https://arxiv.org/abs/2608.27568) [GitHub](https://github.com/FumiKobayashi/DualYbSim) |
 | **TBA** | (superconductor) Compiler &amp; noisy circuit sim | TBA |
 | **Quration** | Quantum Resource Estimation Toolchain | [quration/quration](https://github.com/quration/quration) |
